@@ -1,0 +1,3641 @@
+,name,category,ingredient
+0,Gauguin,Cocktail Classics,Light Rum
+1,Gauguin,Cocktail Classics,Passion Fruit Syrup
+2,Gauguin,Cocktail Classics,Lemon Juice
+3,Gauguin,Cocktail Classics,Lime Juice
+4,Fort Lauderdale,Cocktail Classics,Light Rum
+5,Fort Lauderdale,Cocktail Classics,Sweet Vermouth
+6,Fort Lauderdale,Cocktail Classics,Juice of Orange
+7,Fort Lauderdale,Cocktail Classics,Juice of a Lime
+8,Apple Pie,Cordials and Liqueurs,Apple schnapps
+9,Apple Pie,Cordials and Liqueurs,Cinnamon schnapps
+10,Cuban Cocktail No. 1,Cocktail Classics,Juice of a Lime
+11,Cuban Cocktail No. 1,Cocktail Classics,Powdered Sugar
+12,Cuban Cocktail No. 1,Cocktail Classics,Light Rum
+13,Cool Carlos,Cocktail Classics,Dark rum
+14,Cool Carlos,Cocktail Classics,Cranberry Juice
+15,Cool Carlos,Cocktail Classics,Pineapple Juice
+16,Cool Carlos,Cocktail Classics,Orange curacao
+17,Cool Carlos,Cocktail Classics,Sour Mix
+18,John Collins,Whiskies,Bourbon whiskey
+19,John Collins,Whiskies,Fresh lemon juice
+20,John Collins,Whiskies,Simple Syrup
+21,John Collins,Whiskies,Soda water
+22,John Collins,Whiskies,"Orange and lemon wheels, maraschino cherry"
+23,Cherry Rum,Cocktail Classics,Light Rum
+24,Cherry Rum,Cocktail Classics,cherry-flavored brandy
+25,Cherry Rum,Cocktail Classics,Light cream
+26,Casa Blanca,Cocktail Classics,Light Rum
+27,Casa Blanca,Cocktail Classics,Lime Juice
+28,Casa Blanca,Cocktail Classics,Triple Sec
+29,Casa Blanca,Cocktail Classics,Maraschino
+30,Caribbean Champagne,Cocktail Classics,Light Rum
+31,Caribbean Champagne,Cocktail Classics,Creme de banana
+32,Amber Amour,Cordials and Liqueurs,Amaretto
+33,Amber Amour,Cordials and Liqueurs,Fresh lemon juice
+34,Amber Amour,Cordials and Liqueurs,Simple Syrup
+35,The Joe Lewis,Whiskies,Scotch Whiskey
+36,The Joe Lewis,Whiskies,Fresh carrot juice
+37,The Joe Lewis,Whiskies,Tawny port
+38,The Joe Lewis,Whiskies,Fresh lemon juice
+39,The Joe Lewis,Whiskies,Agave nectar
+40,Bacardi Cocktail,Cocktail Classics,Bacardi Rum
+41,Bacardi Cocktail,Cocktail Classics,Juice of a Lime
+42,Bacardi Cocktail,Cocktail Classics,Grenadine
+43,Apple Pie No. 1,Cocktail Classics,Light Rum
+44,Apple Pie No. 1,Cocktail Classics,Sweet Vermouth
+45,Apple Pie No. 1,Cocktail Classics,Apple Brandy
+46,Apple Pie No. 1,Cocktail Classics,Grenadine
+47,Apple Pie No. 1,Cocktail Classics,Lemon Juice
+48,Yolanda,Cocktail Classics,Brandy
+49,Yolanda,Cocktail Classics,Gin
+50,Yolanda,Cocktail Classics,Anisette
+51,Yolanda,Cocktail Classics,Sweet Vermouth
+52,Yolanda,Cocktail Classics,Grenadine
+53,Yellow Rattler,Cocktail Classics,Gin
+54,Yellow Rattler,Cocktail Classics,Orange Juice
+55,Yellow Rattler,Cocktail Classics,Dry Vermouth
+56,Yellow Rattler,Cocktail Classics,Sweet Vermouth
+57,Why Not?,Cocktail Classics,Gin
+58,Why Not?,Cocktail Classics,Apricot Flavored Brandy
+59,Why Not?,Cocktail Classics,Dry Vermouth
+60,Why Not?,Cocktail Classics,Lemon Juice
+61,Amaretto Stinger,Cordials and Liqueurs,Amaretto
+62,Amaretto Stinger,Cordials and Liqueurs,White creme de menthe
+63,What The Hell,Cocktail Classics,Gin
+64,What The Hell,Cocktail Classics,Dry Vermouth
+65,What The Hell,Cocktail Classics,Apricot Flavored Brandy
+66,What The Hell,Cocktail Classics,Lemon Juice
+67,Webster Cocktail,Cocktail Classics,Juice of a Lime
+68,Webster Cocktail,Cocktail Classics,Apricot Flavored Brandy
+69,Webster Cocktail,Cocktail Classics,Dry Vermouth
+70,Webster Cocktail,Cocktail Classics,Gin
+71,Union Jack Cocktail,Cocktail Classics,Sloe gin
+72,Union Jack Cocktail,Cocktail Classics,Gin
+73,Union Jack Cocktail,Cocktail Classics,Grenadine
+74,Jocose Julep,Whiskies,Bourbon whiskey
+75,Jocose Julep,Whiskies,Green creme de menthe
+76,Jocose Julep,Whiskies,Fresh Lime Juice
+77,Jocose Julep,Whiskies,Simple Syrup
+78,Jocose Julep,Whiskies,Fresh mint leaves
+79,Trinity Cocktail,Cocktail Classics,Sweet Vermouth
+80,Trinity Cocktail,Cocktail Classics,Dry Vermouth
+81,Trinity Cocktail,Cocktail Classics,Gin
+82,Three Stripes Cocktail,Cocktail Classics,Gin
+83,Three Stripes Cocktail,Cocktail Classics,Dry Vermouth
+84,Three Stripes Cocktail,Cocktail Classics,Orange Juice
+85,Tanq-A-Rita,Cocktail Classics,Tanqueray gin
+86,Tanq-A-Rita,Cocktail Classics,Margarita Mix
+87,Tanq-A-Rita,Cocktail Classics,Triple Sec
+88,Amaretto Sour,Cordials and Liqueurs,Amaretto
+89,Amaretto Sour,Cordials and Liqueurs,Fresh lemon juice
+90,Amaretto Sour,Cordials and Liqueurs,Simple Syrup
+91,Amaretto Sour,Cordials and Liqueurs,Orange half-wheel
+92,Tailspin Cocktail,Cocktail Classics,Gin
+93,Tailspin Cocktail,Cocktail Classics,Sweet Vermouth
+94,Tailspin Cocktail,Cocktail Classics,Green Chartreuse
+95,Tailspin Cocktail,Cocktail Classics,Orange Bitters
+96,Sweet Patootie Cocktail,Cocktail Classics,Gin
+97,Sweet Patootie Cocktail,Cocktail Classics,Triple Sec
+98,Sweet Patootie Cocktail,Cocktail Classics,Orange Juice
+99,Sunshine Cocktail,Cocktail Classics,Sweet Vermouth
+100,Sunshine Cocktail,Cocktail Classics,Gin
+101,Sunshine Cocktail,Cocktail Classics,Bitters
+102,Spring Feeling Cocktail,Cocktail Classics,Lemon Juice
+103,Spring Feeling Cocktail,Cocktail Classics,Green Chartreuse
+104,Spring Feeling Cocktail,Cocktail Classics,Gin
+105,Sphinx Cocktail,Cocktail Classics,Gin
+106,Sphinx Cocktail,Cocktail Classics,Sweet Vermouth
+107,Sphinx Cocktail,Cocktail Classics,Dry Vermouth
+108,Jitterbug Sour,Whiskies,Straight rye whiskey
+109,Jitterbug Sour,Whiskies,Benedictine
+110,Jitterbug Sour,Whiskies,Fresh lemon juice
+111,Jitterbug Sour,Whiskies,Honey Syrup
+112,Jitterbug Sour,Whiskies,Egg White
+113,Jitterbug Sour,Whiskies,Angostura Bitters
+114,Southern Gin Cocktail,Cocktail Classics,Gin
+115,Southern Gin Cocktail,Cocktail Classics,Orange Bitters
+116,Southern Gin Cocktail,Cocktail Classics,Triple Sec
+117,Society Cocktail,Cocktail Classics,Gin
+118,Society Cocktail,Cocktail Classics,Dry Vermouth
+119,Society Cocktail,Cocktail Classics,Grenadine
+120,Snyder,Cocktail Classics,Gin
+121,Snyder,Cocktail Classics,Dry Vermouth
+122,Snyder,Cocktail Classics,Triple Sec
+123,Smiler Cocktail,Cocktail Classics,Sweet Vermouth
+124,Smiler Cocktail,Cocktail Classics,Dry Vermouth
+125,Smiler Cocktail,Cocktail Classics,Gin
+126,Smiler Cocktail,Cocktail Classics,Bitters
+127,Smiler Cocktail,Cocktail Classics,Orange Juice
+128,Smile Cocktail,Cocktail Classics,Grenadine
+129,Smile Cocktail,Cocktail Classics,Gin
+130,Smile Cocktail,Cocktail Classics,Lemon Juice
+131,Amaretto Rose,Cordials and Liqueurs,Amaretto
+132,Amaretto Rose,Cordials and Liqueurs,Fresh lemon juice
+133,Amaretto Rose,Cordials and Liqueurs,Simple Syrup
+134,Sand-Martin Cocktail,Cocktail Classics,Green Chartreuse
+135,Sand-Martin Cocktail,Cocktail Classics,Sweet Vermouth
+136,Sand-Martin Cocktail,Cocktail Classics,Gin
+137,Irish Whiskey Highball,Whiskies,Irish Whiskey
+138,Irish Whiskey Highball,Whiskies,Ginger ale or soda water
+139,Irish Whiskey Highball,Whiskies,Lemon twist (optional)
+140,Japanese,Brandy,Brandy
+141,Japanese,Brandy,orgeat or almond syrup
+142,Japanese,Brandy,Angostura Bitters
+143,Roselyn Cocktail,Cocktail Classics,Dry Vermouth
+144,Roselyn Cocktail,Cocktail Classics,Gin
+145,Roselyn Cocktail,Cocktail Classics,Grenadine
+146,Resolute Cocktail,Cocktail Classics,Juice of a Lemon
+147,Resolute Cocktail,Cocktail Classics,Apricot Flavored Brandy
+148,Resolute Cocktail,Cocktail Classics,Gin
+149,Racquet Club Cocktail,Cocktail Classics,Gin
+150,Racquet Club Cocktail,Cocktail Classics,Dry Vermouth
+151,Racquet Club Cocktail,Cocktail Classics,Orange Bitters
+152,Amaretto And Cream,Cordials and Liqueurs,Amaretto
+153,Amaretto And Cream,Cordials and Liqueurs,half-and-half
+154,Pollyanna Cocktai,Cocktail Classics,Orange
+155,Pollyanna Cocktai,Cocktail Classics,Pineapple
+156,Pollyanna Cocktai,Cocktail Classics,Gin
+157,Pollyanna Cocktai,Cocktail Classics,Sweet Vermouth
+158,Pollyanna Cocktai,Cocktail Classics,Grenadine
+159,Plaza Cocktail,Cocktail Classics,Sweet Vermouth
+160,Plaza Cocktail,Cocktail Classics,Dry Vermouth
+161,Plaza Cocktail,Cocktail Classics,Gin
+162,Irish Whiskey Cocktail,Whiskies,Irish Whiskey
+163,Irish Whiskey Cocktail,Whiskies,Triple Sec
+164,Irish Whiskey Cocktail,Whiskies,Anisette
+165,Irish Whiskey Cocktail,Whiskies,Maraschino liqueur
+166,Irish Whiskey Cocktail,Whiskies,Angostura Bitters
+167,Irish Whiskey Cocktail,Whiskies,Green olive
+168,Absinthe Special Cocktail,Cordials and Liqueurs,Absinthe
+169,Absinthe Special Cocktail,Cordials and Liqueurs,Simple Syrup
+170,Absinthe Special Cocktail,Cordials and Liqueurs,Orange Bitters
+171,Nineteenth Hole,Cocktail Classics,Gin
+172,Nineteenth Hole,Cocktail Classics,Dry Vermouth
+173,Nineteenth Hole,Cocktail Classics,Sweet Vermouth
+174,Nineteenth Hole,Cocktail Classics,Bitters
+175,Montreal Club Bouncer,Cocktail Classics,Gin
+176,Montreal Club Bouncer,Cocktail Classics,Anisette
+177,Monte Carlo Imperial Highball,Cocktail Classics,Gin
+178,Monte Carlo Imperial Highball,Cocktail Classics,White creme de menthe
+179,Monte Carlo Imperial Highball,Cocktail Classics,Juice of a Lemon
+180,Irish Shillelagh,Whiskies,Irish Whiskey
+181,Irish Shillelagh,Whiskies,Light Rum
+182,Irish Shillelagh,Whiskies,Sloe gin
+183,Irish Shillelagh,Whiskies,Fresh lemon juice
+184,Irish Shillelagh,Whiskies,Simple Syrup
+185,Irish Shillelagh,Whiskies,"Fresh raspberries and strawberries, 2 peach slices, maraschino cherry"
+186,Melon Cocktail,Cocktail Classics,Gin
+187,Melon Cocktail,Cocktail Classics,Lemon Juice
+188,Melon Cocktail,Cocktail Classics,Maraschino
+189,Martini (Medium),Cocktail Classics,Gin
+190,Martini (Medium),Cocktail Classics,Dry Vermouth
+191,Martini (Medium),Cocktail Classics,Sweet Vermouth
+192,Martini (Dry) (5-to-1),Cocktail Classics,Gin
+193,Martini (Dry) (5-to-1),Cocktail Classics,Dry Vermouth
+194,Mamie's Sister,Cocktail Classics,Juice of a Lime
+195,Mamie's Sister,Cocktail Classics,Gin
+196,Irish Rickey,Whiskies,Irish Whiskey
+197,Irish Rickey,Whiskies,Fresh Lime Juice
+198,Irish Rickey,Whiskies,Soda water
+199,Irish Rickey,Whiskies,Lime wedge
+200,Maiden's Prayer,Cocktail Classics,Gin
+201,Maiden's Prayer,Cocktail Classics,Triple Sec
+202,Maiden's Prayer,Cocktail Classics,Lemon Juice
+203,Lone Tree Cocktail,Cocktail Classics,Sweet Vermouth
+204,Lone Tree Cocktail,Cocktail Classics,Gin
+205,London Buck,Cocktail Classics,Gin
+206,London Buck,Cocktail Classics,Juice of a Lemon
+207,Leap Frog Highball,Cocktail Classics,Juice of a Lemon
+208,Leap Frog Highball,Cocktail Classics,Gin
+209,Incider Cocktail,Whiskies,Rye or bourbon whiskey
+210,Incider Cocktail,Whiskies,Apple cider
+211,Incider Cocktail,Whiskies,Apple slice
+212,Kup's Indispensable Cocktail,Cocktail Classics,Light Vermouth
+213,Kup's Indispensable Cocktail,Cocktail Classics,Dry Vermouth
+214,Kup's Indispensable Cocktail,Cocktail Classics,Gin
+215,Kup's Indispensable Cocktail,Cocktail Classics,Bitters
+216,Knock-Out Cocktail,Cocktail Classics,Anisette
+217,Knock-Out Cocktail,Cocktail Classics,Gin
+218,Knock-Out Cocktail,Cocktail Classics,Dry Vermouth
+219,Knock-Out Cocktail,Cocktail Classics,Creme de Menthe (White)
+220,K. G. B. Cocktail,Cocktail Classics,Kummel
+221,K. G. B. Cocktail,Cocktail Classics,Gin
+222,K. G. B. Cocktail,Cocktail Classics,Apricot Flavored Brandy
+223,K. G. B. Cocktail,Cocktail Classics,Lemon Juice
+224,Imperial Fizz,Whiskies,Bourbon or Rye Whiskey
+225,Imperial Fizz,Whiskies,Light Rum
+226,Imperial Fizz,Whiskies,Fresh lemon juice
+227,Imperial Fizz,Whiskies,Simple Syrup
+228,Imperial Fizz,Whiskies,Soda water
+229,Jeyplak Cocktail,Cocktail Classics,Gin
+230,Jeyplak Cocktail,Cocktail Classics,Sweet Vermouth
+231,Jeyplak Cocktail,Cocktail Classics,Anisette
+232,H. P. W. Cocktail,Cocktail Classics,Dry Vermouth
+233,H. P. W. Cocktail,Cocktail Classics,Sweet Vermouth
+234,H. P. W. Cocktail,Cocktail Classics,Gin
+235,I.A.P.,Whiskies,Tennessee whiskey
+236,I.A.P.,Whiskies,Fernet-Branca
+237,I.A.P.,Whiskies,Cola
+238,Hotel Plaza Cocktail,Cocktail Classics,Sweet Vermouth
+239,Hotel Plaza Cocktail,Cocktail Classics,Dry Vermouth
+240,Hotel Plaza Cocktail,Cocktail Classics,Gin
+241,Hoffman House Cocktail,Cocktail Classics,Dry Vermouth
+242,Hoffman House Cocktail,Cocktail Classics,Gin
+243,Hawaiin Cocktail,Cocktail Classics,Gin
+244,Hawaiin Cocktail,Cocktail Classics,Pineapple Juice
+245,Hawaiin Cocktail,Cocktail Classics,Triple Sec
+246,White Russian,Vodka,Vodka
+247,White Russian,Vodka,Coffee liqueur
+248,Greyhound,Cocktail Classics,Gin
+249,Greyhound,Cocktail Classics,Grapefruit Juice
+250,Green Devil,Cocktail Classics,Gin
+251,Green Devil,Cocktail Classics,Green creme de menthe
+252,Green Devil,Cocktail Classics,Lime Juice
+253,Greenback,Cocktail Classics,Gin
+254,Greenback,Cocktail Classics,Green creme de menthe
+255,Greenback,Cocktail Classics,Lemon Juice
+256,Grapefruit Cocktail,Cocktail Classics,Grapefruit Juice
+257,Grapefruit Cocktail,Cocktail Classics,Gin
+258,Grapefruit Cocktail,Cocktail Classics,Maraschino
+259,Hotel D'alsace,Whiskies,Fresh rosemary sprig
+260,Hotel D'alsace,Whiskies,Irish Whiskey
+261,Hotel D'alsace,Whiskies,Benedictine
+262,Hotel D'alsace,Whiskies,Triple Sec
+263,Jamaica Granito,Brandy,Brandy
+264,Jamaica Granito,Brandy,Triple Sec
+265,Jamaica Granito,Brandy,Lemon or Orange Sherbet
+266,Gin Sling,Cocktail Classics,Powdered Sugar
+267,Gin Sling,Cocktail Classics,Water
+268,Gin Sling,Cocktail Classics,Juice of a Lemon
+269,Gin Sling,Cocktail Classics,Gin
+270,Gin Milk Punch,Cocktail Classics,Powdered Sugar
+271,Gin Milk Punch,Cocktail Classics,Gin
+272,Gin Milk Punch,Cocktail Classics,Milk
+273,Horse's Neck (With A Kick),Whiskies,Wide spiral of lemon zest
+274,Horse's Neck (With A Kick),Whiskies,Bourbon whiskey
+275,Horse's Neck (With A Kick),Whiskies,Ginger ale
+276,Gin and It,Cocktail Classics,Gin
+277,Gin and It,Cocktail Classics,Sweet Vermouth
+278,Gin Cocktail,Cocktail Classics,Gin
+279,Gin Cocktail,Cocktail Classics,Bitters
+280,West Side,Vodka,lemon-flavored vodka
+281,West Side,Vodka,Fresh lemon juice
+282,West Side,Vodka,Simple Syrup
+283,West Side,Vodka,Fresh mint leaves
+284,Gimlet,Cocktail Classics,Lime Juice
+285,Gimlet,Cocktail Classics,Powdered Sugar
+286,Gimlet,Cocktail Classics,Gin
+287,Free Silver,Cocktail Classics,Juice of a Lemon
+288,Free Silver,Cocktail Classics,Powdered Sugar
+289,Free Silver,Cocktail Classics,Gin
+290,Free Silver,Cocktail Classics,Dark rum
+291,Free Silver,Cocktail Classics,Milk
+292,Frankenjack Cocktail,Cocktail Classics,Gin
+293,Frankenjack Cocktail,Cocktail Classics,Dry Vermouth
+294,Frankenjack Cocktail,Cocktail Classics,Apricot Flavored Brandy
+295,Frankenjack Cocktail,Cocktail Classics,Triple Sec
+296,Frankenjack Cocktail,Cocktail Classics,Juice of a Lime
+297,Frankenjack Cocktail,Cocktail Classics,Gin & ginger ale
+298,Fog Horn,Cocktail Classics,Juice of a Lime
+299,Fog Horn,Cocktail Classics,Gin & ginger ale
+300,Fog Horn,Cocktail Classics,Gin
+301,Fog Horn,Cocktail Classics,Triple Sec
+302,Flying Dutchman,Cocktail Classics,Gin
+303,Flying Dutchman,Cocktail Classics,Triple Sec
+304,Hoot Mon Cocktail,Whiskies,Blended Scotch Whiskey
+305,Hoot Mon Cocktail,Whiskies,Sweet Vermouth
+306,Hoot Mon Cocktail,Whiskies,Benedictine
+307,Fifty-Fifty Cocktail,Cocktail Classics,Gin
+308,Fifty-Fifty Cocktail,Cocktail Classics,Dry Vermouth
+309,Favorite Cocktail,Cocktail Classics,Apricot Flavored Brandy
+310,Favorite Cocktail,Cocktail Classics,Dry Vermouth
+311,Favorite Cocktail,Cocktail Classics,Gin
+312,Favorite Cocktail,Cocktail Classics,Lemon Juice
+313,Farmer's Cocktail,Cocktail Classics,Gin
+314,Farmer's Cocktail,Cocktail Classics,Dry Vermouth
+315,Farmer's Cocktail,Cocktail Classics,Sweet Vermouth
+316,Farmer's Cocktail,Cocktail Classics,Bitters
+317,Warsaw Cocktail,Vodka,Vodka
+318,Warsaw Cocktail,Vodka,Blackberry-flavored brandy
+319,Warsaw Cocktail,Vodka,Dry Vermouth
+320,Warsaw Cocktail,Vodka,Fresh lemon juice
+321,Emerald Isle Cocktail,Cocktail Classics,Gin
+322,Emerald Isle Cocktail,Cocktail Classics,Green creme de menthe
+323,Emerald Isle Cocktail,Cocktail Classics,Bitters
+324,Du Barry Cocktail,Cocktail Classics,Bitters
+325,Du Barry Cocktail,Cocktail Classics,Dry Vermouth
+326,Du Barry Cocktail,Cocktail Classics,Anisette
+327,Du Barry Cocktail,Cocktail Classics,Gin
+328,Dry Martini (5-to-1),Cocktail Classics,Gin
+329,Dry Martini (5-to-1),Cocktail Classics,Dry Vermouth
+330,Dixie Cocktail,Cocktail Classics,Juice of Orange
+331,Dixie Cocktail,Cocktail Classics,Anisette
+332,Dixie Cocktail,Cocktail Classics,Dry Vermouth
+333,Dixie Cocktail,Cocktail Classics,Gin
+334,Delmonico No. 2,Cocktail Classics,Orange Bitters
+335,Delmonico No. 2,Cocktail Classics,Dry Vermouth
+336,Delmonico No. 2,Cocktail Classics,Gin
+337,Hole-In-One,Whiskies,Blended Scotch Whiskey
+338,Hole-In-One,Whiskies,Dry Vermouth
+339,Hole-In-One,Whiskies,Fresh lemon juice
+340,Hole-In-One,Whiskies,Orange Bitters
+341,Vodka Stinger,Vodka,Vodka
+342,Vodka Stinger,Vodka,White creme de menthe
+343,Caruso,Cocktail Classics,Gin
+344,Caruso,Cocktail Classics,Dry Vermouth
+345,Caruso,Cocktail Classics,Green creme de menthe
+346,Bulldog Highball,Cocktail Classics,Juice of Orange
+347,Bulldog Highball,Cocktail Classics,Gin
+348,Brown Cocktail,Cocktail Classics,Gin
+349,Brown Cocktail,Cocktail Classics,Light Rum
+350,Brown Cocktail,Cocktail Classics,Dry Vermouth
+351,Bronx Terrace Cocktail,Cocktail Classics,Gin
+352,Bronx Terrace Cocktail,Cocktail Classics,Dry Vermouth
+353,Bronx Terrace Cocktail,Cocktail Classics,Juice of a Lime
+354,Bronx Cocktail (Dry),Cocktail Classics,Gin
+355,Bronx Cocktail (Dry),Cocktail Classics,Dry Vermouth
+356,Bronx Cocktail (Dry),Cocktail Classics,Juice of Orange
+357,Hill Dog,Whiskies,White whiskey
+358,Hill Dog,Whiskies,Grand Marnier
+359,Hill Dog,Whiskies,Dry Sherry
+360,Hill Dog,Whiskies,Lavender Syrup
+361,Blue Devil Cocktail,Cocktail Classics,Gin
+362,Blue Devil Cocktail,Cocktail Classics,Juice of Lemon or Lime
+363,Blue Devil Cocktail,Cocktail Classics,Maraschino
+364,Blue Devil Cocktail,Cocktail Classics,Blue curacao
+365,Blue Canary,Cocktail Classics,Gin
+366,Blue Canary,Cocktail Classics,Grapefruit Juice
+367,Blue Canary,Cocktail Classics,Blue curacao
+368,Blue Bird,Cocktail Classics,Gin
+369,Blue Bird,Cocktail Classics,Triple Sec
+370,Blue Bird,Cocktail Classics,Bitters
+371,Bloodhound Cocktail,Cocktail Classics,Dry Vermouth
+372,Bloodhound Cocktail,Cocktail Classics,Sweet Vermouth
+373,Bloodhound Cocktail,Cocktail Classics,Gin
+374,Billy Taylor,Cocktail Classics,Juice of a Lime
+375,Billy Taylor,Cocktail Classics,Gin
+376,Bijou Cocktail,Cocktail Classics,Gin
+377,Bijou Cocktail,Cocktail Classics,Green Chartreuse
+378,Bijou Cocktail,Cocktail Classics,Sweet Vermouth
+379,Bijou Cocktail,Cocktail Classics,Orange Bitters
+380,Bermuda Rose,Cocktail Classics,Gin
+381,Bermuda Rose,Cocktail Classics,Apricot Flavored Brandy
+382,Bermuda Rose,Cocktail Classics,Grenadine
+383,Vodka Sour,Vodka,Vodka
+384,Vodka Sour,Vodka,Vodka
+385,Vodka Sour,Vodka,Fresh lemon juice
+386,Vodka Sour,Vodka,Simple Syrup
+387,Apricot Anisette Collins,Cocktail Classics,Gin
+388,Apricot Anisette Collins,Cocktail Classics,Apricot Flavored Brandy
+389,Apricot Anisette Collins,Cocktail Classics,Anisette
+390,Apricot Anisette Collins,Cocktail Classics,Lemon Juice
+391,Alexander's Sister Cocktail,Cocktail Classics,Dry gin
+392,Alexander's Sister Cocktail,Cocktail Classics,Green creme de menthe
+393,Alexander's Sister Cocktail,Cocktail Classics,Light cream
+394,Highland Cooler,Whiskies,Blended Scotch Whiskey
+395,Highland Cooler,Whiskies,Simple Syrup
+396,Alexander Cocktail No. 1,Cocktail Classics,Gin
+397,Alexander Cocktail No. 1,Cocktail Classics,Creme de Cacao (White)
+398,Alexander Cocktail No. 1,Cocktail Classics,Light cream
+399,Adam and Eve,Cocktail Classics,Forbidden Fruit
+400,Adam and Eve,Cocktail Classics,Gin
+401,Adam and Eve,Cocktail Classics,Brandy
+402,Adam and Eve,Cocktail Classics,Lemon Juice
+403,Vodka Sling,Vodka,Vodka
+404,Vodka Sling,Vodka,Fresh lemon juice
+405,Vodka Sling,Vodka,Simple Syrup
+406,Jack Rose Cocktail,Brandy,Applejack
+407,Jack Rose Cocktail,Brandy,Fresh Lime Juice
+408,Jack Rose Cocktail,Brandy,Grenadine
+409,Tempter Cocktail,Cocktail Classics,Port
+410,Tempter Cocktail,Cocktail Classics,Apricot Flavored Brandy
+411,Special Rough Cocktail,Cocktail Classics,Apple Brandy
+412,Special Rough Cocktail,Cocktail Classics,Brandy
+413,Special Rough Cocktail,Cocktail Classics,Anisette
+414,Vodka Grasshopper,Vodka,Vodka
+415,Vodka Grasshopper,Vodka,Green creme de menthe
+416,Vodka Grasshopper,Vodka,White creme de cacao
+417,Vodka Grasshopper,Vodka,half-and-half
+418,Singapore Sling,Cocktail Classics,Juice of a Lemon
+419,Singapore Sling,Cocktail Classics,Powdered Sugar
+420,Singapore Sling,Cocktail Classics,Gin
+421,Singapore Sling,Cocktail Classics,cherry-flavored brandy
+422,Saratoga Cocktail,Cocktail Classics,Brandy
+423,Saratoga Cocktail,Cocktail Classics,Bitters
+424,Saratoga Cocktail,Cocktail Classics,Lemon Juice
+425,Saratoga Cocktail,Cocktail Classics,Pineapple Juice
+426,Saratoga Cocktail,Cocktail Classics,Maraschino
+427,High Cotton,Whiskies,Straight rye whiskey
+428,High Cotton,Whiskies,Pimm's No. 1 Cup
+429,High Cotton,Whiskies,Dubonnet Rouge
+430,High Cotton,Whiskies,Peach bitters
+431,Polonaise,Cocktail Classics,Brandy
+432,Polonaise,Cocktail Classics,Blackberry-flavored brandy
+433,Polonaise,Cocktail Classics,Dry Sherry
+434,Polonaise,Cocktail Classics,Lemon Juice
+435,Vodka Gimlet,Vodka,Vodka
+436,Vodka Gimlet,Vodka,Fresh Lime Juice
+437,Vodka Gimlet,Vodka,Simple Syrup
+438,Merry Widow Cocktail No. 2,Cocktail Classics,Maraschino
+439,Merry Widow Cocktail No. 2,Cocktail Classics,cherry-flavored brandy
+440,Lugger,Cocktail Classics,Brandy
+441,Lugger,Cocktail Classics,Apple Brandy
+442,Lugger,Cocktail Classics,Apricot Flavored Brandy
+443,Jamaica Hop,Cocktail Classics,Coffee-flavored brandy
+444,Jamaica Hop,Cocktail Classics,Creme de Cacao (White)
+445,Jamaica Hop,Cocktail Classics,Light cream
+446,Hebrides,Whiskies,Single-malt Scotch whisky
+447,Hebrides,Whiskies,Maraschino liqueur
+448,Hebrides,Whiskies,Triple Sec
+449,Hebrides,Whiskies,Apple juice
+450,Hebrides,Whiskies,Fresh lemon juice
+451,Hebrides,Whiskies,Angostura Bitters
+452,Hennessy Martini,Cocktail Classics,Hennessy V.S Cognac
+453,Hennessy Martini,Cocktail Classics,Lemon Juice
+454,Vodka Daisy,Vodka,Vodka
+455,Vodka Daisy,Vodka,Fresh lemon juice
+456,Vodka Daisy,Vodka,Simple Syrup
+457,Vodka Daisy,Vodka,Grenadine
+458,Heavenly Dram,Whiskies,Single-malt Scotch whisky
+459,Heavenly Dram,Whiskies,Pedro Ximenez sherry
+460,Heavenly Dram,Whiskies,Fresh lemon juice
+461,Heavenly Dram,Whiskies,Honey Syrup
+462,Classic Cocktail,Cocktail Classics,Juice of a Lemon
+463,Classic Cocktail,Cocktail Classics,Curacao
+464,Classic Cocktail,Cocktail Classics,Maraschino
+465,Classic Cocktail,Cocktail Classics,Brandy
+466,Cherry Sling,Cocktail Classics,cherry-flavored brandy
+467,Cherry Sling,Cocktail Classics,Juice of a Lemon
+468,Cherry Fizz,Cocktail Classics,Juice of a Lemon
+469,Cherry Fizz,Cocktail Classics,cherry-flavored brandy
+470,Vodka Cooler,Vodka,Vodka
+471,Vodka Cooler,Vodka,Simple Syrup
+472,Carrol Cocktail,Cocktail Classics,Brandy
+473,Carrol Cocktail,Cocktail Classics,Sweet Vermouth
+474,Button Hook Cocktail,Cocktail Classics,Creme de Menthe (White)
+475,Button Hook Cocktail,Cocktail Classics,Apricot Flavored Brandy
+476,Button Hook Cocktail,Cocktail Classics,Anisette
+477,Button Hook Cocktail,Cocktail Classics,Brandy
+478,Bull's Eye,Cocktail Classics,Brandy
+479,Bull's Eye,Cocktail Classics,Hard cider
+480,Brantini,Cocktail Classics,Brandy
+481,Brantini,Cocktail Classics,Gin
+482,Brantini,Cocktail Classics,Dry Vermouth
+483,Heather's Kiss,Whiskies,Blended Scotch Whiskey
+484,Heather's Kiss,Whiskies,Fresh lemon juice
+485,Heather's Kiss,Whiskies,Agave nectar
+486,Heather's Kiss,Whiskies,Absinthe
+487,Brandy Squirt,Cocktail Classics,Brandy
+488,Brandy Squirt,Cocktail Classics,Powdered Sugar
+489,Brandy Squirt,Cocktail Classics,Grenadine
+490,Brandy and Soda,Cocktail Classics,Brandy
+491,Brandy Milk Punch,Cocktail Classics,Powdered Sugar
+492,Brandy Milk Punch,Cocktail Classics,Brandy
+493,Brandy Milk Punch,Cocktail Classics,Milk
+494,Vodka Collins,Vodka,Vodka
+495,Vodka Collins,Vodka,Fresh lemon juice
+496,Vodka Collins,Vodka,Simple Syrup
+497,Brandy Crusta Cocktail,Cocktail Classics,Maraschino
+498,Brandy Crusta Cocktail,Cocktail Classics,Bitters
+499,Brandy Crusta Cocktail,Cocktail Classics,Lemon Juice
+500,Brandy Crusta Cocktail,Cocktail Classics,Triple Sec
+501,Brandy Crusta Cocktail,Cocktail Classics,Brandy
+502,Heather Blush,Whiskies,Blended Scotch Whiskey
+503,Heather Blush,Whiskies,Strawberry liqueur
+504,Heather Blush,Whiskies,Chilled sparkling wine
+505,Jack Maples,Brandy,Applejack
+506,Jack Maples,Brandy,maple syrup (grade B or medium-amber)
+507,Jack Maples,Brandy,Aromatic bitters
+508,Brandy Alexander,Cocktail Classics,Creme de Cacao (Brown)
+509,Brandy Alexander,Cocktail Classics,Brandy
+510,Brandy Alexander,Cocktail Classics,Heavy cream
+511,Vodka and Tonic,Vodka,Vodka
+512,Apricot Cocktail,Cocktail Classics,Juice of a Lemon
+513,Apricot Cocktail,Cocktail Classics,Juice of Orange
+514,Apricot Cocktail,Cocktail Classics,Apricot Flavored Brandy
+515,Apricot Cocktail,Cocktail Classics,Gin
+516,Alexander Cocktail No. 2,Cocktail Classics,Creme de Cacao (White)
+517,Alexander Cocktail No. 2,Cocktail Classics,Brandy
+518,Alexander Cocktail No. 2,Cocktail Classics,Light cream
+519,After Dinner Cocktail,Cocktail Classics,Apricot Flavored Brandy
+520,After Dinner Cocktail,Cocktail Classics,Triple Sec
+521,After Dinner Cocktail,Cocktail Classics,Juice of a Lime
+522,Harvest Moon,Whiskies,Straight rye whiskey
+523,Harvest Moon,Whiskies,Lillet Blanc
+524,Harvest Moon,Whiskies,Apple Brandy
+525,Harvest Moon,Whiskies,Green Chartreuse
+526,Harvest Moon,Whiskies,Angostura Bitters
+527,Red Raider,Cocktail Classics,Bourbon
+528,Red Raider,Cocktail Classics,Triple Sec
+529,Red Raider,Cocktail Classics,Lemon Juice
+530,Red Raider,Cocktail Classics,Grenadine
+531,Vodka and Apple Juice,Vodka,Vodka
+532,Mint Julep (Southern Style),Cocktail Classics,springs mint
+533,Mint Julep (Southern Style),Cocktail Classics,Powdered Sugar
+534,Mint Julep (Southern Style),Cocktail Classics,Water
+535,Mint Julep (Southern Style),Cocktail Classics,Bourbon
+536,Limestone,Cocktail Classics,Bourbon
+537,Grounds For Divorce,Whiskies,Straight rye whiskey
+538,Grounds For Divorce,Whiskies,Kirschwasser
+539,Grounds For Divorce,Whiskies,Cynar
+540,Grounds For Divorce,Whiskies,Amaro
+541,Gentleman's Cocktail,Cocktail Classics,Bourbon
+542,Gentleman's Cocktail,Cocktail Classics,Brandy
+543,Gentleman's Cocktail,Cocktail Classics,Creme de Menthe
+544,Dixie Julep,Cocktail Classics,Powdered Sugar
+545,Dixie Julep,Cocktail Classics,Bourbon
+546,Victory Collins,Vodka,Vodka
+547,Victory Collins,Vodka,Unsweetened Grape Juice
+548,Victory Collins,Vodka,Fresh lemon juice
+549,Victory Collins,Vodka,Simple Syrup
+550,Buddy's Favorite,Cocktail Classics,Bourbon
+551,Buddy's Favorite,Cocktail Classics,Cold Water
+552,Bourbon On The Rocks,Cocktail Classics,Bourbon
+553,Bourbon Cobbler,Cocktail Classics,Bourbon
+554,Bourbon Cobbler,Cocktail Classics,Lemon Juice
+555,Bourbon Cobbler,Cocktail Classics,Grapefruit Juice
+556,Bourbon Cobbler,Cocktail Classics,Almond extract
+557,Bourbon and Water,Cocktail Classics,Bourbon
+558,Bourbon and Water,Cocktail Classics,Water
+559,Greenpoint,Whiskies,Straight rye whiskey
+560,Greenpoint,Whiskies,Yellow Chartreuse
+561,Greenpoint,Whiskies,Sweet Vermouth
+562,Greenpoint,Whiskies,Angostura Bitters
+563,Greenpoint,Whiskies,Orange Bitters
+567,Velvet Peach Hammer,Vodka,Vodka
+568,Velvet Peach Hammer,Vodka,Peach schnapps
+569,Velvet Peach Hammer,Vodka,Simple Syrup
+570,Velvet Peach Hammer,Vodka,Fresh lemon juice
+571,Grandfather,Whiskies,Bourbon whiskey
+572,Grandfather,Whiskies,Applejack
+573,Grandfather,Whiskies,Sweet Vermouth
+574,Grandfather,Whiskies,Angostura Bitters
+575,Grandfather,Whiskies,Peychaud's Bitters
+576,Goldrush,Whiskies,Bourbon whiskey
+577,Goldrush,Whiskies,Fresh lemon juice
+578,Goldrush,Whiskies,Honey Syrup
+579,Sake Martini,Cocktail Classics,Sake
+580,Sake Martini,Cocktail Classics,Mr. Boston Gin
+581,Godfather,Whiskies,Blended Scotch Whiskey
+582,Godfather,Whiskies,Amaretto
+583,Jack-In-The-Box,Brandy,Applejack
+584,Jack-In-The-Box,Brandy,Pineapple Juice
+585,Jack-In-The-Box,Brandy,Angostura Bitters
+586,Saronno,Cocktail Classics,Amaretto di Saronno
+587,Saronno,Cocktail Classics,Mr. Boston Five Star Brandy
+588,Saronno,Cocktail Classics,Light cream
+589,Saronno Colada (Nutty Colada),Cocktail Classics,Amaretto di Saronno
+590,Saronno Colada (Nutty Colada),Cocktail Classics,Coconut Milk
+591,Saronno Colada (Nutty Colada),Cocktail Classics,Crushed Pineapple
+592,Saronno Mist,Cocktail Classics,Amaretto di Saronno
+593,Saronno Rose,Cocktail Classics,Amaretto di Saronno
+594,Saronno Rose,Cocktail Classics,Roses Lime Juice
+595,Saronno Rose,Cocktail Classics,Club Soda
+596,Gilchrist,Whiskies,Blended Scotch Whiskey
+597,Gilchrist,Whiskies,Pear brandy
+598,Gilchrist,Whiskies,Grapefruit Juice
+599,Gilchrist,Whiskies,Amaro
+600,Gilchrist,Whiskies,Grapefruit bitters
+601,Frisco Sour,Whiskies,Bourbon or Rye Whiskey
+602,Frisco Sour,Whiskies,Fresh lemon juice
+603,Frisco Sour,Whiskies,Fresh Lime Juice
+604,Frisco Sour,Whiskies,Benedictine
+605,Frisco Sour,Whiskies,Lemon and lime wheels
+606,Fratelli Cocktail,Whiskies,Straight rye whiskey
+607,Fratelli Cocktail,Whiskies,Sweet Vermouth
+608,Fratelli Cocktail,Whiskies,Yellow Chartreuse
+609,Fratelli Cocktail,Whiskies,Fernet-Branca
+610,Francis The Mule,Whiskies,Bourbon whiskey
+611,Francis The Mule,Whiskies,Coffee liqueur
+612,Francis The Mule,Whiskies,Fresh lemon juice
+613,Francis The Mule,Whiskies,orgeat or almond syrup
+614,Francis The Mule,Whiskies,Orange Bitters
+615,Fox River Cocktail,Whiskies,Bourbon or Rye Whiskey
+616,Fox River Cocktail,Whiskies,Dark creme de cacao
+617,Fox River Cocktail,Whiskies,Angostura Bitters
+618,Flying Scotchman,Whiskies,Blended Scotch Whiskey
+619,Flying Scotchman,Whiskies,Sweet Vermouth
+620,Flying Scotchman,Whiskies,Angostura Bitters
+621,Flying Scotchman,Whiskies,Simple Syrup
+622,The Final Ward,Whiskies,Straight rye whiskey
+623,The Final Ward,Whiskies,Maraschino liqueur
+624,The Final Ward,Whiskies,Green Chartreuse
+625,The Final Ward,Whiskies,Fresh lemon juice
+626,Martini,Cocktail Classics,Mr. Boston Gin
+627,Martini,Cocktail Classics,Dry Vermouth
+628,Fancy Whiskey,Whiskies,Bourbon or rye whiskey
+629,Fancy Whiskey,Whiskies,Angostura Bitters
+630,Fancy Whiskey,Whiskies,Triple Sec
+631,Fancy Whiskey,Whiskies,Simple Syrup
+632,Fancy Whiskey,Whiskies,Lemon twist
+633,Mandarine Sour,Cocktail Classics,Mandarine Napoleon Liqueur
+634,Mandarine Sour,Cocktail Classics,Lemon Juice
+635,Mandarine Mist,Cocktail Classics,Mandarine Napoleon Liqueur
+636,Underneath The Mango Tree,Vodka,"Lime wedge, Sweet Chili Powder"
+637,Underneath The Mango Tree,Vodka,Mango-flavored vodka
+638,Underneath The Mango Tree,Vodka,Peach liqueur
+639,Underneath The Mango Tree,Vodka,Fresh Lime Juice
+640,Underneath The Mango Tree,Vodka,Simple Syrup
+641,Underneath The Mango Tree,Vodka,Ginger ale
+642,Fancy-Free Cocktail,Whiskies,Bourbon whiskey
+643,Fancy-Free Cocktail,Whiskies,Maraschino liqueur
+644,Fancy-Free Cocktail,Whiskies,Angostura Bitters
+645,Fancy-Free Cocktail,Whiskies,Orange Bitters
+646,Honeymoon Cocktail,Brandy,Apple Brandy
+647,Honeymoon Cocktail,Brandy,Benedictine
+648,Honeymoon Cocktail,Brandy,Fresh lemon juice
+649,Honeymoon Cocktail,Brandy,Triple Sec
+650,Twister,Vodka,Vodka
+651,Twister,Vodka,Fresh Lime Juice
+652,Everybody's Irish Cocktail,Whiskies,Irish Whiskey
+653,Everybody's Irish Cocktail,Whiskies,Green creme de menthe
+654,Everybody's Irish Cocktail,Whiskies,Green Chartreuse
+655,Everybody's Irish Cocktail,Whiskies,Green olive
+656,Trident,Vodka,Aquavit or vodka
+657,Trident,Vodka,Cynar
+658,Trident,Vodka,Dry Sherry
+659,Trident,Vodka,Peach bitters
+660,Top Banana,Vodka,Vodka
+661,Top Banana,Vodka,Creme de banana
+662,Top Banana,Vodka,Orange juice
+663,Emperor Norton's Mistress,Whiskies,"Fresh strawberries, cut in halves"
+664,Emperor Norton's Mistress,Whiskies,Bourbon whiskey
+665,Emperor Norton's Mistress,Whiskies,Vanilla liqueur
+666,Emperor Norton's Mistress,Whiskies,Triple Sec
+667,Easterner,Whiskies,Straight rye whiskey
+668,Easterner,Whiskies,Fresh grapefruit juice
+669,Easterner,Whiskies,Maple Syrup
+670,Toasted Drop,Vodka,"Lemon wedge, Cinnamon Sugar"
+671,Toasted Drop,Vodka,Citrus-flavored vodka
+672,Toasted Drop,Vodka,Limoncello
+673,Toasted Drop,Vodka,Amaretto
+674,Toasted Drop,Vodka,Fresh lemon juice
+675,Toasted Drop,Vodka,Egg White
+676,Eastern Sour,Whiskies,Bourbon whiskey
+677,Eastern Sour,Whiskies,Orange juice
+678,Eastern Sour,Whiskies,Fresh Lime Juice
+679,Eastern Sour,Whiskies,orgeat or almond syrup
+680,Eastern Sour,Whiskies,Simple Syrup
+681,K. C. B. Cocktail,Cocktail Classics,Kummel
+682,K. C. B. Cocktail,Cocktail Classics,Mr. Boston Gin
+683,K. C. B. Cocktail,Cocktail Classics,Mr. Boston Apricot Flavored Brandy
+684,K. C. B. Cocktail,Cocktail Classics,Lemon Juice
+685,Easter Elchies,Whiskies,Single-malt Scotch whisky
+686,Easter Elchies,Whiskies,Cherry Heering
+687,Easter Elchies,Whiskies,Punt e Mes
+688,Easter Elchies,Whiskies,Orange Bitters
+689,Dufftown Flip,Whiskies,Blended Scotch Whiskey
+690,Dufftown Flip,Whiskies,Port
+691,Dufftown Flip,Whiskies,Demerara Syrup
+692,Dufftown Flip,Whiskies,Almond milk
+693,Dufftown Flip,Whiskies,Whole Egg
+694,Harvard Cooler,Brandy,Apple Brandy
+695,Harvard Cooler,Brandy,Simple Syrup
+696,The Duboudreau Cocktail,Whiskies,Straight rye whiskey
+697,The Duboudreau Cocktail,Whiskies,Dubonnet Rouge
+698,The Duboudreau Cocktail,Whiskies,Fernet-Branca
+699,The Duboudreau Cocktail,Whiskies,Elderflower liqueur
+700,Irish Whisky,Cocktail Classics,Mr. Boston Triple Sec
+701,Irish Whisky,Cocktail Classics,Absinthe Substitute
+702,Irish Whisky,Cocktail Classics,Maraschino
+703,Irish Whisky,Cocktail Classics,Bitters
+704,Irish Whisky,Cocktail Classics,Irish Whiskey
+705,Dubliner,Whiskies,Irish Whiskey
+706,Dubliner,Whiskies,Sweet Vermouth
+707,Dubliner,Whiskies,Grand Marnier
+708,Dubliner,Whiskies,Orange Bitters
+709,Double Standard Sour,Whiskies,Rye or bourbon whiskey
+710,Double Standard Sour,Whiskies,Gin
+711,Double Standard Sour,Whiskies,Fresh lemon juice
+712,Double Standard Sour,Whiskies,White creme de menthe
+713,Double Standard Sour,Whiskies,Grenadine
+714,Double Standard Sour,Whiskies,Simple Syrup
+715,Dixie Whiskey Cocktail,Whiskies,Bourbon whiskey
+716,Dixie Whiskey Cocktail,Whiskies,White creme de menthe
+717,Dixie Whiskey Cocktail,Whiskies,Triple Sec
+718,Dixie Whiskey Cocktail,Whiskies,Simple Syrup
+719,Dixie Whiskey Cocktail,Whiskies,Angostura Bitters
+720,Hill Billy Highball,Cocktail Classics,Georgia Moon Corn Whiskey
+721,The Titian,Vodka,Orange-flavored vodka
+722,The Titian,Vodka,Grand Marnier
+723,The Titian,Vodka,Passion Fruit Juice
+724,The Titian,Vodka,Fresh Lime Juice
+725,The Titian,Vodka,Pomegranate syrup
+726,Tiger Tanaka,Vodka,Fresh cilantro leaves
+727,Tiger Tanaka,Vodka,Slice peeled fresh ginger
+728,Tiger Tanaka,Vodka,Citrus-flavored vodka
+729,Tiger Tanaka,Vodka,Limoncello
+730,Tiger Tanaka,Vodka,Pineapple Juice
+731,Grenadine Rickey,Cocktail Classics,Juice of a Lime
+732,Grenadine Rickey,Cocktail Classics,Grenadine
+733,Thyme Collins,Vodka,Citrus-flavored vodka
+734,Thyme Collins,Vodka,Mint syrup
+735,Thyme Collins,Vodka,Fresh lemon juice
+736,Thyme Collins,Vodka,Thyme sprig
+737,Thyme Collins,Vodka,Bitter lemon soda
+738,Thyme Collins,Vodka,Long thyme sprigs
+739,Tabby Cat,Vodka,Dubonnet Rouge
+740,Tabby Cat,Vodka,Orange-flavored vodka
+741,Tabby Cat,Vodka,Orange Bitters
+742,God Child,Cocktail Classics,Amaretto di Saronno
+743,God Child,Cocktail Classics,Mr. Boston Vodka
+744,God Child,Cocktail Classics,Heavy cream
+745,Sweet Maria,Vodka,Vodka
+746,Sweet Maria,Vodka,Amaretto
+747,Sweet Maria,Vodka,half-and-half
+748,Dirty Harry,Whiskies,Absinthe
+749,Dirty Harry,Whiskies,Straight rye whiskey
+750,Dirty Harry,Whiskies,Sweet Vermouth
+751,Dirty Harry,Whiskies,Maraschino liqueur
+752,Harvard Cocktail,Brandy,Brandy
+753,Harvard Cocktail,Brandy,Sweet Vermouth
+754,Harvard Cocktail,Brandy,Fresh lemon juice
+755,Harvard Cocktail,Brandy,Grenadine
+756,Harvard Cocktail,Brandy,Angostura Bitters
+757,Gin and Milk Punch,Cocktail Classics,Powdered Sugar
+758,Gin and Milk Punch,Cocktail Classics,Mr. Boston Gin
+759,Gin and Milk Punch,Cocktail Classics,Milk
+760,Surf Rider,Vodka,Vodka
+761,Surf Rider,Vodka,Sweet Vermouth
+762,Surf Rider,Vodka,Fresh orange juice
+763,Surf Rider,Vodka,Fresh lemon juice
+764,Surf Rider,Vodka,Grenadine
+765,Dinah Cocktail,Whiskies,Bourbon whiskey
+766,Dinah Cocktail,Whiskies,Fresh lemon juice
+767,Dinah Cocktail,Whiskies,Simple Syrup
+768,Tea Saronno,Cocktail Classics,Hot Tea
+769,Tea Saronno,Cocktail Classics,Amaretto di Saronno
+770,Tea Saronno,Cocktail Classics,Whipped cream
+771,The Summer Of Love,Vodka,Orange-flavored vodka
+772,The Summer Of Love,Vodka,Rose water
+773,The Summer Of Love,Vodka,Lillet Blanc
+774,The Summer Of Love,Vodka,Black raspberry liqueur
+775,Devil's Soul,Whiskies,Straight rye whiskey
+776,Devil's Soul,Whiskies,Mezcal
+777,Devil's Soul,Whiskies,Amaro
+778,Devil's Soul,Whiskies,Aperol
+779,Devil's Soul,Whiskies,Elderflower liqueur
+780,Deshler,Whiskies,Straight rye whiskey
+781,Deshler,Whiskies,Dubonnet Rouge
+782,Deshler,Whiskies,Triple Sec
+783,Deshler,Whiskies,Angostura Bitters
+784,T.N.T. No. 1,Cocktail Classics,Old Thompson Blended Whiskey
+785,T.N.T. No. 1,Cocktail Classics,Absinthe Substitute
+786,Stupid Cupid,Vodka,Citrus-flavored vodka
+787,Stupid Cupid,Vodka,Sloe gin
+788,Stupid Cupid,Vodka,Simple Syrup
+789,Stupid Cupid,Vodka,Fresh lemon juice
+790,Derby,Whiskies,Bourbon whiskey
+791,Derby,Whiskies,Benedictine
+792,Derby,Whiskies,Angostura Bitters
+793,Stockholm 75,Vodka,"Lemon wedge, superfine sugar"
+794,Stockholm 75,Vodka,Citrus-flavored vodka
+795,Stockholm 75,Vodka,Simple Syrup
+796,Stockholm 75,Vodka,Fresh lemon juice
+797,Stockholm 75,Vodka,Chilled Champagne
+798,The Delmarva Cocktail,Whiskies,Straight rye whiskey
+799,The Delmarva Cocktail,Whiskies,Dry Vermouth
+800,The Delmarva Cocktail,Whiskies,White creme de menthe
+801,The Delmarva Cocktail,Whiskies,Fresh lemon juice
+802,Sputnik,Vodka,Vodka
+803,Sputnik,Vodka,Peach schnapps
+804,Sputnik,Vodka,Fresh orange juice
+805,Sputnik,Vodka,half-and-half
+806,Gotham,Brandy,Absinthe or pastis
+807,Gotham,Brandy,Brandy
+808,Gotham,Brandy,Peach bitters
+809,De La Louisiane,Whiskies,Straight rye whiskey
+810,De La Louisiane,Whiskies,Sweet Vermouth
+811,De La Louisiane,Whiskies,Benedictine
+812,De La Louisiane,Whiskies,Absinthe or pastis
+813,De La Louisiane,Whiskies,Peychaud's Bitters
+814,The Debonair,Whiskies,Single-malt Scotch whisky
+815,The Debonair,Whiskies,Ginger liqueur
+816,Soviet,Vodka,Vodka
+817,Soviet,Vodka,Amontillado sherry
+818,Soviet,Vodka,Dry Vermouth
+819,Daisy Dueller,Whiskies,Tennessee whiskey
+820,Daisy Dueller,Whiskies,Fresh lemon juice
+821,Daisy Dueller,Whiskies,Simple Syrup
+822,Daisy Dueller,Whiskies,Triple Sec
+823,Sonic Blaster,Vodka,Vodka
+824,Sonic Blaster,Vodka,Light Rum
+825,Sonic Blaster,Vodka,Creme de banana
+826,Sonic Blaster,Vodka,Pineapple Juice
+827,Sonic Blaster,Vodka,Orange juice
+828,Sonic Blaster,Vodka,Cranberry Juice
+829,Creole Lady,Whiskies,Bourbon whiskey
+830,Creole Lady,Whiskies,Madeira
+831,Creole Lady,Whiskies,Grenadine
+832,Rum Coooler,Cocktail Classics,powdered sugar
+833,Rum Coooler,Cocktail Classics,carbonated water
+834,Rum Coooler,Cocktail Classics,Mr. Boston Rum
+835,Siberian Sleighride,Vodka,Vodka
+836,Siberian Sleighride,Vodka,White creme de cacao
+837,Siberian Sleighride,Vodka,White creme de menthe
+838,Siberian Sleighride,Vodka,half-and-half
+839,Cotton Club Flip,Whiskies,Vanilla-Infused Bourbon
+840,Cotton Club Flip,Whiskies,Honey-Currant Syrup
+841,Cotton Club Flip,Whiskies,Fresh Lime Juice
+842,Cotton Club Flip,Whiskies,Egg White
+843,Cotton Club Flip,Whiskies,Rhubarb bitters
+844,Golden Dawn,Brandy,Apple Brandy
+845,Golden Dawn,Brandy,Apricot-Flavored Brandy
+846,Golden Dawn,Brandy,Gin
+847,Golden Dawn,Brandy,Fresh orange juice
+848,Golden Dawn,Brandy,Grenadine
+849,Sidecar,Cocktail Classics,Cognac
+850,Sidecar,Cocktail Classics,Triple Sec
+851,Sidecar,Cocktail Classics,Fresh lemon juice
+852,Sidecar,Cocktail Classics,Vodka
+853,Sidecar,Cocktail Classics,Madeira
+854,Sidecar,Cocktail Classics,Fresh orange juice and orange wheel
+855,Shalom,Vodka,Vodka
+856,Shalom,Vodka,Madeira
+857,Shalom,Vodka,Fresh orange juice and orange wheel
+858,Shalom,Vodka,Bourbon Whiskey
+859,Shalom,Vodka,White creme de cacao
+860,Shalom,Vodka,Fresh lemon juice
+861,Commodore Cocktail,Whiskies,Bourbon Whiskey
+862,Commodore Cocktail,Whiskies,White creme de cacao
+863,Commodore Cocktail,Whiskies,Fresh lemon juice
+864,Commodore Cocktail,Whiskies,Grenadine
+865,Sea Breeze,Vodka,Vodka
+866,Sea Breeze,Vodka,Cranberry Juice
+867,Sea Breeze,Vodka,Fresh grapefruit juice
+868,Screwdriver,Vodka,Vodka
+869,Screwdriver,Vodka,Orange juice
+870,Coffee Old-Fashioned,Whiskies,Bourbon whiskey
+871,Coffee Old-Fashioned,Whiskies,Simple Syrup
+872,Coffee Old-Fashioned,Whiskies,Angostura Bitters
+873,Coffee Old-Fashioned,Whiskies,Cold brewed coffee
+874,Coffee Old-Fashioned,Whiskies,Soda water
+875,Dry Martini,Cocktail Classics,Mr. Boston Gin
+876,Dry Martini,Cocktail Classics,Dry Vermouth
+877,Salty Dog,Vodka,"Lemon wedge, coarse salt"
+878,Salty Dog,Vodka,Vodka
+879,Salty Dog,Vodka,Grapefruit Juice
+880,Dr. Cook,Cocktail Classics,Mr. Boston Gin
+881,Dr. Cook,Cocktail Classics,Lemon Juice
+882,Dr. Cook,Cocktail Classics,Maraschino
+883,Dr. Cook,Cocktail Classics,Egg White
+884,Dillatini Cocktail,Cocktail Classics,Mr. Boston Gin
+885,Dillatini Cocktail,Cocktail Classics,Dry Vermouth
+886,Chi-Town Flip,Whiskies,Bourbon whiskey
+887,Chi-Town Flip,Whiskies,Tawny port
+888,Chi-Town Flip,Whiskies,Fresh lemon juice
+889,Chi-Town Flip,Whiskies,Vanilla liqueur and 3 oz
+890,Chi-Town Flip,Whiskies,Simple Syrup
+891,Chi-Town Flip,Whiskies,Whole Egg and grated nutmet
+892,Chef's Pain,Vodka,Bourbon whiskey
+893,Chef's Pain,Vodka,Fresh Lime Juice
+894,Chef's Pain,Vodka,Blackberry liqueur
+895,Chef's Pain,Vodka,B & B
+896,Sampan Shipwreck A,Vodka,Vodka
+897,Sampan Shipwreck A,Vodka,Orange liqueur
+898,Sampan Shipwreck A,Vodka,Canned coconut milk
+899,Sampan Shipwreck A,Vodka,Cold brewed chai tea
+900,Sampan Shipwreck A,Vodka,orgeat or almond syrup
+901,Chas,Whiskies,Bourbon whiskey
+902,Chas,Whiskies,Amaretto
+903,Chas,Whiskies,Benedictine
+904,Chas,Whiskies,Triple Sec
+905,Chas,Whiskies,Orange curacao
+906,Goat's Delight,Brandy,Brandy
+907,Goat's Delight,Brandy,Kirschwasser
+908,Goat's Delight,Brandy,half-and-half
+909,Goat's Delight,Brandy,orgeat or almond syrup
+910,Goat's Delight,Brandy,Absinthe or pastis
+911,Russian Bear Cocktail,Vodka,Vodka
+912,Russian Bear Cocktail,Vodka,White creme de cacao
+913,Russian Bear Cocktail,Vodka,half-and-half
+914,Character Development,Whiskies,Scotch Whiskey
+915,Character Development,Whiskies,Coconut liqueur
+916,Character Development,Whiskies,Dry Sherry
+917,Character Development,Whiskies,Grapefruit bitters
+918,Ruby Red,Vodka,Grapefruit-flavored vodka
+919,Ruby Red,Vodka,Triple Sec
+920,Ruby Red,Vodka,Fresh ruby red grapefruit juice
+921,Ruby Red,Vodka,Fresh orange juice
+922,Chaplin,Whiskies,Bourbon whiskey
+923,Chaplin,Whiskies,Dry Sherry
+924,Chaplin,Whiskies,Ramazzotti Amaro
+925,Chaplin,Whiskies,Triple Sec
+926,Chaplin,Whiskies,Orange Bitters
+927,Rouxby Red,Vodka,"For glass Lemon wedge, coarse salt"
+928,Rouxby Red,Vodka,Grapefruit-flavored vodka
+929,Rouxby Red,Vodka,Fresh lemon juice
+930,Rouxby Red,Vodka,Grapefruit Juice
+931,Rouxby Red,Vodka,Campari
+932,Rouxby Red,Vodka,Simple Syrup
+933,Rosemary Clementine Sparkle,Vodka,Clementine or mandarin orange
+934,Rosemary Clementine Sparkle,Vodka,Vodka
+935,Rosemary Clementine Sparkle,Vodka,Fresh lemon juice
+936,Rosemary Clementine Sparkle,Vodka,Honey Syrup
+937,Rosemary Clementine Sparkle,Vodka,Fresh rosemary sprig
+938,Rosemary Clementine Sparkle,Vodka,Chilled sparkling wine or Champagne
+939,Chapel Hill,Whiskies,Bourbon whiskey
+940,Chapel Hill,Whiskies,Triple Sec
+941,Chapel Hill,Whiskies,Fresh lemon juice
+942,Robin's Nest,Vodka,Vodka
+943,Robin's Nest,Vodka,Cranberry Juice
+944,Robin's Nest,Vodka,White creme de cacao
+945,Chancellor Cocktail,Whiskies,Blended Scotch Whiskey
+946,Chancellor Cocktail,Whiskies,Dry Vermouth
+947,Chancellor Cocktail,Whiskies,Tawny port
+948,Chancellor Cocktail,Whiskies,Peychaud's Bitters
+949,Cafe di Saronno,Cocktail Classics,Amaretto di Saronno
+950,Carre Reprise,Whiskies,Straight rye whiskey
+951,Carre Reprise,Whiskies,Cognac
+952,Carre Reprise,Whiskies,Sweet Vermouth
+953,Carre Reprise,Whiskies,Elderflower liqueur
+954,Carre Reprise,Whiskies,Angostura Bitters
+955,Carre Reprise,Whiskies,Peychaud's Bitters
+956,Gilroy Cocktail,Brandy,cherry-flavored brandy
+957,Gilroy Cocktail,Brandy,Gin
+958,Gilroy Cocktail,Brandy,Dry Vermouth
+959,Gilroy Cocktail,Brandy,Fresh lemon juice
+960,Gilroy Cocktail,Brandy,Orange Bitters
+961,Redhead Martini,Vodka,"Strawberries, cut into halves"
+962,Redhead Martini,Vodka,Fresh lemon juice
+963,Redhead Martini,Vodka,Simple Syrup
+964,Redhead Martini,Vodka,Citrus-flavored vodka
+965,Redhead Martini,Vodka,Chilled Moscato d'Asti or sweet sparkling wine
+966,Red Apple,Vodka,Vodka
+967,Red Apple,Vodka,Apple juice
+968,Red Apple,Vodka,Fresh lemon juice
+969,Red Apple,Vodka,Grenadine
+970,Canal Street Daisy,Whiskies,Blended Scotch Whiskey
+971,Canal Street Daisy,Whiskies,Orange juice
+972,Canal Street Daisy,Whiskies,Fresh lemon juice
+973,Canal Street Daisy,Whiskies,Soda water
+974,Canal Street Daisy,Whiskies,Orange wheel
+975,Canadian Cocktail,Whiskies,Canadian whisky
+976,Canadian Cocktail,Whiskies,Triple Sec
+977,Canadian Cocktail,Whiskies,Simple Syrup
+978,Canadian Cocktail,Whiskies,Angostura Bitters
+979,Purple Ruby,Vodka,Vodka
+980,Purple Ruby,Vodka,Pomegranate juice
+981,Purple Ruby,Vodka,Grapefruit Juice
+982,Purple Ruby,Vodka,Fresh Lime Juice
+983,Purple Ruby,Vodka,Honey Syrup
+984,Canadian Cherry,Whiskies,Maraschino liqueur
+985,Canadian Cherry,Whiskies,Canadian whisky
+986,Canadian Cherry,Whiskies,Maraschino liqueur
+987,Canadian Cherry,Whiskies,Fresh lemon juice
+988,Canadian Cherry,Whiskies,Orange juice
+989,Orange Smile,Cocktail Classics,Egg
+990,Orange Smile,Cocktail Classics,Juice of Orange
+991,Orange Smile,Cocktail Classics,Grenadine
+992,Purple Passion Iced Tea,Vodka,Vodka
+993,Purple Passion Iced Tea,Vodka,Light Rum
+994,Purple Passion Iced Tea,Vodka,Gin
+995,Purple Passion Iced Tea,Vodka,Black raspberry liqueur
+996,Purple Passion Iced Tea,Vodka,Simple Syrup
+997,Purple Passion Iced Tea,Vodka,Fresh lemon juice and 3 oz
+998,Canadian Breeze,Whiskies,Canadian whisky
+999,Canadian Breeze,Whiskies,Pineapple Juice
+1000,Canadian Breeze,Whiskies,Fresh lemon juice
+1001,Canadian Breeze,Whiskies,Maraschino liqueur
+1002,Canadian Breeze,Whiskies,"Pineapple wedge, maraschino cherry"
+1003,Purple Passion,Vodka,Vodka
+1004,Purple Passion,Vodka,Grapefruit Juice
+1005,Purple Passion,Vodka,Concord grape juice
+1006,Purple Passion,Vodka,Simple Syrup
+1007,Cameron's Kick Cocktail,Whiskies,Blended Scotch Whiskey
+1008,Cameron's Kick Cocktail,Whiskies,Irish Whiskey
+1009,Cameron's Kick Cocktail,Whiskies,Fresh lemon juice
+1010,Cameron's Kick Cocktail,Whiskies,Orange Bitters
+1011,Georgia Mint Julep,Brandy,Mint sprigs
+1012,Georgia Mint Julep,Brandy,Simple Syrup
+1013,Georgia Mint Julep,Brandy,Brandy
+1014,Georgia Mint Julep,Brandy,Peach-flavored brandy
+1015,California Lemonade,Whiskies,Bourbon whiskey
+1016,California Lemonade,Whiskies,Fresh lemon juice
+1017,California Lemonade,Whiskies,Fresh Lime Juice
+1018,California Lemonade,Whiskies,Simple Syrup
+1019,California Lemonade,Whiskies,Grenadine
+1020,California Lemonade,Whiskies,"Soda water, Orange and lemon wheels, maraschino cherry"
+1021,Boston Side Car,Cocktail Classics,Mr. Boston Five Star Brandy
+1022,Boston Side Car,Cocktail Classics,Mr. Boston Rum
+1023,Boston Side Car,Cocktail Classics,Mr. Boston Triple Sec
+1024,Boston Side Car,Cocktail Classics,Juice of a Lime
+1025,Cablegram,Whiskies,Bourbon whiskey
+1026,Cablegram,Whiskies,Fresh lemon juice
+1027,Cablegram,Whiskies,Simple Syrup
+1028,Cablegram,Whiskies,Ginger ale
+1029,Bull And Bear,Whiskies,Bourbon whiskey
+1030,Bull And Bear,Whiskies,Orange curacao
+1031,Bull And Bear,Whiskies,Fresh lemon juice
+1032,Bull And Bear,Whiskies,Grenadine
+1033,Brooklyn,Whiskies,Rye or bourbon whiskey
+1034,Brooklyn,Whiskies,Sweet Vermouth
+1035,Brooklyn,Whiskies,Amer Picon or Torani Amer
+1036,Brooklyn,Whiskies,Maraschino liqueur
+1037,Brighton Punch,Whiskies,Bourbon whiskey
+1038,Brighton Punch,Whiskies,Brandy
+1039,Brighton Punch,Whiskies,Benedictine
+1040,Brighton Punch,Whiskies,Orange juice
+1041,Brighton Punch,Whiskies,Fresh lemon juice
+1042,Bourbon Renewal,Whiskies,Bourbon whiskey
+1043,Bourbon Renewal,Whiskies,Fresh lemon juice
+1044,Bourbon Renewal,Whiskies,Creme de Cassis
+1045,Bourbon Renewal,Whiskies,Simple Syrup
+1046,Bourbon Renewal,Whiskies,Angostura Bitters
+1047,Bourbon Highball,Whiskies,Bourbon whiskey
+1048,Bourbon And Elder,Whiskies,Bourbon whiskey
+1049,Bourbon And Elder,Whiskies,Elderflower liqueur
+1050,Bourbon And Elder,Whiskies,Angostura Bitters
+1051,Bourbon Crusta,Whiskies,"Lemon wedge, superfine sugar,  Long, wide spiral of orange zest"
+1052,Bourbon Crusta,Whiskies,Bourbon whiskey
+1053,Bourbon Crusta,Whiskies,Triple Sec
+1054,Bourbon Crusta,Whiskies,Maraschino liqueur
+1055,Bourbon Crusta,Whiskies,Fresh lemon juice
+1056,Bourbon Crusta,Whiskies,Orange Bitters
+1057,Bourbon Cooler,Whiskies,Bourbon whiskey
+1058,Bourbon Cooler,Whiskies,Fresh lemon juice
+1059,Bourbon Cooler,Whiskies,Grapefruit Juice
+1060,Bourbon Cooler,Whiskies,Orgeat Syrup
+1061,Froupe Cocktail,Brandy,Brandy
+1062,Froupe Cocktail,Brandy,Sweet Vermouth
+1063,Froupe Cocktail,Brandy,Benedictine
+1064,Bourbon A La Creme,Whiskies,Bourbon whiskey
+1065,Bourbon A La Creme,Whiskies,Dark creme de cacao
+1066,Bourbon A La Creme,Whiskies,Vanilla liqueur
+1067,The Bone,Whiskies,Bourbon whiskey
+1068,The Bone,Whiskies,Fresh Lime Juice
+1069,The Bone,Whiskies,Simple Syrup
+1070,The Bone,Whiskies,Hot red pepper sauce
+1071,Bobby Burns Cocktail,Whiskies,Blended Scotch Whiskey
+1072,Bobby Burns Cocktail,Whiskies,Sweet Vermouth
+1073,Bobby Burns Cocktail,Whiskies,Benedictine
+1074,Bloody Scotsman,Whiskies,"Smoky Scotch whisky, such as Laphroaig"
+1075,Bloody Scotsman,Whiskies,Tomato Juice
+1076,Bloody Scotsman,Whiskies,V8 cocktail juice
+1077,Bloody Scotsman,Whiskies,ketchup
+1078,Bloody Scotsman,Whiskies,Fresh Lime Juice
+1079,Bloody Scotsman,Whiskies,"Simple Syrup, 3/4 oz"
+1080,White Cargo Cocktail,Cocktail Classics,Vanilla Ice Cream
+1081,White Cargo Cocktail,Cocktail Classics,Mr. Boston Gin
+1082,Blood and Sand,Whiskies,Blended Scotch Whiskey
+1083,Blood and Sand,Whiskies,cherry-flavored brandy
+1084,Blood and Sand,Whiskies,Sweet Vermouth
+1085,Blood and Sand,Whiskies,Orange juice
+1086,The Blinker,Whiskies,Straight rye whisky
+1087,The Blinker,Whiskies,Grapefruit Juice
+1088,The Blinker,Whiskies,Raspberry Syrup
+1089,Pike's Peak Cooler,Cocktail Classics,Juice of a Lemon
+1090,Pike's Peak Cooler,Cocktail Classics,Powdered Sugar
+1091,Pike's Peak Cooler,Cocktail Classics,Whole Egg
+1092,Blarney Stone Cocktail,Whiskies,Irish Whiskey
+1093,Blarney Stone Cocktail,Whiskies,Anisette
+1094,Blarney Stone Cocktail,Whiskies,Triple Sec
+1095,Blarney Stone Cocktail,Whiskies,Maraschino liqueur
+1096,Blarney Stone Cocktail,Whiskies,Angostura Bitters
+1097,Blarney Stone Cocktail,Whiskies,"Orange twist, green olive"
+1098,Pacman,Cocktail Classics,Lemon Juice
+1099,Pacman,Cocktail Classics,Grenadine
+1100,Pacman,Cocktail Classics,Bitters
+1101,Lemonade (Golden),Cocktail Classics,Juice of a Lemon
+1102,Lemonade (Golden),Cocktail Classics,Powdered Sugar
+1103,Lemonade (Golden),Cocktail Classics,Egg Yolk
+1104,Lemonade (Golden),Cocktail Classics,Water
+1105,Black Hawk,Whiskies,Bourbon whiskey
+1106,Black Hawk,Whiskies,Sloe gin
+1107,Black Hawk,Whiskies,Maraschino cherry
+1108,Lemonade (Egg),Cocktail Classics,Juice of a Lemon
+1109,Lemonade (Egg),Cocktail Classics,Powdered Sugar
+1110,Lemonade (Egg),Cocktail Classics,Whole Egg
+1111,Bensonhurst,Whiskies,Cynar
+1112,Bensonhurst,Whiskies,Straight rye whiskey
+1113,Bensonhurst,Whiskies,Dry Vermouth
+1114,Bensonhurst,Whiskies,Maraschino liqueur
+1115,Chocolate Daisy,Cocktail Classics,Juice of a Lemon
+1116,Chocolate Daisy,Cocktail Classics,Powdered Sugar
+1117,Chocolate Daisy,Cocktail Classics,Grenadine
+1118,Chocolate Daisy,Cocktail Classics,Brandy
+1119,Chocolate Daisy,Cocktail Classics,Port
+1120,The Beautiful Day,Whiskies,Irish Whiskey
+1121,The Beautiful Day,Whiskies,Rhubarb Syrup
+1122,The Beautiful Day,Whiskies,Cold brewed green tea
+1123,French Quarter,Brandy,Brandy
+1124,French Quarter,Brandy,Lillet Blanc
+1125,Creme de Gin Cocktail,Cocktail Classics,Gin
+1126,Creme de Gin Cocktail,Cocktail Classics,White creme de menthe
+1127,Creme de Gin Cocktail,Cocktail Classics,Egg White
+1128,Creme de Gin Cocktail,Cocktail Classics,Lemon Juice
+1129,Creme de Gin Cocktail,Cocktail Classics,Orange Juice
+1130,Creamy Screwdriver,Cocktail Classics,Vodka
+1131,Creamy Screwdriver,Cocktail Classics,Egg Yolk
+1132,Creamy Screwdriver,Cocktail Classics,Orange Juice
+1133,Creamy Screwdriver,Cocktail Classics,Sugar
+1134,Creamy Orange,Cocktail Classics,Orange Juice
+1135,Creamy Orange,Cocktail Classics,Cream sherry
+1136,Creamy Orange,Cocktail Classics,Brandy
+1137,Creamy Orange,Cocktail Classics,Light cream
+1138,Creamsicle,Cocktail Classics,Vanilla liqueur
+1139,Creamsicle,Cocktail Classics,Milk
+1140,Creamsicle,Cocktail Classics,Orange Juice
+1141,Cowboy Cocktail,Cocktail Classics,Blended whiskey
+1142,Cowboy Cocktail,Cocktail Classics,Light cream
+1143,Beals Cocktail,Whiskies,Blended Scotch Whiskey
+1144,Beals Cocktail,Whiskies,Dry Vermouth
+1145,Beals Cocktail,Whiskies,Sweet Vermouth
+1146,Coronation Cocktail,Cocktail Classics,Gin
+1147,Coronation Cocktail,Cocktail Classics,Dubonnet
+1148,Coronation Cocktail,Cocktail Classics,Dry Vermouth
+1149,Cornell Cocktail,Cocktail Classics,Lemon Juice
+1150,Cornell Cocktail,Cocktail Classics,Maraschino
+1151,Cornell Cocktail,Cocktail Classics,Egg White
+1152,Cornell Cocktail,Cocktail Classics,Gin
+1153,Combo,Cocktail Classics,Dry Vermouth
+1154,Combo,Cocktail Classics,Brandy
+1155,Combo,Cocktail Classics,Triple Sec
+1156,Combo,Cocktail Classics,Powdered Sugar
+1157,Combo,Cocktail Classics,Bitters
+1158,Basin Street,Whiskies,Bourbon whiskey
+1159,Basin Street,Whiskies,Triple Sec
+1160,Basin Street,Whiskies,Fresh lemon juice
+1161,Cole's Raspberry Cream,Cocktail Classics,Raspberry Yogurt
+1162,Cole's Raspberry Cream,Cocktail Classics,Raspberry Ice Cream
+1163,Cole's Raspberry Cream,Cocktail Classics,White creme de cacao
+1164,Cole's Raspberry Cream,Cocktail Classics,Vodka
+1165,Cole's Raspberry Cream,Cocktail Classics,Heavy cream
+1166,Cognac Coupling,Cocktail Classics,Cognac
+1167,Cognac Coupling,Cocktail Classics,Tawny port
+1168,Cognac Coupling,Cocktail Classics,Anis
+1169,Cognac Coupling,Cocktail Classics,Lemon Juice
+1170,Coffee Sour,Cocktail Classics,Coffee-flavored brandy
+1171,Coffee Sour,Cocktail Classics,Lemon Juice
+1172,Coffee Sour,Cocktail Classics,Powdered Sugar
+1173,Coffee Sour,Cocktail Classics,Egg White
+1174,Coffee Flip,Cocktail Classics,Whole Egg
+1175,Coffee Flip,Cocktail Classics,Powdered Sugar
+1176,Coffee Flip,Cocktail Classics,Brandy
+1177,Coffee Flip,Cocktail Classics,Port
+1178,Coffee Flip,Cocktail Classics,Light Cream (if desired)
+1179,Coffee Cocktail,Cocktail Classics,Whole Egg
+1180,Coffee Cocktail,Cocktail Classics,Powdered Sugar
+1181,Coffee Cocktail,Cocktail Classics,Port
+1182,Coffee Cocktail,Cocktail Classics,Brandy
+1183,Purple Mask,Vodka,Vodka
+1184,Purple Mask,Vodka,Concord grape juice
+1185,Purple Mask,Vodka,White creme de cacao
+1186,Clove Cocktail,Cocktail Classics,Sweet Vermouth
+1187,Clove Cocktail,Cocktail Classics,Sloe gin
+1188,Clove Cocktail,Cocktail Classics,Muscatel Wine
+1189,Clover Leaf Cocktail,Cocktail Classics,Juice of a Lime
+1190,Clover Leaf Cocktail,Cocktail Classics,Grenadine
+1191,Clover Leaf Cocktail,Cocktail Classics,Egg White
+1192,Clover Leaf Cocktail,Cocktail Classics,Gin
+1193,Clover Club Cocktail,Cocktail Classics,Juice of a Lemon
+1194,Clover Club Cocktail,Cocktail Classics,Grenadine
+1195,Clover Club Cocktail,Cocktail Classics,Egg White
+1196,Clover Club Cocktail,Cocktail Classics,Gin
+1197,Priority Cocktail,Vodka,Vodka
+1198,Priority Cocktail,Vodka,Calvados
+1199,Priority Cocktail,Vodka,Coffee liqueur
+1200,Clamato Cocktail,Cocktail Classics,Vodka
+1201,Clamato Cocktail,Cocktail Classics,Clam Juice
+1202,Clamato Cocktail,Cocktail Classics,Tomato Juice
+1203,Cider Eggnog,Cocktail Classics,Whole Egg
+1204,Cider Eggnog,Cocktail Classics,Powdered Sugar
+1205,Cider Eggnog,Cocktail Classics,Milk
+1206,Chocolate Soldier,Cocktail Classics,Juice of a Lime
+1207,Chocolate Soldier,Cocktail Classics,Dubonnet
+1208,Chocolate Soldier,Cocktail Classics,Gin
+1209,Chocolate Flip,Cocktail Classics,Whole Egg
+1210,Chocolate Flip,Cocktail Classics,Powdered Sugar
+1211,Chocolate Flip,Cocktail Classics,Sloe gin
+1212,Chocolate Flip,Cocktail Classics,Brandy
+1213,Chocolate Flip,Cocktail Classics,Light Cream (if desired)
+1214,Chocolate Cocktail,Cocktail Classics,Port
+1215,Chocolate Cocktail,Cocktail Classics,Yellow Chartreuse
+1216,Chocolate Cocktail,Cocktail Classics,Egg Yolk
+1217,Chocolate Cocktail,Cocktail Classics,Powdered Sugar
+1218,Chicago Fizz,Cocktail Classics,Juice of a Lemon
+1219,Chicago Fizz,Cocktail Classics,Powdered Sugar
+1220,Chicago Fizz,Cocktail Classics,Egg White
+1221,Chicago Fizz,Cocktail Classics,Port
+1222,Chicago Fizz,Cocktail Classics,Light Rum
+1223,Pretty In Pink,Vodka,Vodka
+1224,Pretty In Pink,Vodka,Cranberry Juice
+1225,Pretty In Pink,Vodka,Creme de noyaux
+1226,Pretty In Pink,Vodka,Fresh lemon juice
+1227,Cherry Wine Cocktail,Cocktail Classics,Danish Cherry Wine
+1228,Cherry Wine Cocktail,Cocktail Classics,Vodka
+1229,Cherry Wine Cocktail,Cocktail Classics,Juice of a Lime
+1230,Cherry Flip,Cocktail Classics,Whole Egg
+1231,Cherry Flip,Cocktail Classics,Powdered Sugar
+1232,Cherry Flip,Cocktail Classics,cherry-flavored brandy
+1233,Cherry Flip,Cocktail Classics,Light Cream (if desired)
+1234,Cherry Cooler,Cocktail Classics,Cherry Vodka
+1235,Polynesian Cocktail,Vodka,Vodka
+1236,Polynesian Cocktail,Vodka,cherry-flavored brandy
+1237,Polynesian Cocktail,Vodka,Fresh Lime Juice
+1238,Chateau Briand's Rum Cow,Cocktail Classics,Dark rum
+1239,Chateau Briand's Rum Cow,Cocktail Classics,Sugar
+1240,Chateau Briand's Rum Cow,Cocktail Classics,Bitters
+1241,Chateau Briand's Rum Cow,Cocktail Classics,Milk
+1242,Champagne Velvet,Cocktail Classics,Chilled Stout
+1243,Champagne Velvet,Cocktail Classics,Chilled Champagne
+1244,Pink Pussycat,Vodka,Vodka
+1245,Pink Pussycat,Vodka,Pineapple or grapefruit juice
+1246,Pink Pussycat,Vodka,Grenadine
+1247,Back Porch Swizzle,Whiskies,Bourbon whiskey
+1248,Back Porch Swizzle,Whiskies,Dry Vermouth
+1249,Back Porch Swizzle,Whiskies,Pineapple Juice
+1250,Back Porch Swizzle,Whiskies,Ginger beer
+1251,Canadian Pineapple,Cocktail Classics,Canadian whisky
+1252,Canadian Pineapple,Cocktail Classics,Pineapple Juice
+1253,Canadian Pineapple,Cocktail Classics,Lemon Juice
+1254,Canadian Pineapple,Cocktail Classics,Maraschino
+1255,Calm Voyage,Cocktail Classics,Strega
+1256,Calm Voyage,Cocktail Classics,Light Rum
+1257,Calm Voyage,Cocktail Classics,Passion Fruit Syrup
+1258,Calm Voyage,Cocktail Classics,Lemon Juice
+1259,Calm Voyage,Cocktail Classics,Egg White
+1260,Pink Lemonade,Vodka,Citrus-flavored vodka
+1261,Pink Lemonade,Vodka,Triple Sec
+1262,Pink Lemonade,Vodka,Fresh Lime Juice
+1263,Pink Lemonade,Vodka,Fresh lemon juice
+1264,Pink Lemonade,Vodka,Simple Syrup
+1265,Pink Lemonade,Vodka,"Cranberry Juice, lemon wheel"
+1266,Caledonia,Cocktail Classics,Creme de Cacao (Brown)
+1267,Caledonia,Cocktail Classics,Brandy
+1268,Caledonia,Cocktail Classics,Milk
+1269,Caledonia,Cocktail Classics,Egg Yolk
+1270,Caf_ di Amaretto,Cocktail Classics,Hot Black Coffee
+1271,Caf_ di Amaretto,Cocktail Classics,Amaretto
+1272,Cafe De Paris Cocktail,Cocktail Classics,Egg White
+1273,Cafe De Paris Cocktail,Cocktail Classics,Anis
+1274,Cafe De Paris Cocktail,Cocktail Classics,Light cream
+1275,Cafe De Paris Cocktail,Cocktail Classics,Gin
+1276,Aztec's Mark,Whiskies,Bourbon whiskey
+1277,Aztec's Mark,Whiskies,White creme de cacao
+1278,Aztec's Mark,Whiskies,Benedictine
+1279,Aztec's Mark,Whiskies,Hot red pepper sauce
+1280,Fontainebleau Special,Brandy,Brandy
+1281,Fontainebleau Special,Brandy,Anisette
+1282,Fontainebleau Special,Brandy,Dry Vermouth
+1283,Suntan,Cocktail Classics,Hot Shot Tropical Fruit Liqueur
+1284,Suntan,Cocktail Classics,Orange Juice
+1285,Sunburn,Cocktail Classics,Hot Shot Tropical Fruit Liqueur
+1286,Sunburn,Cocktail Classics,Grapefruit Juice
+1287,Suissesse Cocktail,Cocktail Classics,Anisette
+1288,Suissesse Cocktail,Cocktail Classics,Egg White
+1289,Strawberry Sunries,Cocktail Classics,Strawberry schnapps
+1290,Strawberry Sunries,Cocktail Classics,Grenadine
+1291,Autumn Leaves,Whiskies,Straight rye whiskey
+1292,Autumn Leaves,Whiskies,Apple Brandy
+1293,Autumn Leaves,Whiskies,Sweet Vermouth
+1294,Autumn Leaves,Whiskies,Strega
+1295,Autumn Leaves,Whiskies,Angostura Bitters
+1296,Pickled Pink,Vodka,Vodka
+1297,Pickled Pink,Vodka,Aquavit
+1298,Pickled Pink,Vodka,Dill pickle brine
+1299,Pickled Pink,Vodka,Angostura Bitters
+1300,Aquarius,Whiskies,Blended Scotch Whiskey
+1301,Aquarius,Whiskies,cherry-flavored brandy
+1302,Aquarius,Whiskies,Cranberry Juice
+1303,Soul Kiss Cocktail,Cocktail Classics,Orange Juice
+1304,Soul Kiss Cocktail,Cocktail Classics,Dubonnet
+1305,Soul Kiss Cocktail,Cocktail Classics,Dry Vermouth
+1306,Soul Kiss Cocktail,Cocktail Classics,Bourbon
+1307,Pickled Martini,Vodka,Vodka
+1308,Pickled Martini,Vodka,Dry Vermouth
+1309,Pickled Martini,Vodka,Sweet pickle brine
+1310,Pickled Martini,Vodka,Sweet pickle slice
+1311,Sloe Gin Flip,Cocktail Classics,Whole Egg
+1312,Sloe Gin Flip,Cocktail Classics,Powdered Sugar
+1313,Sloe Gin Flip,Cocktail Classics,Sloe gin
+1314,Sloe Gin Flip,Cocktail Classics,Light Cream (if desired)
+1315,Angel's Share,Whiskies,Bourbon whiskey
+1316,Angel's Share,Whiskies,Amaro
+1317,Angel's Share,Whiskies,Creme de Cassis
+1318,Angel's Share,Whiskies,Orange Bitters
+1319,Silver Stallion Fizz,Cocktail Classics,Vanilla Ice Cream
+1320,Silver Stallion Fizz,Cocktail Classics,Gin
+1321,Silver King Cocktail,Cocktail Classics,Egg White
+1322,Silver King Cocktail,Cocktail Classics,Juice of a Lemon
+1323,Silver King Cocktail,Cocktail Classics,Gin
+1324,Silver King Cocktail,Cocktail Classics,Powdered Sugar
+1325,Silver King Cocktail,Cocktail Classics,Orange Bitters
+1326,American Trilogy,Whiskies,"Brown sugar cube, such as Demerara"
+1327,American Trilogy,Whiskies,Straight rye whiskey
+1328,American Trilogy,Whiskies,Applejack
+1329,Silver Fizz,Cocktail Classics,Juice of a Lemon
+1330,Silver Fizz,Cocktail Classics,Powdered Sugar
+1331,Silver Fizz,Cocktail Classics,Gin
+1332,Silver Fizz,Cocktail Classics,Egg White
+1333,Sherry Twist Cocktail,Cocktail Classics,Cream sherry
+1334,Sherry Twist Cocktail,Cocktail Classics,Brandy
+1335,Sherry Twist Cocktail,Cocktail Classics,Dry Vermouth
+1336,Sherry Twist Cocktail,Cocktail Classics,Triple Sec
+1337,Sherry Twist Cocktail,Cocktail Classics,Lemon Juice
+1338,Sherry Sangaree,Cocktail Classics,Powdered Sugar
+1339,Sherry Sangaree,Cocktail Classics,Water
+1340,Sherry Sangaree,Cocktail Classics,Cream sherry
+1341,Sherry Sangaree,Cocktail Classics,Port
+1342,Sherry Milk Punch,Cocktail Classics,Powdered Sugar
+1343,Sherry Milk Punch,Cocktail Classics,Cream sherry
+1344,Petit Zinc,Vodka,Vodka
+1345,Petit Zinc,Vodka,Triple Sec
+1346,Petit Zinc,Vodka,Sweet Vermouth
+1347,Petit Zinc,Vodka,Orange juice
+1348,Sherry Flip,Cocktail Classics,Whole Egg
+1349,Sherry Flip,Cocktail Classics,Powdered Sugar
+1350,Sherry Flip,Cocktail Classics,Cream sherry
+1351,Sherry Flip,Cocktail Classics,Light Cream (if desired)
+1352,Sherry-and-Egg Cocktail,Cocktail Classics,cream sherry
+1353,Americana,Whiskies,Tennessee whiskey
+1354,Americana,Whiskies,Simple Syrup
+1355,Americana,Whiskies,Angostura Bitters
+1356,Allegheny,Whiskies,Bourbon whiskey
+1357,Allegheny,Whiskies,Dry Vermouth
+1358,Allegheny,Whiskies,Blackberry-flavored brandy
+1359,Allegheny,Whiskies,Fresh lemon juice
+1360,Sevilla Cocktail,Cocktail Classics,Powdered Sugar
+1361,Sevilla Cocktail,Cocktail Classics,Whole Egg
+1362,Sevilla Cocktail,Cocktail Classics,Port
+1363,Sevilla Cocktail,Cocktail Classics,Light Rum
+1364,September Morn Cocktail,Cocktail Classics,Egg White
+1365,September Morn Cocktail,Cocktail Classics,Light Rum
+1366,September Morn Cocktail,Cocktail Classics,Juice of a Lime
+1367,September Morn Cocktail,Cocktail Classics,Grenadine
+1368,Peach Iced Tea,Vodka,Peach-flavored vodka
+1369,Peach Iced Tea,Vodka,Orange curacao
+1370,Peach Iced Tea,Vodka,Fresh lemon juice
+1371,Peach Iced Tea,Vodka,Honey Syrup
+1372,Peach Iced Tea,Vodka,Iced tea
+1373,Fantasio Cocktail,Brandy,Brandy
+1374,Fantasio Cocktail,Brandy,Dry Vermouth
+1375,Fantasio Cocktail,Brandy,White creme de menthe
+1376,Fantasio Cocktail,Brandy,Maraschino liqueur
+1377,Scotch Bird Flyer,Cocktail Classics,Scotch
+1378,Scotch Bird Flyer,Cocktail Classics,Egg Yolk
+1379,Scotch Bird Flyer,Cocktail Classics,Triple Sec
+1380,Scotch Bird Flyer,Cocktail Classics,Powdered Sugar
+1381,Scotch Bird Flyer,Cocktail Classics,Light cream
+1382,Algonquin,Whiskies,Straight rye whiskey
+1383,Algonquin,Whiskies,Dry Vermouth
+1384,Algonquin,Whiskies,Pineapple Juice
+1385,Savannah,Cocktail Classics,Juice of Orange
+1386,Savannah,Cocktail Classics,Gin
+1387,Savannah,Cocktail Classics,White creme de cacao
+1388,Savannah,Cocktail Classics,Egg White
+1389,Pink Rose Fizz,Cocktail Classics,Juice of a Lemon
+1390,Pink Rose Fizz,Cocktail Classics,Powdered Sugar
+1391,Pink Rose Fizz,Cocktail Classics,Egg White
+1392,Pink Rose Fizz,Cocktail Classics,Light cream
+1393,Pink Rose Fizz,Cocktail Classics,Gin
+1394,Ninotchka Cocktail,Vodka,Vodka
+1395,Ninotchka Cocktail,Vodka,White creme de cacao
+1396,Ninotchka Cocktail,Vodka,Fresh lemon juice
+1397,Prairie Oyster,Cocktail Classics,Brandy
+1398,Prairie Oyster,Cocktail Classics,Worcestershire Sauce
+1399,Prairie Oyster,Cocktail Classics,Catsup
+1400,Prairie Oyster,Cocktail Classics,Vinegar
+1401,Prairie Oyster,Cocktail Classics,Pepper
+1402,Prairie Chicken,Cocktail Classics,Gin
+1403,Prairie Chicken,Cocktail Classics,Whole Egg
+1404,Pousse L'Amour,Cocktail Classics,Maraschino
+1405,Pousse L'Amour,Cocktail Classics,Egg Yolk
+1406,Pousse L'Amour,Cocktail Classics,Benedictine
+1407,Pousse L'Amour,Cocktail Classics,Brandy
+1408,Puerto Apple,Cocktail Classics,Applejack
+1409,Puerto Apple,Cocktail Classics,Light Rum
+1410,Puerto Apple,Cocktail Classics,Lime Juice
+1411,Puerto Apple,Cocktail Classics,Orgeat Syrup
+1412,Akogare,Whiskies,Straight rye whiskey
+1413,Akogare,Whiskies,Ginger syrup
+1414,Akogare,Whiskies,"Cold brewed black tea, preferably Japanese"
+1415,Akogare,Whiskies,Fresh lemon juice
+1416,Prado,Cocktail Classics,Tequila
+1417,Prado,Cocktail Classics,Lemon Juice
+1418,Prado,Cocktail Classics,Maraschino
+1419,Prado,Cocktail Classics,Egg White
+1420,Prado,Cocktail Classics,Grenadine
+1421,Port Wine Flip,Cocktail Classics,Whole Egg
+1422,Port Wine Flip,Cocktail Classics,Powdered Sugar
+1423,Port Wine Flip,Cocktail Classics,Port
+1424,Port Wine Flip,Cocktail Classics,Light Cream (if desired)
+1425,Port Wine Cobbler,Cocktail Classics,powdered sugar
+1426,Port Wine Cobbler,Cocktail Classics,carbonated water
+1427,Port Wine Cobbler,Cocktail Classics,port
+1428,Nijinksy Blini,Vodka,Vodka
+1429,Nijinksy Blini,Vodka,Peach schnapps
+1430,Nijinksy Blini,Vodka,Peach puree
+1431,Nijinksy Blini,Vodka,Fresh lemon juice
+1432,Affinity Cocktail (whisky),Whiskies,Blended Scotch Whiskey
+1433,Affinity Cocktail (whisky),Whiskies,Dry Vermouth
+1434,Affinity Cocktail (whisky),Whiskies,Sweet Vermouth
+1435,Affinity Cocktail (whisky),Whiskies,Orange Bitters
+1436,Plain Vermouth Cocktail,Cocktail Classics,Dry Vermouth
+1437,Plain Vermouth Cocktail,Cocktail Classics,Sweet Vermouth
+1438,Plain Vermouth Cocktail,Cocktail Classics,Orange Bitters
+1439,Ping-Pong Cocktail,Cocktail Classics,Juice of a Lemon
+1440,Ping-Pong Cocktail,Cocktail Classics,Egg White
+1441,Ping-Pong Cocktail,Cocktail Classics,Sloe gin
+1442,Moscow Mule,Vodka,Vodka
+1443,Moscow Mule,Vodka,Fresh Lime Juice
+1444,Phoebe Snow,Cocktail Classics,Dubonnet
+1445,Phoebe Snow,Cocktail Classics,Brandy
+1446,Phoebe Snow,Cocktail Classics,Anis
+1447,Affinity Cocktail,Whiskies,Straight rye whiskey
+1448,Affinity Cocktail,Whiskies,Maraschino liqueur
+1449,Affinity Cocktail,Whiskies,Fresh lemon juice
+1450,Affinity Cocktail,Whiskies,Orange Bitters
+1451,Peggy Cocktail,Cocktail Classics,Dry Vermouth
+1452,Peggy Cocktail,Cocktail Classics,Gin
+1453,Peggy Cocktail,Cocktail Classics,Anis
+1454,Peggy Cocktail,Cocktail Classics,Dubonnet
+1455,Peach Blow Fizz,Cocktail Classics,Juice of a Lemon
+1456,Peach Blow Fizz,Cocktail Classics,Powdered Sugar
+1457,Peach Blow Fizz,Cocktail Classics,Light cream
+1458,Peach Blow Fizz,Cocktail Classics,Gin
+1459,Peach Blow Fizz,Cocktail Classics,Peach
+1460,Peach Blossom,Cocktail Classics,Lemon Juice
+1461,Peach Blossom,Cocktail Classics,Powdered Sugar
+1462,Peach Blossom,Cocktail Classics,Gin
+1463,Peach Blossom,Cocktail Classics,Peach
+1464,Passion Mimosa,Cocktail Classics,Chilled Passion Fruit Juice
+1465,Mocha Express,Vodka,Vodka
+1466,Mocha Express,Vodka,Irish cream liqueur
+1467,Mocha Express,Vodka,Coffee liqueur
+1468,Mocha Express,Vodka,Cold brewed espresso coffee
+1469,Palmer Cocktail,Cocktail Classics,Blended whiskey
+1470,Palmer Cocktail,Cocktail Classics,Bitters
+1471,Palmer Cocktail,Cocktail Classics,Lemon Juice
+1472,Mr. 404,Vodka,Vodka
+1473,Mr. 404,Vodka,Elderflower liqueur
+1474,Mr. 404,Vodka,Fresh lemon juice
+1475,Mr. 404,Vodka,Simple Syrup
+1476,Mr. 404,Vodka,Aperol
+1477,Mountain Cocktail,Cocktail Classics,Egg White
+1478,Mountain Cocktail,Cocktail Classics,Lemon Juice
+1479,Mountain Cocktail,Cocktail Classics,Dry Vermouth
+1480,Mountain Cocktail,Cocktail Classics,Sweet Vermouth
+1481,Mountain Cocktail,Cocktail Classics,Blended whiskey
+1482,Morning Glory Fizz,Cocktail Classics,Juice of a Lemon
+1483,Morning Glory Fizz,Cocktail Classics,Powdered Sugar
+1484,Morning Glory Fizz,Cocktail Classics,Egg White
+1485,Morning Glory Fizz,Cocktail Classics,Anis
+1486,Morning Glory Fizz,Cocktail Classics,Scotch
+1487,Adderly Cocktail,Whiskies,Straight rye whiskey
+1488,Adderly Cocktail,Whiskies,Maraschino liqueur
+1489,Adderly Cocktail,Whiskies,Orange Bitters
+1490,Adderly Cocktail,Whiskies,Fresh lemon juice
+1491,Fancy Brandy,Brandy,Brandy
+1492,Fancy Brandy,Brandy,Triple Sec
+1493,Fancy Brandy,Brandy,Simple Syrup
+1494,Fancy Brandy,Brandy,Angostura Bitters
+1495,Montreal Gin Sour,Cocktail Classics,Gin
+1496,Montreal Gin Sour,Cocktail Classics,Lemon Juice
+1497,Montreal Gin Sour,Cocktail Classics,Egg White
+1498,Montreal Gin Sour,Cocktail Classics,Powdered Sugar
+1499,Montezuma,Cocktail Classics,Tequila
+1500,Montezuma,Cocktail Classics,Madeira
+1501,Montezuma,Cocktail Classics,Egg Yolk
+1502,Montezuma,Cocktail Classics,Crushed ice
+1503,Miss Jones,Vodka,Vanilla-flavored vodka
+1504,Miss Jones,Vodka,Fresh lemon juice
+1505,Miss Jones,Vodka,Butterscotch schnapps
+1506,Miss Jones,Vodka,Limoncello
+1507,Mint Gin Cocktail,Cocktail Classics,Mint-Flavored Gin
+1508,Mint Gin Cocktail,Cocktail Classics,White Port Wine
+1509,Mint Gin Cocktail,Cocktail Classics,Dry Vermouth
+1510,Mint Collins,Cocktail Classics,Juice of a Lemon
+1511,Mint Collins,Cocktail Classics,Mint-Flavored Gin
+1512,Million-Dollar Cocktail,Cocktail Classics,Pineapple Juice
+1513,Million-Dollar Cocktail,Cocktail Classics,Grenadine
+1514,Million-Dollar Cocktail,Cocktail Classics,Egg White
+1515,Million-Dollar Cocktail,Cocktail Classics,Sweet Vermouth
+1516,Million-Dollar Cocktail,Cocktail Classics,Gin
+1517,Millionaire Cocktail,Cocktail Classics,Egg White
+1518,Millionaire Cocktail,Cocktail Classics,Grenadine
+1519,Millionaire Cocktail,Cocktail Classics,Triple Sec
+1520,Millionaire Cocktail,Cocktail Classics,Blended whiskey
+1521,Academic Review,Whiskies,Irish Whiskey
+1522,Academic Review,Whiskies,Applejack
+1523,Academic Review,Whiskies,Amaro Nonino
+1524,Academic Review,Whiskies,Rye Whiskey
+1525,Academic Review,Whiskies,Demerara Syrup
+1526,Academic Review,Whiskies,Mole bitters 1 oz
+1527,Milk Punch,Cocktail Classics,Powdered Sugar
+1528,Milk Punch,Cocktail Classics,Blended whiskey
+1529,Milk Punch,Cocktail Classics,Milk
+1530,Merry Widow Fizz,Cocktail Classics,Juice of Orange
+1531,Merry Widow Fizz,Cocktail Classics,Juice of a Lemon
+1532,Merry Widow Fizz,Cocktail Classics,Egg White
+1533,Merry Widow Fizz,Cocktail Classics,Powdered Sugar
+1534,Merry Widow Fizz,Cocktail Classics,Sloe gin
+1535,May Blossom Fizz,Cocktail Classics,Grenadine
+1536,May Blossom Fizz,Cocktail Classics,Juice of a Lemon
+1537,May Blossom Fizz,Cocktail Classics,Swedish Punch
+1538,Mary Garden Cocktail,Cocktail Classics,Dubonnet
+1539,Mary Garden Cocktail,Cocktail Classics,Dry Vermouth
+1540,19th Century,Whiskies,Bourbon whiskey
+1541,19th Century,Whiskies,Fresh lemon juice
+1542,19th Century,Whiskies,White creme de cacao
+1543,19th Century,Whiskies,Lillet Rouge
+1544,Manila Fizz,Cocktail Classics,Gin
+1545,Manila Fizz,Cocktail Classics,Whole Egg
+1546,Manila Fizz,Cocktail Classics,Powdered Sugar
+1547,Manila Fizz,Cocktail Classics,Root Beer
+1548,Manila Fizz,Cocktail Classics,Juice of a Lime
+1549,1626,Whiskies,Bourbon whiskey
+1550,1626,Whiskies,Gingerbread liqueur
+1551,1626,Whiskies,cherry-flavored brandy
+1552,1626,Whiskies,Angostura Bitters
+1553,1626,Whiskies,Italian preserved cherry
+1554,Maracuya Mosquito,Vodka,Fresh basil leaves
+1555,Maracuya Mosquito,Vodka,Vodka
+1556,Maracuya Mosquito,Vodka,Green Chartreuse
+1557,Maracuya Mosquito,Vodka,Fresh Lime Juice
+1558,Maracuya Mosquito,Vodka,Simple Syrup
+1559,Maracuya Mosquito,Vodka,"Passion Fruit Juice, basil leaf"
+1560,Madras,Vodka,Vodka
+1561,Madras,Vodka,Cranberry Juice
+1562,Madras,Vodka,Orange juice
+1563,Absinthe Cocktail,Cocktail Classics,Absinthe Substitute
+1564,Absinthe Cocktail,Cocktail Classics,Water
+1565,Absinthe Cocktail,Cocktail Classics,Old Mr. Boston Anisette
+1566,Absinthe Cocktail,Cocktail Classics,Orange Bitters
+1567,Lychee Lucy,Vodka,Vodka
+1568,Lychee Lucy,Vodka,Lychee liqueur
+1569,Lychee Lucy,Vodka,Fresh orange juice
+1570,Lychee Lucy,Vodka,Pineapple Juice
+1571,Lychee Lucy,Vodka,Angostura Bitters
+1572,Vodka Martini,Cocktail Classics,Mr. Boston Vodka
+1573,Vodka Martini,Cocktail Classics,Dry Vermouth
+1574,The Loop,Vodka,Black cherry-flavored vodka
+1575,The Loop,Vodka,White creme de cacao
+1576,The Loop,Vodka,Chile Syrup
+1577,Long Island Iced Tea,Vodka,Vodka
+1578,Long Island Iced Tea,Vodka,Blanco tequila
+1579,Long Island Iced Tea,Vodka,Gin
+1580,Long Island Iced Tea,Vodka,Light Rum
+1581,Long Island Iced Tea,Vodka,Triple Sec
+1582,Long Island Iced Tea,Vodka,"Simple Syrup, 1/2 oz"
+1583,Fallen Leaves,Brandy,Calvados
+1584,Fallen Leaves,Brandy,Sweet Vermouth
+1585,Fallen Leaves,Brandy,Dry Vermouth
+1586,Fallen Leaves,Brandy,Brandy
+1587,L'italienne,Vodka,Vodka
+1588,L'italienne,Vodka,Lillet Blanc
+1589,L'italienne,Vodka,Ramazzotti Amaro
+1590,L'italienne,Vodka,Orange Bitters
+1591,Rum Dubonnet,Cocktail Classics,Light Rum
+1592,Rum Dubonnet,Cocktail Classics,Dubonnet
+1593,Rum Dubonnet,Cocktail Classics,Lemon Juice
+1594,Ruby Fizz,Cocktail Classics,Juice of a Lemon
+1595,Ruby Fizz,Cocktail Classics,Powdered Sugar
+1596,Ruby Fizz,Cocktail Classics,Egg White
+1597,Ruby Fizz,Cocktail Classics,Grenadine
+1598,Ruby Fizz,Cocktail Classics,Sloe gin
+1599,Limoncello Manzanilla Marmalade Sour,Vodka,Citrus-flavored vodka
+1600,Limoncello Manzanilla Marmalade Sour,Vodka,Limoncello
+1601,Limoncello Manzanilla Marmalade Sour,Vodka,Manzanilla sherry
+1602,Limoncello Manzanilla Marmalade Sour,Vodka,Fresh lemon juice
+1603,Limoncello Manzanilla Marmalade Sour,Vodka,Grapefruit marmalade
+1604,Royal Purple Punch,Cocktail Classics,red wine
+1605,Royal Gin Fizz,Cocktail Classics,Juice of a Lemon
+1606,Royal Gin Fizz,Cocktail Classics,Powdered Sugar
+1607,Royal Gin Fizz,Cocktail Classics,Gin
+1608,Royal Gin Fizz,Cocktail Classics,Whole Egg
+1609,Royal Cocktail,Cocktail Classics,Whole Egg
+1610,Royal Cocktail,Cocktail Classics,Juice of a Lemon
+1611,Royal Cocktail,Cocktail Classics,Powdered Sugar
+1612,Royal Cocktail,Cocktail Classics,Gin
+1613,Royal Clover Club Cocktail,Cocktail Classics,Juice of a Lime
+1614,Royal Clover Club Cocktail,Cocktail Classics,Grenadine
+1615,Royal Clover Club Cocktail,Cocktail Classics,Egg Yolk
+1616,Royal Clover Club Cocktail,Cocktail Classics,Gin
+1617,Lights On The Plaza,Vodka,"Cucumber slices, chopped"
+1618,Lights On The Plaza,Vodka,Fresh lemon juice
+1619,Lights On The Plaza,Vodka,Simple Syrup
+1620,Lights On The Plaza,Vodka,Acai berry flavored vodka
+1621,Lights On The Plaza,Vodka,Black raspberry liqueur
+1622,Lights On The Plaza,Vodka,"Sparkling wine, raspberry and cucumber"
+1623,Rococo,Cocktail Classics,Cherry Vodka
+1624,Rococo,Cocktail Classics,Orange Juice
+1625,Rococo,Cocktail Classics,Triple Sec
+1626,Rock & Rye Cooler,Cocktail Classics,Rock and Rye
+1627,Rock & Rye Cooler,Cocktail Classics,Vodka
+1628,Rock & Rye Cooler,Cocktail Classics,Lime Juice
+1629,Rock & Rye Cocktail,Cocktail Classics,Rock and Rye
+1630,Rock & Rye Cocktail,Cocktail Classics,White Port Wine
+1631,Rock & Rye Cocktail,Cocktail Classics,Dry Vermouth
+1632,Le Paradini,Vodka,Vodka
+1633,Le Paradini,Vodka,Raspberry-flavored liqueur
+1634,Le Paradini,Vodka,Grand Marnier
+1635,Le Paradini,Vodka,Chilled Champagne
+1636,Red Swizzle,Cocktail Classics,Juice of a Lime
+1637,Red Swizzle,Cocktail Classics,Powdered Sugar
+1638,Red Swizzle,Cocktail Classics,Carbonated Water
+1639,Red Swizzle,Cocktail Classics,Gin
+1640,Red Swizzle,Cocktail Classics,Bitters
+1641,Red Swizzle,Cocktail Classics,Grenadine
+1642,Lemon Drop,Vodka,"Lemon wedge, superfine sugar"
+1643,Lemon Drop,Vodka,lemon-flavored vodka
+1644,Lemon Drop,Vodka,Fresh lemon juice
+1645,Lemon Drop,Vodka,Simple Syrup
+1646,Rebel Charge,Cocktail Classics,Bourbon
+1647,Rebel Charge,Cocktail Classics,Triple Sec
+1648,Rebel Charge,Cocktail Classics,Orange Juice
+1649,Rebel Charge,Cocktail Classics,Lemon Juice
+1650,Rebel Charge,Cocktail Classics,Egg White
+1651,Rattlesnake Cocktail,Cocktail Classics,Blended whiskey
+1652,Rattlesnake Cocktail,Cocktail Classics,Egg White
+1653,Rattlesnake Cocktail,Cocktail Classics,Lemon Juice
+1654,Rattlesnake Cocktail,Cocktail Classics,Powdered Sugar
+1655,Rattlesnake Cocktail,Cocktail Classics,Anis
+1656,Ramos Fizz,Cocktail Classics,Juice of a Lemon
+1657,Ramos Fizz,Cocktail Classics,Egg White
+1658,Ramos Fizz,Cocktail Classics,Powdered Sugar
+1659,Ramos Fizz,Cocktail Classics,Gin
+1660,Ramos Fizz,Cocktail Classics,Light cream
+1661,Ramos Fizz,Cocktail Classics,Triple Sec
+1662,San Francisco,Cocktail Classics,Sloe gin
+1663,San Francisco,Cocktail Classics,Sweet Vermouth
+1664,San Francisco,Cocktail Classics,Dry Vermouth
+1665,San Francisco,Cocktail Classics,Bitters
+1666,San Francisco,Cocktail Classics,Orange Bitters
+1667,Sand-Martini Cocktail,Cocktail Classics,Green Chartreuse
+1668,Sand-Martini Cocktail,Cocktail Classics,Sweet Vermouth
+1669,Sand-Martini Cocktail,Cocktail Classics,Gin
+1670,Sand-Martini Cocktail,Cocktail Classics,Sake
+1671,Sake Martini (Sakini),Cocktail Classics,Sake
+1672,Sake Martini (Sakini),Cocktail Classics,Gin
+1673,Lemon Crush,Vodka,"Lemon wedge, superfine sugar"
+1674,Lemon Crush,Vodka,Citrus-flavored vodka
+1675,Lemon Crush,Vodka,Crema di limoncello
+1676,Lemon Crush,Vodka,Triple Sec
+1677,Lemon Crush,Vodka,Fresh lemon juice
+1678,Rye Whiskey Cocktail,Cocktail Classics,Bitters
+1679,Rye Whiskey Cocktail,Cocktail Classics,Powdered Sugar
+1680,Rye Whiskey Cocktail,Cocktail Classics,Rye Whiskey
+1681,Leaves Of Grass,Vodka,Aquavit
+1682,Leaves Of Grass,Vodka,Old Tom gin
+1683,Leaves Of Grass,Vodka,Demerara Syrup
+1684,Leaves Of Grass,Vodka,Orange Bitters
+1685,Leaves Of Grass,Vodka,Absinthe
+1686,Widow's Dream,Cocktail Classics,Benedictine
+1687,Widow's Dream,Cocktail Classics,Whole Egg
+1688,Whiskey Flip,Cocktail Classics,Whole Egg
+1689,Whiskey Flip,Cocktail Classics,Powdered Sugar
+1690,Whiskey Flip,Cocktail Classics,Blended whiskey
+1691,Whiskey Flip,Cocktail Classics,Light Cream (if desired)
+1692,L.A. Sunrise,Vodka,Vodka
+1693,L.A. Sunrise,Vodka,Creme de banana
+1694,L.A. Sunrise,Vodka,Fresh orange juice
+1695,L.A. Sunrise,Vodka,Pineapple Juice
+1696,L.A. Sunrise,Vodka,Dark rum
+1697,White Rose Cocktail,Cocktail Classics,Gin
+1698,White Rose Cocktail,Cocktail Classics,Orange Juice
+1699,White Rose Cocktail,Cocktail Classics,Juice of a Lime
+1700,White Rose Cocktail,Cocktail Classics,Maraschino
+1701,White Rose Cocktail,Cocktail Classics,Egg White
+1702,White Plush,Cocktail Classics,Blended whiskey
+1703,White Plush,Cocktail Classics,Milk
+1704,White Plush,Cocktail Classics,Powdered Sugar
+1705,White Elephant,Cocktail Classics,Gin
+1706,White Elephant,Cocktail Classics,Sweet Vermouth
+1707,White Elephant,Cocktail Classics,Egg White
+1708,Whiskey Toddy (cold),Cocktail Classics,Powdered Sugar
+1709,Whiskey Toddy (cold),Cocktail Classics,Water
+1710,Whiskey Toddy (cold),Cocktail Classics,Blended whiskey
+1711,Kretchma Cocktail,Vodka,Vodka
+1712,Kretchma Cocktail,Vodka,White creme de cacao
+1713,Kretchma Cocktail,Vodka,Fresh lemon juice
+1714,Kretchma Cocktail,Vodka,Grenadine
+1715,Whiskey Skin,Cocktail Classics,lump of sugar
+1716,Whiskey Skin,Cocktail Classics,blended whiskey
+1717,Whiskey Milk Punch,Cocktail Classics,Powdered Sugar
+1718,Whiskey Milk Punch,Cocktail Classics,Blended whiskey
+1719,Katana,Vodka,Cucumber slices
+1720,Katana,Vodka,Vodka
+1721,Katana,Vodka,Sake
+1722,Katana,Vodka,Fresh Lime Juice
+1723,Katana,Vodka,Simple Syrup
+1724,Katana,Vodka,Cucumber
+1725,Ethel Duffy Cocktail,Brandy,Apricot-Flavored Brandy
+1726,Ethel Duffy Cocktail,Brandy,White creme de menthe
+1727,Ethel Duffy Cocktail,Brandy,Triple Sec
+1728,Daiquiri,Cocktail Classics,Light Rum
+1729,Daiquiri,Cocktail Classics,Fresh Lime Juice
+1730,Daiquiri,Cocktail Classics,Simple Syrup
+1731,Wembley Cocktail,Cocktail Classics,Dry Vermouth
+1732,Wembley Cocktail,Cocktail Classics,Gin
+1733,Wembley Cocktail,Cocktail Classics,Apricot-Flavored Brandy
+1734,Wembley Cocktail,Cocktail Classics,Apple Brandy
+1735,Weep-No-More Cocktail,Cocktail Classics,Juice of a Lime
+1736,Weep-No-More Cocktail,Cocktail Classics,Dubonnet
+1737,Weep-No-More Cocktail,Cocktail Classics,Brandy
+1738,Weep-No-More Cocktail,Cocktail Classics,Maraschino
+1739,Jungle Juice,Vodka,Vodka
+1740,Jungle Juice,Vodka,Light Rum
+1741,Jungle Juice,Vodka,Triple Sec
+1742,Jungle Juice,Vodka,"each Cranberry Juice, orange juice, pineapple juice, lemon juice"
+1743,Jungle Juice,Vodka,Simple Syrup
+1744,Wedding Belle Cocktail,Cocktail Classics,Orange Juice
+1745,Wedding Belle Cocktail,Cocktail Classics,cherry-flavored brandy
+1746,Wedding Belle Cocktail,Cocktail Classics,Gin
+1747,Wedding Belle Cocktail,Cocktail Classics,Dubonnet
+1748,Waterloo,Cocktail Classics,Light Rum
+1749,Waterloo,Cocktail Classics,Orange Juice
+1750,Waterloo,Cocktail Classics,Mandarine Napoleon Liqueur
+1751,Waterbury Cocktail,Cocktail Classics,Powdered Sugar
+1752,Waterbury Cocktail,Cocktail Classics,Juice of a Lemon
+1753,Waterbury Cocktail,Cocktail Classics,Egg White
+1754,Waterbury Cocktail,Cocktail Classics,Brandy
+1755,Waterbury Cocktail,Cocktail Classics,Grenadine
+1756,Washington Cocktail,Cocktail Classics,Dry Vermouth
+1757,Washington Cocktail,Cocktail Classics,Brandy
+1758,Washington Cocktail,Cocktail Classics,Bitters
+1759,Washington Cocktail,Cocktail Classics,Sugar Syrup
+1760,The Jamaican Ten Speed,Vodka,Vodka
+1761,The Jamaican Ten Speed,Vodka,Melon liqueur
+1762,The Jamaican Ten Speed,Vodka,Creme de banana
+1763,The Jamaican Ten Speed,Vodka,Coconut-flavored rum
+1764,The Jamaican Ten Speed,Vodka,half-and-half
+1765,Twin Six Cocktail,Cocktail Classics,Gin
+1766,Twin Six Cocktail,Cocktail Classics,Sweet Vermouth
+1767,Twin Six Cocktail,Cocktail Classics,Grenadine
+1768,Twin Six Cocktail,Cocktail Classics,Orange Juice
+1769,Twin Six Cocktail,Cocktail Classics,Egg White
+1770,Jackie-O,Vodka,"Lime wedge, pink sanding sugar"
+1771,Jackie-O,Vodka,each Citrus-flavored vodka and orange-flavored vodka
+1772,Jackie-O,Vodka,Creme de Cassis
+1773,Jackie-O,Vodka,Apricot nectar
+1774,Jackie-O,Vodka,each Fresh lemon juice and cranberry juice
+1775,Tropical Heart,Cocktail Classics,Hot Shot Tropical Fruit Liqueur
+1776,Trois Rivieres,Cocktail Classics,Canadian whisky
+1777,Trois Rivieres,Cocktail Classics,Dubonnet
+1778,Trois Rivieres,Cocktail Classics,Triple Sec
+1779,Tovarich Cocktail,Cocktail Classics,Vodka
+1780,Tovarich Cocktail,Cocktail Classics,Kummel
+1781,Tovarich Cocktail,Cocktail Classics,Juice of a Lime
+1782,Italian Screwdriver,Vodka,"Lime wedge, superfine sugar"
+1783,Italian Screwdriver,Vodka,Citrus-flavored vodka
+1784,Italian Screwdriver,Vodka,Orange juice
+1785,Italian Screwdriver,Vodka,Grapefruit Juice
+1786,Italian Screwdriver,Vodka,Ginger ale
+1787,T.N.T. Cocktail No. 2,Cocktail Classics,Tequila
+1788,T.N.T. Cocktail No. 1,Cocktail Classics,Blended whiskey
+1789,T.N.T. Cocktail No. 1,Cocktail Classics,Anis
+1790,Ibiza,Vodka,Orange-flavored vodka
+1791,Ibiza,Vodka,Campari
+1792,Ibiza,Vodka,Grapefruit Juice
+1793,Ibiza,Vodka,Pomegranate molasses
+1794,Ibiza,Vodka,Peach schnapps
+1795,Ibiza,Vodka,"Apple schnapps, grapefruit twist"
+1796,Thunder,Cocktail Classics,Powdered Sugar
+1797,Thunder,Cocktail Classics,Egg Yolk
+1798,Thunder,Cocktail Classics,Brandy
+1799,Thunder,Cocktail Classics,Cayenne Pepper
+1800,Huntsman Cocktail,Vodka,Vodka
+1801,Huntsman Cocktail,Vodka,Jamaica Rum
+1802,Huntsman Cocktail,Vodka,Fresh Lime Juice
+1803,Huntsman Cocktail,Vodka,Simple Syrup
+1804,Tequila Fizz,Cocktail Classics,Tequila
+1805,Tequila Fizz,Cocktail Classics,Grenadine
+1806,Tequila Fizz,Cocktail Classics,Lemon Juice
+1807,Tequila Fizz,Cocktail Classics,Egg White
+1808,Humpty Dumpty,Vodka,Vodka
+1809,Humpty Dumpty,Vodka,Orange juice
+1810,Humpty Dumpty,Vodka,Galliano
+1811,Humpty Dumpty,Vodka,Whole Egg
+1812,Humpty Dumpty,Vodka,Peychaud's Bitters
+1813,Tequila Cocktail,Cocktail Classics,Tequila
+1814,Tequila Cocktail,Cocktail Classics,Juice of a Lemon
+1815,Tequila Cocktail,Cocktail Classics,Grenadine
+1816,Tequila Cocktail,Cocktail Classics,Egg White
+1817,Temptation Cocktail,Cocktail Classics,Blended whiskey
+1818,Temptation Cocktail,Cocktail Classics,Triple Sec
+1819,Temptation Cocktail,Cocktail Classics,Anis
+1820,Temptation Cocktail,Cocktail Classics,Dubonnet
+1821,Tchoupitolas Street Guzzle,Cocktail Classics,Light Rum
+1822,Tahitian Tea,Cocktail Classics,Gin
+1823,Tahitian Tea,Cocktail Classics,Light Rum
+1824,Tahitian Tea,Cocktail Classics,Vodka
+1825,Tahitian Tea,Cocktail Classics,Hot Shot Tropical Fruit Liqueur
+1826,Tahitian Tea,Cocktail Classics,7-Up
+1827,Tahitian Tea,Cocktail Classics,each Cranberry Juice and orange juice
+1828,Limey,Cocktail Classics,Light Rum
+1829,Limey,Cocktail Classics,Lime Liqueur
+1830,Limey,Cocktail Classics,Triple Sec
+1831,Limey,Cocktail Classics,Lime Juice
+1832,Headless Horseman,Vodka,Vodka
+1833,Headless Horseman,Vodka,Angostura Bitters
+1834,Love Cocktail,Cocktail Classics,Sloe gin
+1835,Love Cocktail,Cocktail Classics,Egg White
+1836,Love Cocktail,Cocktail Classics,Lemon Juice
+1837,Love Cocktail,Cocktail Classics,Raspberry Juice
+1838,Los Angeles Cocktail,Cocktail Classics,Juice of a Lemon
+1839,Los Angeles Cocktail,Cocktail Classics,Powdered Sugar
+1840,Los Angeles Cocktail,Cocktail Classics,Whole Egg
+1841,Los Angeles Cocktail,Cocktail Classics,Sweet Vermouth
+1842,Los Angeles Cocktail,Cocktail Classics,Blended whiskey
+1843,Long Island Tea,Cocktail Classics,Vodka
+1844,Long Island Tea,Cocktail Classics,Gin
+1845,Long Island Tea,Cocktail Classics,Light Rum
+1846,Long Island Tea,Cocktail Classics,Tequila
+1847,Long Island Tea,Cocktail Classics,Juice of a Lemon
+1848,Harvey Wallbanger,Vodka,Vodka
+1849,Harvey Wallbanger,Vodka,Fresh orange juice
+1850,Harvey Wallbanger,Vodka,Galliano
+1851,Lime Giant,Cocktail Classics,Lime Vodka
+1852,Lil Naue,Cocktail Classics,Brandy
+1853,Lil Naue,Cocktail Classics,Port
+1854,Lil Naue,Cocktail Classics,Apricot-Flavored Brandy
+1855,Lil Naue,Cocktail Classics,Powdered Sugar
+1856,Lil Naue,Cocktail Classics,Egg Yolk
+1857,Harrington,Vodka,Vodka
+1858,Harrington,Vodka,Triple Sec
+1859,Harrington,Vodka,Green Chartreuse
+1860,El Profesor,Brandy,Pisco
+1861,El Profesor,Brandy,Punt e Mes
+1862,El Profesor,Brandy,Benedictine
+1863,El Profesor,Brandy,Aromatic bitters
+1864,Leap Year Cocktail,Cocktail Classics,Gin
+1865,Leap Year Cocktail,Cocktail Classics,Orange Flavored Gin
+1866,Leap Year Cocktail,Cocktail Classics,Sweet Vermouth
+1867,Leap Year Cocktail,Cocktail Classics,Lemon Juice
+1868,Lasky Cocktail,Cocktail Classics,Grape Juice
+1869,Lasky Cocktail,Cocktail Classics,Swedish Punch
+1870,Lasky Cocktail,Cocktail Classics,Gin
+1871,Lady Love Fizz,Cocktail Classics,Powdered Sugar
+1872,Lady Love Fizz,Cocktail Classics,Juice of a Lemon
+1873,Lady Love Fizz,Cocktail Classics,Egg White
+1874,Lady Love Fizz,Cocktail Classics,Gin
+1875,Lady Love Fizz,Cocktail Classics,Light cream
+1876,Handball Cooler,Vodka,Vodka
+1877,Handball Cooler,Vodka,Orange juice
+1878,Hyatt's Jamaican Banana,Cocktail Classics,Light Rum
+1879,Hyatt's Jamaican Banana,Cocktail Classics,White creme de cacao
+1880,Hyatt's Jamaican Banana,Cocktail Classics,Creme de banana
+1881,Hyatt's Jamaican Banana,Cocktail Classics,Vanilla Ice Cream
+1882,Hyatt's Jamaican Banana,Cocktail Classics,half-and-half
+1883,Hyatt's Jamaican Banana,Cocktail Classics,Banana
+1884,H.P.W. Cocktail,Cocktail Classics,Dry Vermouth
+1885,H.P.W. Cocktail,Cocktail Classics,Sweet Vermouth
+1886,H.P.W. Cocktail,Cocktail Classics,Gin
+1887,Hot Shot Margarita,Cocktail Classics,Tequila
+1888,Hot Shot Margarita,Cocktail Classics,Hot Shot Tropical Fruit Liqueur
+1889,Hot Shot Margarita,Cocktail Classics,Lemon or Lime Juice
+1890,The Groupie,Vodka,Lemon wedges
+1891,The Groupie,Vodka,Superfine sugar
+1892,The Groupie,Vodka,Citrus-flavored vodka
+1893,Hot Brandy Flip,Cocktail Classics,Whole Egg
+1894,Hot Brandy Flip,Cocktail Classics,Powdered Sugar
+1895,Hot Brandy Flip,Cocktail Classics,Brandy
+1896,Grape Nehi,Vodka,Vodka
+1897,Grape Nehi,Vodka,Raspberry-flavored liqueur
+1898,Grape Nehi,Vodka,Fresh lemon juice
+1899,Hole-in-One Cocktai,Cocktail Classics,Scotch
+1900,Hole-in-One Cocktai,Cocktail Classics,Vermouth
+1901,Hole-in-One Cocktai,Cocktail Classics,Lemon Juice
+1902,Hole-in-One Cocktai,Cocktail Classics,Orange Bitters
+1903,Grapefruit Gimlet Royale,Vodka,Vodka
+1904,Grapefruit Gimlet Royale,Vodka,Fresh grapefruit juice
+1905,Grapefruit Gimlet Royale,Vodka,Fresh Lime Juice
+1906,Grapefruit Gimlet Royale,Vodka,Simple Syrup
+1907,Grapefruit Gimlet Royale,Vodka,Chilled Champagne
+1908,Hair Raiser,Cocktail Classics,100-proof Vodka
+1909,Hair Raiser,Cocktail Classics,Rock and Rye
+1910,Hair Raiser,Cocktail Classics,Lemon Juice
+1911,Godmother,Vodka,Vodka
+1912,Godmother,Vodka,Amaretto
+1913,Green Opal,Cocktail Classics,Gin
+1914,Green Opal,Cocktail Classics,Anisette
+1915,Green Opal,Cocktail Classics,Anis
+1916,Green Hornet (Dry),Cocktail Classics,Lime Vodka
+1917,Green Hornet (Dry),Cocktail Classics,Powdered Sugar
+1918,Green Fizz,Cocktail Classics,Powdered Sugar
+1919,Green Fizz,Cocktail Classics,Egg White
+1920,Green Fizz,Cocktail Classics,Juice of a Lemon
+1921,Green Fizz,Cocktail Classics,Gin
+1922,Green Fizz,Cocktail Classics,Green creme de menthe
+1923,Godchild,Vodka,Vodka
+1924,Godchild,Vodka,Amaretto
+1925,Godchild,Vodka,Heavy cream
+1926,Grape Vodka Froth,Cocktail Classics,Vodka
+1927,Grape Vodka Froth,Cocktail Classics,Grape Juice
+1928,Grape Vodka Froth,Cocktail Classics,Egg White
+1929,Grape Vodka Froth,Cocktail Classics,Lemon Juice
+1930,Grapefruit Nog,Cocktail Classics,Brandy
+1931,Grapefruit Nog,Cocktail Classics,Grapefruit Juice
+1932,Grapefruit Nog,Cocktail Classics,Lemon Juice
+1933,Grapefruit Nog,Cocktail Classics,Honey
+1934,Grapefruit Nog,Cocktail Classics,Whole Egg
+1935,Golden Slipper,Cocktail Classics,Yellow Chartreuse
+1936,Golden Slipper,Cocktail Classics,Apricot-Flavored Brandy
+1937,Golden Frappe,Cocktail Classics,Orange Juice
+1938,Golden Frappe,Cocktail Classics,Lemon Juice
+1939,Golden Frappe,Cocktail Classics,Sugar
+1940,Golden Frappe,Cocktail Classics,Port
+1941,Glass Tower,Vodka,Vodka
+1942,Glass Tower,Vodka,Peach schnapps
+1943,Glass Tower,Vodka,White rum
+1944,Glass Tower,Vodka,Triple Sec
+1945,Glass Tower,Vodka,Sambuca
+1946,Golden Fizz,Cocktail Classics,Juice of a Lemon
+1947,Golden Fizz,Cocktail Classics,Powdered Sugar
+1948,Golden Fizz,Cocktail Classics,Gin
+1949,Golden Fizz,Cocktail Classics,Egg Yolk
+1950,Gloom Lifter,Cocktail Classics,Blended whiskey
+1951,Gloom Lifter,Cocktail Classics,Brandy
+1952,Gloom Lifter,Cocktail Classics,Juice of a Lemon
+1953,Gloom Lifter,Cocktail Classics,Raspberry Syrup
+1954,Gloom Lifter,Cocktail Classics,Sugar
+1955,Gloom Lifter,Cocktail Classics,Egg White
+1956,Glogg,Cocktail Classics,"Wine (Port, Cream Sherry, Claret, Burgundy, or Madeira)"
+1957,Glogg,Cocktail Classics,Dried Orange Peel
+1958,Glogg,Cocktail Classics,Cinnamon sticks
+1959,Glogg,Cocktail Classics,cloves
+1960,Georgia Peach,Vodka,Vodka
+1961,Georgia Peach,Vodka,Peach schnapps
+1962,Georgia Peach,Vodka,Grenadine
+1963,Georgia Mule,Vodka,"Peach slice, skinned"
+1964,Georgia Mule,Vodka,Vodka
+1965,Georgia Mule,Vodka,Fresh lemon juice
+1966,Georgia Mule,Vodka,Peach bitters
+1967,Gentle Ben,Vodka,Vodka
+1968,Gentle Ben,Vodka,Gin
+1969,Gentle Ben,Vodka,Blanco tequila
+1970,East India Cocktail No. 1,Brandy,Brandy
+1971,East India Cocktail No. 1,Brandy,Jamaica Rum
+1972,East India Cocktail No. 1,Brandy,Triple Sec
+1973,East India Cocktail No. 1,Brandy,Pineapple Juice
+1974,East India Cocktail No. 1,Brandy,Angostura Bitters
+1975,General Harrison's Eggnog,Cocktail Classics,Whole Egg
+1976,General Harrison's Eggnog,Cocktail Classics,Powdered Sugar
+1977,Gables Collins,Vodka,Vodka
+1978,Gables Collins,Vodka,Creme de noyaux
+1979,Gables Collins,Vodka,Fresh lemon juice
+1980,Gables Collins,Vodka,Pineapple Juice
+1981,Frozen Brandy and Rum,Cocktail Classics,Brandy
+1982,Frozen Brandy and Rum,Cocktail Classics,Light Rum
+1983,Frozen Brandy and Rum,Cocktail Classics,Lemon Juice
+1984,Frozen Brandy and Rum,Cocktail Classics,Egg Yolk
+1985,Frozen Brandy and Rum,Cocktail Classics,Powdered Sugar
+1986,Frozen Apple,Cocktail Classics,Applejack
+1987,Frozen Apple,Cocktail Classics,Lime Juice
+1988,Frozen Apple,Cocktail Classics,Sugar
+1989,Frozen Apple,Cocktail Classics,Egg White
+1990,Frisky Witch,Vodka,Vodka
+1991,Frisky Witch,Vodka,Sambuca
+1992,Froth Blower Cocktail,Cocktail Classics,Egg White
+1993,Froth Blower Cocktail,Cocktail Classics,Gin
+1994,Froth Blower Cocktail,Cocktail Classics,Grenadine
+1995,French Martini,Vodka,Vodka
+1996,French Martini,Vodka,Black raspberry liqueur
+1997,French Martini,Vodka,Pineapple Juice
+1998,Flatiron Martini,Vodka,Splash triple sec
+1999,Flatiron Martini,Vodka,Orange-flavored vodka
+2000,Flatiron Martini,Vodka,Lillet Blanc
+2001,Favourite Cocktail,Cocktail Classics,Apricot-Flavored Brandy
+2002,Favourite Cocktail,Cocktail Classics,Dry Vermouth
+2003,Favourite Cocktail,Cocktail Classics,Lemon Juice
+2004,Favourite Cocktail,Cocktail Classics,Gin
+2005,Electric Jam,Vodka,Vodka
+2006,Electric Jam,Vodka,Blue curacao
+2007,Electric Jam,Vodka,Simple Syrup
+2008,Electric Jam,Vodka,Fresh lemon juice
+2009,Fairy Belle Cocktail,Cocktail Classics,Egg White
+2010,Fairy Belle Cocktail,Cocktail Classics,Grenadine
+2011,Fairy Belle Cocktail,Cocktail Classics,Apricot-Flavored Brandy
+2012,Fairy Belle Cocktail,Cocktail Classics,Gin
+2013,Duke Cocktail,Cocktail Classics,Triple Sec
+2014,Duke Cocktail,Cocktail Classics,Orange Juice
+2015,Duke Cocktail,Cocktail Classics,Lemon Juice
+2016,Duke Cocktail,Cocktail Classics,Maraschino
+2017,Duke Cocktail,Cocktail Classics,Whole Egg
+2018,Dreamy Dorini Smoking Martini,Vodka,Vodka
+2019,Dreamy Dorini Smoking Martini,Vodka,"Smoky Scotch, such as Laphroaig"
+2020,Dreamy Dorini Smoking Martini,Vodka,Pastis
+2021,Dubonnet Highball,Cocktail Classics,Dubonnet
+2022,Dubonnet Fizz,Cocktail Classics,Juice of Orange
+2023,Dubonnet Fizz,Cocktail Classics,Juice of a Lemon
+2024,Dubonnet Fizz,Cocktail Classics,cherry-flavored brandy
+2025,Dubonnet Fizz,Cocktail Classics,Dubonnet
+2026,Dubonnet Cocktail,Cocktail Classics,Dubonnet
+2027,Dubonnet Cocktail,Cocktail Classics,Gin
+2028,Dubonnet Cocktail,Cocktail Classics,Orange Bitters (if desired)
+2029,Doctor Cook,Cocktail Classics,Gin
+2030,Doctor Cook,Cocktail Classics,Lemon Juice
+2031,Doctor Cook,Cocktail Classics,Maraschino
+2032,Doctor Cook,Cocktail Classics,Egg White
+2033,Desert Sunrise,Vodka,Vodka
+2034,Desert Sunrise,Vodka,Fresh orange juice
+2035,Desert Sunrise,Vodka,Pineapple Juice
+2036,Desert Sunrise,Vodka,Grenadine
+2037,Dillatini,Cocktail Classics,Gin
+2038,Dillatini,Cocktail Classics,Dry Vermouth
+2039,Devil's Cocktail,Cocktail Classics,Lemon Juice
+2040,Devil's Cocktail,Cocktail Classics,Port
+2041,Devil's Cocktail,Cocktail Classics,Dry Vermouth
+2042,Derby Fizz,Cocktail Classics,Juice of a Lemon
+2043,Derby Fizz,Cocktail Classics,Powdered Sugar
+2044,Derby Fizz,Cocktail Classics,Whole Egg
+2045,Derby Fizz,Cocktail Classics,Scotch
+2046,Derby Fizz,Cocktail Classics,Triple Sec
+2047,Cubeltini,Vodka,Cucumber slices
+2048,Cubeltini,Vodka,Fresh mint leaves
+2049,Cubeltini,Vodka,Simple Syrup
+2050,Cubeltini,Vodka,Vodka
+2051,Cubeltini,Vodka,Fresh Lime Juice
+2052,Crocodile Cooler,Vodka,Citrus-flavored vodka
+2053,Crocodile Cooler,Vodka,Melon liqueur
+2054,Crocodile Cooler,Vodka,Triple Sec
+2055,Crocodile Cooler,Vodka,Simple Syrup
+2056,Crocodile Cooler,Vodka,Fresh lemon juice
+2057,Cosmopolitan,Vodka,Vodka
+2058,Cosmopolitan,Vodka,Fresh Lime Juice
+2059,Cosmopolitan,Vodka,Triple Sec
+2060,Cosmopolitan,Vodka,Cranberry Juice
+2061,Dream Cocktail,Brandy,Brandy
+2062,Dream Cocktail,Brandy,Triple Sec
+2063,Dream Cocktail,Brandy,Anisette
+2064,Jean Lafitte Cocktail,Cocktail Classics,Gin
+2065,Jean Lafitte Cocktail,Cocktail Classics,Triple Sec
+2066,Jean Lafitte Cocktail,Cocktail Classics,Anis
+2067,Jean Lafitte Cocktail,Cocktail Classics,Powdered Sugar
+2068,Jean Lafitte Cocktail,Cocktail Classics,Egg Yolk
+2069,Japanese Fizz,Cocktail Classics,Juice of a Lemon
+2070,Japanese Fizz,Cocktail Classics,Powdered Sugar
+2071,Japanese Fizz,Cocktail Classics,Blended whiskey
+2072,Japanese Fizz,Cocktail Classics,Port
+2073,Japanese Fizz,Cocktail Classics,Egg White
+2074,Citronella Cooler,Vodka,Citrus-flavored vodka
+2075,Citronella Cooler,Vodka,Fresh Lime Juice
+2076,Citronella Cooler,Vodka,Lemonade
+2077,Citronella Cooler,Vodka,Cranberry Juice
+2078,North Pole Cocktail,Cocktail Classics,Egg White
+2079,North Pole Cocktail,Cocktail Classics,Lemon Juice
+2080,North Pole Cocktail,Cocktail Classics,Maraschino
+2081,North Pole Cocktail,Cocktail Classics,Gin
+2082,The Cinquecento,Vodka,Bison grass vodka (Zubrowka)
+2083,The Cinquecento,Vodka,Benedictine
+2084,The Cinquecento,Vodka,Campari
+2085,The Cinquecento,Vodka,Fresh grapefruit juice
+2086,The Cinquecento,Vodka,Angostura Bitters
+2087,New Orleans Gin Fizz,Cocktail Classics,Juice of a Lemon
+2088,New Orleans Gin Fizz,Cocktail Classics,Juice of a Lime
+2089,New Orleans Gin Fizz,Cocktail Classics,Powdered Sugar
+2090,New Orleans Gin Fizz,Cocktail Classics,Egg White
+2091,New Orleans Gin Fizz,Cocktail Classics,Gin
+2092,New Orleans Gin Fizz,Cocktail Classics,"Light cream, 1/2 oz"
+2093,Napoleon,Cocktail Classics,Gin
+2094,Napoleon,Cocktail Classics,Curacao
+2095,Napoleon,Cocktail Classics,Dubonnet
+2096,Zombie,Rum - Daiquiris,Gold rum
+2097,Zombie,Rum - Daiquiris,151-Proof Rum
+2098,Zombie,Rum - Daiquiris,Light Rum
+2099,Zombie,Rum - Daiquiris,"each Fresh Lime Juice, lemon juice, pineapple juie, and passion fruit syrup"
+2100,Zombie,Rum - Daiquiris,Demerara Syrup
+2101,Zombie,Rum - Daiquiris,Tiki (such as Bittermen's 'Elemakule) or Angostura bitters (optional) Garnish: Fresh mint sprig
+2102,Kiss the Boys Goodbye,Cocktail Classics,Sloe gin
+2103,Kiss the Boys Goodbye,Cocktail Classics,Brandy
+2104,Kiss the Boys Goodbye,Cocktail Classics,Egg White
+2105,Kiss the Boys Goodbye,Cocktail Classics,Juice of a Lemon
+2106,X.Y.Z. Cocktail,Rum - Daiquiris,Light Rum
+2107,X.Y.Z. Cocktail,Rum - Daiquiris,Triple Sec
+2108,X.Y.Z. Cocktail,Rum - Daiquiris,Fresh lemon juice
+2109,K.G.B. Cocktail,Cocktail Classics,Kummel
+2110,K.G.B. Cocktail,Cocktail Classics,Gin
+2111,K.G.B. Cocktail,Cocktail Classics,Apricot-Flavored Brandy
+2112,K.G.B. Cocktail,Cocktail Classics,Lemon Juice
+2113,Eye-Opener,Cocktail Classics,Egg Yolk
+2114,Eye-Opener,Cocktail Classics,Powdered Sugar
+2115,Eye-Opener,Cocktail Classics,Anis
+2116,Eye-Opener,Cocktail Classics,Triple Sec
+2117,Eye-Opener,Cocktail Classics,White creme de cacao
+2118,Eye-Opener,Cocktail Classics,Light Rum
+2119,Wiki Waki Woo,Rum - Daiquiris,Light Rum
+2120,Wiki Waki Woo,Rum - Daiquiris,151-Proof Rum
+2121,Wiki Waki Woo,Rum - Daiquiris,"each Vodka, tequila blanco, triple sec"
+2122,Wiki Waki Woo,Rum - Daiquiris,Amaretto
+2123,Wiki Waki Woo,Rum - Daiquiris,"each Fresh orange juice, pineapple juice, cranberry juice"
+2124,Elk's Own Cocktail,Cocktail Classics,Egg White
+2125,Elk's Own Cocktail,Cocktail Classics,Blended whiskey
+2126,Elk's Own Cocktail,Cocktail Classics,Port
+2127,Elk's Own Cocktail,Cocktail Classics,Juice of a Lemon
+2128,Elk's Own Cocktail,Cocktail Classics,Powdered Sugar
+2129,Eggnog Supreme,Cocktail Classics,Medium Eggs
+2130,Eggnog Supreme,Cocktail Classics,Sugar
+2131,Eggnog Supreme,Cocktail Classics,Whole milk
+2132,Eggnog Supreme,Cocktail Classics,"Heavy Cream, Whipped"
+2133,Eggnog Supreme,Cocktail Classics,Cognac
+2134,Egg Sour,Cocktail Classics,Whole Egg
+2135,Egg Sour,Cocktail Classics,Powdered Sugar
+2136,Egg Sour,Cocktail Classics,Juice of a Lemon
+2137,Egg Sour,Cocktail Classics,Brandy
+2138,Egg Sour,Cocktail Classics,Triple Sec
+2139,White Lion Cocktail,Cocktail Classics,Light Rum
+2140,White Lion Cocktail,Cocktail Classics,Fresh lemon juice
+2141,White Lion Cocktail,Cocktail Classics,Simple Syrup
+2142,White Lion Cocktail,Cocktail Classics,Grenadine
+2143,White Lion Cocktail,Cocktail Classics,Angostura Bitters
+2144,White Lily Cocktail,Rum - Daiquiris,Light Rum
+2145,White Lily Cocktail,Rum - Daiquiris,Triple Sec
+2146,White Lily Cocktail,Rum - Daiquiris,Gin
+2147,White Lily Cocktail,Rum - Daiquiris,Anisette
+2148,Ice Cream Flip,Rum - Daiquiris,Whole Egg
+2149,Ice Cream Flip,Rum - Daiquiris,Maraschino
+2150,Ice Cream Flip,Rum - Daiquiris,Triple Sec
+2151,Outrigger,Cocktail Classics,Peach-flavored brandy
+2152,Outrigger,Cocktail Classics,Lime Vodka
+2153,Outrigger,Cocktail Classics,Pineapple Juice
+2154,Opera Cocktail,Cocktail Classics,Maraschino
+2155,Opera Cocktail,Cocktail Classics,Dubonnet
+2156,Opera Cocktail,Cocktail Classics,Gin
+2157,Virginia Dare,Rum - Daiquiris,Ripe pear
+2158,Virginia Dare,Rum - Daiquiris,Dark rum
+2159,Virginia Dare,Rum - Daiquiris,Benedictine
+2160,Virginia Dare,Rum - Daiquiris,Angostura Bitters
+2161,Opening Cocktail,Cocktail Classics,Grenadine
+2162,Opening Cocktail,Cocktail Classics,Sweet Vermouth
+2163,Opening Cocktail,Cocktail Classics,Blended whiskey
+2164,Queen Bee,Cocktail Classics,Lime Vodka
+2165,Queen Bee,Cocktail Classics,Coffee-flavored brandy
+2166,Queen Bee,Cocktail Classics,Cream sherry
+2167,Van Vleet,Rum - Daiquiris,Light Rum
+2168,Van Vleet,Rum - Daiquiris,Maple Syrup
+2169,Van Vleet,Rum - Daiquiris,Fresh lemon juice
+2170,Zaza Cocktail,Cocktail Classics,Gin
+2171,Zaza Cocktail,Cocktail Classics,Dubonnet
+2172,The Vacation Cocktail,Rum - Daiquiris,Peeled and chopped fresh ginger
+2173,The Vacation Cocktail,Rum - Daiquiris,Fresh Lime Juice
+2174,The Vacation Cocktail,Rum - Daiquiris,"each Simple Syrup, light rum, dark rum"
+2175,The Vacation Cocktail,Rum - Daiquiris,Mango juice
+2176,The Vacation Cocktail,Rum - Daiquiris,"each Cranberry Juice, orange juice, spiced rum"
+2177,Dolores,Brandy,"Brandy, preferably Spanish"
+2178,Dolores,Brandy,Cherry liqueur
+2179,Dolores,Brandy,White or dark creme de cacao
+2180,Dolores,Brandy,Egg White
+2181,Vesuvio,Cocktail Classics,Light Rum
+2182,Vesuvio,Cocktail Classics,Juice of a Lemon
+2183,Vesuvio,Cocktail Classics,Powdered Sugar
+2184,Vesuvio,Cocktail Classics,Egg White
+2185,Vesuvio,Cocktail Classics,Sweet Vermouth
+2186,Urban Anxiety,Rum,Cachaca
+2187,Urban Anxiety,Rum,Sweet Vermouth
+2188,Urban Anxiety,Rum,Cynar
+2189,Urban Anxiety,Rum,Angostura Bitters
+2190,Virgin,Cocktail Classics,Gin
+2191,Virgin,Cocktail Classics,White creme de menthe
+2192,Virgin,Cocktail Classics,Forbidden Fruit
+2193,Tropica Cocktail,Rum - Daiquiris,Light Rum
+2194,Tropica Cocktail,Rum - Daiquiris,Pineapple Juice
+2195,Tropica Cocktail,Rum - Daiquiris,Fresh grapefruit juice
+2196,Tropica Cocktail,Rum - Daiquiris,Grenadine
+2197,Vermouth Cassis,Cocktail Classics,Creme de Cassis
+2198,Vermouth Cassis,Cocktail Classics,Dry Vermouth
+2199,Verboten,Cocktail Classics,Gin
+2200,Verboten,Cocktail Classics,Forbidden Fruit
+2201,Verboten,Cocktail Classics,Orange Juice
+2202,Verboten,Cocktail Classics,Lemon Juice
+2203,Velvet Hammer No. 2,Cocktail Classics,Strega
+2204,Velvet Hammer No. 2,Cocktail Classics,White creme de cacao
+2205,Velvet Hammer No. 2,Cocktail Classics,Light cream
+2206,Velvet Hammer No. 1,Cocktail Classics,Vodka
+2207,Velvet Hammer No. 1,Cocktail Classics,Creme de Cacao
+2208,Velvet Hammer No. 1,Cocktail Classics,Light cream
+2209,Ulanda Cocktail,Cocktail Classics,Gin
+2210,Ulanda Cocktail,Cocktail Classics,Triple Sec
+2211,Ulanda Cocktail,Cocktail Classics,Anis
+2212,Torridora Cocktail,Rum - Daiquiris,Light Rum
+2213,Torridora Cocktail,Rum - Daiquiris,Coffee-flavored brandy
+2214,Torridora Cocktail,Rum - Daiquiris,half-and-half
+2215,Torridora Cocktail,Rum - Daiquiris,151-Proof Rum
+2216,Boston Sour,Cocktail Classics,Juice of a Lemon
+2217,Boston Sour,Cocktail Classics,Powdered Sugar
+2218,Boston Sour,Cocktail Classics,Blended whiskey
+2219,Boston Sour,Cocktail Classics,Egg White
+2220,Three Miller Cocktail,Rum - Daiquiris,Fresh cherry tomatoes
+2221,Three Miller Cocktail,Rum - Daiquiris,Dark rum
+2222,Three Miller Cocktail,Rum - Daiquiris,Fresh Lime Juice
+2223,Three Miller Cocktail,Rum - Daiquiris,Simple Syrup
+2224,Three Miller Cocktail,Rum - Daiquiris,Angostura Bitters
+2225,Bird-of-Paradise Fizz,Cocktail Classics,Juice of a Lemon
+2226,Bird-of-Paradise Fizz,Cocktail Classics,Powdered Sugar
+2227,Bird-of-Paradise Fizz,Cocktail Classics,Egg White
+2228,Bird-of-Paradise Fizz,Cocktail Classics,Grenadine
+2229,Bird-of-Paradise Fizz,Cocktail Classics,Gin
+2230,Biffy Cocktail,Cocktail Classics,Juice of a Lemon
+2231,Biffy Cocktail,Cocktail Classics,Swedish Punch
+2232,Biffy Cocktail,Cocktail Classics,Gin
+2233,Between-The-Sheets Cocktail,Cocktail Classics,Juice of a Lemon
+2234,Between-The-Sheets Cocktail,Cocktail Classics,Brandy
+2235,Between-The-Sheets Cocktail,Cocktail Classics,Triple Sec
+2236,Between-The-Sheets Cocktail,Cocktail Classics,Light Rum
+2237,Third-Rail Cocktail,Rum - Daiquiris,Light Rum
+2238,Third-Rail Cocktail,Rum - Daiquiris,Apple Brandy
+2239,Third-Rail Cocktail,Rum - Daiquiris,Brandy
+2240,Third-Rail Cocktail,Rum - Daiquiris,Anisette
+2241,Bentley,Cocktail Classics,Apple Brandy
+2242,Bentley,Cocktail Classics,Dubonnet
+2243,Tahiti Club,Rum - Daiquiris,Light Rum
+2244,Tahiti Club,Rum - Daiquiris,Fresh lemon juice
+2245,Tahiti Club,Rum - Daiquiris,Fresh Lime Juice
+2246,Tahiti Club,Rum - Daiquiris,Pineapple Juice
+2247,Tahiti Club,Rum - Daiquiris,Maraschino liqueur
+2248,Barton Special,Cocktail Classics,Applejack
+2249,Barton Special,Cocktail Classics,Scotch
+2250,Barton Special,Cocktail Classics,Gin
+2251,Barnaby's Buffalo Blizzard,Cocktail Classics,White creme de cacao
+2252,Barnaby's Buffalo Blizzard,Cocktail Classics,Vodka
+2253,Barnaby's Buffalo Blizzard,Cocktail Classics,Galliano
+2254,Barnaby's Buffalo Blizzard,Cocktail Classics,Grenadine
+2255,Susie Taylor,Rum - Daiquiris,Light Rum
+2256,Susie Taylor,Rum - Daiquiris,Fresh Lime Juice
+2257,Baltimore Bracer,Cocktail Classics,Anisette
+2258,Baltimore Bracer,Cocktail Classics,Brandy
+2259,Baltimore Bracer,Cocktail Classics,Egg White
+2260,Bachelor's Bait Cocktail,Cocktail Classics,Gin
+2261,Bachelor's Bait Cocktail,Cocktail Classics,Egg White
+2262,Bachelor's Bait Cocktail,Cocktail Classics,Orange Bitters
+2263,Bachelor's Bait Cocktail,Cocktail Classics,Grenadine
+2264,Bushranger,Cocktail Classics,Light Rum
+2265,Bushranger,Cocktail Classics,Dubonnet
+2266,Bushranger,Cocktail Classics,Bitters
+2267,Sunset at Gowanus,Rum - Daiquiris,Dark rum
+2268,Sunset at Gowanus,Rum - Daiquiris,Fresh Lime Juice
+2269,Sunset at Gowanus,Rum - Daiquiris,Maple Syrup
+2270,Sunset at Gowanus,Rum - Daiquiris,Brandy
+2271,Sunset at Gowanus,Rum - Daiquiris,Yellow Chartreuse
+2272,Bulldog Highballl,Cocktail Classics,Juice of Orange
+2273,Bulldog Highballl,Cocktail Classics,Gin
+2274,Bucks Fizz (Mimosa),Cocktail Classics,Orange Juice
+2275,Buckjones,Cocktail Classics,Light Rum
+2276,Buckjones,Cocktail Classics,Sweet Sherry
+2277,Buckjones,Cocktail Classics,Juice of a Lime
+2278,Stormy Colada,Rum - Daiquiris,Dark rum
+2279,Stormy Colada,Rum - Daiquiris,Pineapple Juice
+2280,Bronx SIlver Cocktail,Cocktail Classics,Juice of Orange
+2281,Bronx SIlver Cocktail,Cocktail Classics,Egg White
+2282,Bronx SIlver Cocktail,Cocktail Classics,Dry Vermouth
+2283,Bronx SIlver Cocktail,Cocktail Classics,Gin
+2284,Bronx Golden Cocktail,Cocktail Classics,Gin
+2285,Bronx Golden Cocktail,Cocktail Classics,Sweet Vermouth
+2286,Bronx Golden Cocktail,Cocktail Classics,Dry Vermouth
+2287,Bronx Golden Cocktail,Cocktail Classics,Orange
+2288,Stone Wall,Rum - Daiquiris,thin Peeled fresh ginger
+2289,Stone Wall,Rum - Daiquiris,Demerara Syrup
+2290,Stone Wall,Rum - Daiquiris,Fresh apple cider
+2291,Stone Wall,Rum - Daiquiris,Light Rum
+2292,Depth Bomb,Brandy,Apple Brandy
+2293,Depth Bomb,Brandy,Brandy
+2294,Depth Bomb,Brandy,Fresh lemon juice
+2295,Depth Bomb,Brandy,Grenadine
+2296,Stone Cocktail,Rum - Daiquiris,Dry Sherry
+2297,Stone Cocktail,Rum - Daiquiris,Light Rum
+2298,Stone Cocktail,Rum - Daiquiris,Sweet Vermouth
+2299,Almeria,Cocktail Classics,17-year-old J. Wray and Nephew Ltd. Rum
+2300,Almeria,Cocktail Classics,Coffee-flavored liqueur
+2301,Almeria,Cocktail Classics,Egg White
+2302,Aunt Jemima,Cocktail Classics,Brandy
+2303,Aunt Jemima,Cocktail Classics,White creme de cacao
+2304,Aunt Jemima,Cocktail Classics,Benedictine
+2305,Spanish Town Cocktail,Rum - Daiquiris,Light Rum
+2306,Spanish Town Cocktail,Rum - Daiquiris,Triple Sec
+2307,Apricot Lady,Cocktail Classics,Light Rum
+2308,Apricot Lady,Cocktail Classics,Apricot-Flavored Brandy
+2309,Apricot Lady,Cocktail Classics,Triple Sec
+2310,Apricot Lady,Cocktail Classics,Lime Juice
+2311,Apricot Lady,Cocktail Classics,Egg White
+2312,Apricot Anise Collins,Cocktail Classics,Gin
+2313,Apricot Anise Collins,Cocktail Classics,Apricot-Flavored Brandy
+2314,Apricot Anise Collins,Cocktail Classics,Anisette
+2315,Apricot Anise Collins,Cocktail Classics,Lemon Juice
+2316,Apple Rum Rickey,Cocktail Classics,Applejack
+2317,Apple Rum Rickey,Cocktail Classics,Light Rum
+2318,Apple Rum Rickey,Cocktail Classics,Lime
+2319,Sloppy Joe's Cocktail No. 1,Rum - Daiquiris,Light Rum
+2320,Sloppy Joe's Cocktail No. 1,Rum - Daiquiris,Dry Vermouth
+2321,Sloppy Joe's Cocktail No. 1,Rum - Daiquiris,Triple Sec
+2322,Sloppy Joe's Cocktail No. 1,Rum - Daiquiris,Fresh Lime Juice
+2323,Sloppy Joe's Cocktail No. 1,Rum - Daiquiris,Grenadine
+2324,Applejack Punch,Cocktail Classics,Applejack
+2325,Applejack Punch,Cocktail Classics,Grenadine
+2326,Applejack Punch,Cocktail Classics,Orange Juice
+2327,Applejack Punch,Cocktail Classics,Whole Egg
+2328,Brandy Flip,Cocktail Classics,Whole Egg
+2329,Brandy Flip,Cocktail Classics,Powdered Sugar
+2330,Brandy Flip,Cocktail Classics,Brandy
+2331,Brandy Flip,Cocktail Classics,Light Cream (if desired)
+2332,Sir Walter Cocktail,Rum - Daiquiris,Light Rum
+2333,Sir Walter Cocktail,Rum - Daiquiris,Brandy
+2334,Sir Walter Cocktail,Rum - Daiquiris,Grenadine
+2335,Sir Walter Cocktail,Rum - Daiquiris,Triple Sec
+2336,Sir Walter Cocktail,Rum - Daiquiris,Fresh lemon juice
+2337,Saxon Cocktail,Rum - Daiquiris,Light Rum
+2338,Saxon Cocktail,Rum - Daiquiris,Fresh Lime Juice
+2339,Saxon Cocktail,Rum - Daiquiris,Grenadine
+2340,Boston Bullet,Cocktail Classics,Gin
+2341,Boston Bullet,Cocktail Classics,Dry Vermouth
+2342,Sargasso,Rum - Daiquiris,Aged rhum agricole
+2343,Sargasso,Rum - Daiquiris,Dry Sherry
+2344,Sargasso,Rum - Daiquiris,Aperol
+2345,Sargasso,Rum - Daiquiris,Angostura Bitters
+2346,Santiago Cocktail,Rum - Daiquiris,Light Rum
+2347,Santiago Cocktail,Rum - Daiquiris,Fresh Lime Juice
+2348,Santiago Cocktail,Rum - Daiquiris,Simple Syrup
+2349,Santiago Cocktail,Rum - Daiquiris,Grenadine
+2350,Black Velvet,Cocktail Classics,Chilled Stout
+2351,Black Velvet,Cocktail Classics,Chilled Champagne
+2352,Saint Lucy Bracer,Rum - Daiquiris,Dark rum
+2353,Saint Lucy Bracer,Rum - Daiquiris,Butterscotch schnapps
+2354,Saint Lucy Bracer,Rum - Daiquiris,Sweet Vermouth
+2355,Saint Lucy Bracer,Rum - Daiquiris,Angostura Bitters
+2356,Applecar,Cocktail Classics,Applejack
+2357,Applecar,Cocktail Classics,Triple Sec
+2358,Applecar,Cocktail Classics,Lemon Juice
+2359,Apple Blow Fizz,Cocktail Classics,Egg White
+2360,Apple Blow Fizz,Cocktail Classics,Juice of a Lemon
+2361,Apple Blow Fizz,Cocktail Classics,Powdered Sugar
+2362,Apple Blow Fizz,Cocktail Classics,Apple Brandy
+2363,Antoine Special,Cocktail Classics,Dubonnet
+2364,Antoine Special,Cocktail Classics,Dry Vermouth
+2365,Ante,Cocktail Classics,Apple Brandy
+2366,Ante,Cocktail Classics,Triple Sec
+2367,Ante,Cocktail Classics,Dubonnet
+2368,S & V,Rum - Daiquiris,Light Rum
+2369,S & V,Rum - Daiquiris,Creole Shrubb (rum-based orange liqueur)
+2370,S & V,Rum - Daiquiris,Ruby port
+2371,S & V,Rum - Daiquiris,Fresh Lime Juice
+2372,Rum Toddy (Cold),Rum - Daiquiris,Light or dark rum
+2373,Rum Toddy (Cold),Rum - Daiquiris,Water
+2374,Rum Toddy (Cold),Rum - Daiquiris,Simple Syrup
+2375,Rum Toddy (Cold),Rum - Daiquiris,Brandy
+2376,Deauville Cocktail,Brandy,Brandy
+2377,Deauville Cocktail,Brandy,Apple Brandy
+2378,Deauville Cocktail,Brandy,Triple Sec
+2379,Deauville Cocktail,Brandy,Fresh lemon juice
+2380,Deauville Cocktail,Brandy,Dry Vermouth
+2381,Allies Cocktail,Cocktail Classics,Dry Vermouth
+2382,Allies Cocktail,Cocktail Classics,Gin
+2383,Allies Cocktail,Cocktail Classics,Kummel
+2384,Rum Swizzle,Rum - Daiquiris,Light or dark rum
+2385,Rum Swizzle,Rum - Daiquiris,Fresh Lime Juice
+2386,Rum Swizzle,Rum - Daiquiris,Simple Syrup
+2387,Rum Swizzle,Rum - Daiquiris,Angostura Bitters
+2388,A. J.,Cocktail Classics,Applejack
+2389,A. J.,Cocktail Classics,Grapefruit Juice
+2390,After Supper Cocktail,Cocktail Classics,Apricot-Flavored Brandy
+2391,After Supper Cocktail,Cocktail Classics,Triple Sec
+2392,After Supper Cocktail,Cocktail Classics,Lemon Juice
+2393,Rum Sour,Rum - Daiquiris,Light Rum
+2394,Rum Sour,Rum - Daiquiris,Fresh lemon juice
+2395,Rum Sour,Rum - Daiquiris,Simple Syrup
+2396,Acapulco,Cocktail Classics,Light Rum
+2397,Acapulco,Cocktail Classics,Lime Juice
+2398,Acapulco,Cocktail Classics,Triple Sec
+2399,Acapulco,Cocktail Classics,Sugar
+2400,Acapulco,Cocktail Classics,Egg White
+2401,Absinthe Drip Cocktail,Cocktail Classics,Anis
+2402,Absinthe Drip Cocktail,Cocktail Classics,Sugar
+2403,Ambrosia,Cocktail Classics,Applejack
+2404,Ambrosia,Cocktail Classics,Brandy
+2405,Ambrosia,Cocktail Classics,Triple Sec
+2406,Rum Screwdriver,Rum - Daiquiris,Light Rum
+2407,Rum Screwdriver,Rum - Daiquiris,Orange juice
+2408,Rum Rickey,Rum - Daiquiris,Light Rum
+2409,Rum Rickey,Rum - Daiquiris,Fresh Lime Juice
+2410,Scotch Cocktail,Cocktail Classics,Old Mr. Boston Creme de Menthe (White)
+2411,Scotch Cocktail,Cocktail Classics,Desmond & Duff Scotch Whisky
+2412,Rum Relaxer,Rum - Daiquiris,Light Rum
+2413,Rum Relaxer,Rum - Daiquiris,Pineapple Juice
+2414,Rum Relaxer,Rum - Daiquiris,Grenadine
+2415,Rum Old-Fashioned,Rum - Daiquiris,Light Rum
+2416,Rum Old-Fashioned,Rum - Daiquiris,151-Proof Rum
+2417,Rum Old-Fashioned,Rum - Daiquiris,Simple Syrup
+2418,Rum Old-Fashioned,Rum - Daiquiris,Angostura Bitters
+2419,Rum Martini,Rum - Daiquiris,Light Rum
+2420,Rum Martini,Rum - Daiquiris,Dry Vermouth
+2421,Rum Highball,Rum - Daiquiris,Light or dark rum
+2422,Rum Fix,Rum - Daiquiris,Light Rum
+2423,Rum Fix,Rum - Daiquiris,Fresh lemon or lime juice
+2424,Rum Fix,Rum - Daiquiris,Simple Syrup
+2425,Rum Daisy,Rum - Daiquiris,Light Rum
+2426,Rum Daisy,Rum - Daiquiris,Fresh lemon juice
+2427,Rum Daisy,Rum - Daiquiris,Simple Syrup
+2428,Rum Daisy,Rum - Daiquiris,Grenadine
+2429,D'artagnan,Brandy,Armagnac
+2430,D'artagnan,Brandy,Grand Marnier
+2431,D'artagnan,Brandy,Simple Syrup
+2432,D'artagnan,Brandy,Orange juice
+2433,D'artagnan,Brandy,Chilled Champagne
+2434,Rum Cooler,Rum - Daiquiris,Light Rum
+2435,Rum Cooler,Rum - Daiquiris,Simple Syrup
+2436,Rum Cooler,Rum - Daiquiris,Soda water
+2437,Rum Collins,Rum - Daiquiris,Light Rum
+2438,Rum Collins,Rum - Daiquiris,Fresh Lime Juice
+2439,Rum Collins,Rum - Daiquiris,Simple Syrup
+2440,Seaboabd,Cocktail Classics,Old Mr. Boston Blended Whiskey
+2441,Seaboabd,Cocktail Classics,Old Mr. Boston Dry Gin
+2442,Seaboabd,Cocktail Classics,Lemon Juice
+2443,Seaboabd,Cocktail Classics,Powdered Sugar
+2444,Rum Cobbler,Rum - Daiquiris,Light Rum
+2445,Rum Cobbler,Rum - Daiquiris,Simple Syrup
+2446,Robson Cocktail,Rum - Daiquiris,Jamaica Rum
+2447,Robson Cocktail,Rum - Daiquiris,Fresh lemon juice
+2448,Robson Cocktail,Rum - Daiquiris,Fresh orange juice
+2449,Robson Cocktail,Rum - Daiquiris,Grenadine
+2450,Rio Fix,Rum - Daiquiris,Absinthe or pastis
+2451,Rio Fix,Rum - Daiquiris,Cachaca
+2452,Rio Fix,Rum - Daiquiris,Maraschino liqueur
+2453,Rio Fix,Rum - Daiquiris,Fresh Lime Juice
+2454,Rio Fix,Rum - Daiquiris,Pineapple Juice
+2455,Ringo Starr,Rum - Daiquiris,Red grapes
+2456,Ringo Starr,Rum - Daiquiris,Lemon
+2457,Ringo Starr,Rum - Daiquiris,Fresh mint leaves
+2458,Ringo Starr,Rum - Daiquiris,Sugar cube
+2459,Ringo Starr,Rum - Daiquiris,African rum
+2460,Restless Native,Rum - Daiquiris,Coconut rum
+2461,Restless Native,Rum - Daiquiris,White creme de cacao
+2462,Restless Native,Rum - Daiquiris,Fresh Lime Juice
+2463,Restless Native,Rum - Daiquiris,Light Rum
+2464,Quarter Deck Cocktail,Rum - Daiquiris,Light Rum
+2465,Quarter Deck Cocktail,Rum - Daiquiris,Cream sherry
+2466,Quarter Deck Cocktail,Rum - Daiquiris,Fresh Lime Juice
+2467,Quaker's Cocktail,Rum - Daiquiris,Light Rum
+2468,Quaker's Cocktail,Rum - Daiquiris,Brandy
+2469,Quaker's Cocktail,Rum - Daiquiris,Fresh lemon juice
+2470,Quaker's Cocktail,Rum - Daiquiris,Raspberry Syrup
+2471,Puerto Rican Rum Daisy,Rum - Daiquiris,Dark rum
+2472,Puerto Rican Rum Daisy,Rum - Daiquiris,Orange curacao
+2473,Puerto Rican Rum Daisy,Rum - Daiquiris,Fresh lemon juice
+2474,Puerto Rican Rum Daisy,Rum - Daiquiris,each Orange juice and simple syrup
+2475,Puerto Rican Rum Daisy,Rum - Daiquiris,Angostura Bitters
+2476,Cuban Cocktail No. 2,Brandy,Brandy
+2477,Cuban Cocktail No. 2,Brandy,Light Rum
+2478,Cuban Cocktail No. 2,Brandy,Apricot-Flavored Brandy
+2479,Cuban Cocktail No. 2,Brandy,Fresh Lime Juice
+2480,Prohibition Punch,Rum - Daiquiris,Dark rum
+2481,Prohibition Punch,Rum - Daiquiris,Grand Marnier
+2482,Prohibition Punch,Rum - Daiquiris,Passion Fruit Juice
+2483,Prohibition Punch,Rum - Daiquiris,Cranberry Juice
+2484,Prohibition Punch,Rum - Daiquiris,Fresh lemon juice
+2485,Prohibition Punch,Rum - Daiquiris,Champagne
+2486,Prairie Oyster Cocktail,Cocktail Classics,Old Mr. Boston Five Star Brandy
+2487,Prairie Oyster Cocktail,Cocktail Classics,Worcestershire Sauce
+2488,Prairie Oyster Cocktail,Cocktail Classics,Tomato Catsup
+2489,Prairie Oyster Cocktail,Cocktail Classics,Vinegar
+2490,Prairie Oyster Cocktail,Cocktail Classics,Pepper
+2491,Prairie Oyster Cocktail,Cocktail Classics,"Egg Yolk, 1 oz"
+2492,Poker Cocktail,Rum - Daiquiris,Light Rum
+2493,Poker Cocktail,Rum - Daiquiris,Sweet Vermouth
+2494,Planter's Punch No. 2,Rum - Daiquiris,Light Rum
+2495,Planter's Punch No. 2,Rum - Daiquiris,Orange juice
+2496,Planter's Punch No. 2,Rum - Daiquiris,"each Fresh Lime Juice, jamaica rum, grenadine"
+2497,Planter's Punch No. 2,Rum - Daiquiris,Pineapple Juice
+2498,Planter's Punch No. 2,Rum - Daiquiris,"each Fresh lemon juice, triple sec"
+2499,Planter's Punch No. 1,Rum - Daiquiris,Light Rum
+2500,Planter's Punch No. 1,Rum - Daiquiris,Fresh Lime Juice
+2501,Planter's Punch No. 1,Rum - Daiquiris,Simple Syrup
+2502,Planter's Punch No. 1,Rum - Daiquiris,Soda water
+2503,Planter's Punch No. 1,Rum - Daiquiris,Grenadine
+2504,Planter's Cocktail,Rum - Daiquiris,Jamaica Rum
+2505,Planter's Cocktail,Rum - Daiquiris,Fresh lemon juice
+2506,Planter's Cocktail,Rum - Daiquiris,Simple Syrup
+2507,Pink Paradise,Rum - Daiquiris,Coconut-flavored rum
+2508,Pink Paradise,Rum - Daiquiris,Amaretto
+2509,Pink Paradise,Rum - Daiquiris,Cranberry Juice
+2510,Pink Paradise,Rum - Daiquiris,Pineapple Juice
+2511,Pink Creole,Rum - Daiquiris,Light Rum
+2512,Pink Creole,Rum - Daiquiris,Fresh Lime Juice
+2513,Pink Creole,Rum - Daiquiris,Grenadine
+2514,Pink Creole,Rum - Daiquiris,half-and-half
+2515,Pineapple Fizz,Rum - Daiquiris,Light Rum
+2516,Pineapple Fizz,Rum - Daiquiris,Pineapple Juice
+2517,Pineapple Fizz,Rum - Daiquiris,Simple Syrup
+2518,Pineapple Cocktail,Rum - Daiquiris,Light Rum
+2519,Pineapple Cocktail,Rum - Daiquiris,Pineapple Juice
+2520,Pineapple Cocktail,Rum - Daiquiris,Fresh lemon juice
+2521,Pearl Button,Rum - Daiquiris,Cachaca (Brazilian rum)
+2522,Pearl Button,Rum - Daiquiris,Lillet Blanc
+2523,Pearl Button,Rum - Daiquiris,Fresh Lime Juice
+2524,The Crux,Brandy,Dubonnet
+2525,The Crux,Brandy,Triple Sec
+2526,The Crux,Brandy,Brandy
+2527,The Crux,Brandy,Fresh lemon juice
+2528,Paris When It Sizzles,Rum - Daiquiris,Elderflower liqueur
+2529,Paris When It Sizzles,Rum - Daiquiris,Dark rum
+2530,Paris When It Sizzles,Rum - Daiquiris,Fresh Lime Juice
+2531,Paris When It Sizzles,Rum - Daiquiris,Angostura Bitters
+2532,Palmetto Cocktail,Rum - Daiquiris,Light Rum
+2533,Palmetto Cocktail,Rum - Daiquiris,Dry Vermouth
+2534,Palmetto Cocktail,Rum - Daiquiris,Angostura Bitters
+2535,Paddington,Rum - Daiquiris,Absinthe
+2536,Paddington,Rum - Daiquiris,Light Rum
+2537,Paddington,Rum - Daiquiris,Lillet Blanc
+2538,Paddington,Rum - Daiquiris,Fresh grapefruit juice
+2539,Paddington,Rum - Daiquiris,Fresh lemon juice
+2540,Paddington,Rum - Daiquiris,"Orange marmalade, grapefruit twist"
+2541,The Old Cuban,Rum - Daiquiris,mint leaves
+2542,The Old Cuban,Rum - Daiquiris,Simple Syrup
+2543,The Old Cuban,Rum - Daiquiris,Fresh Lime Juice
+2544,The Old Cuban,Rum - Daiquiris,Dark rum
+2545,The Old Cuban,Rum - Daiquiris,Angostura Bitters
+2546,The Old Cuban,Rum - Daiquiris,"Champagne, chopped fresh mint"
+2547,"Oh, Gosh!",Rum - Daiquiris,Light Rum
+2548,"Oh, Gosh!",Rum - Daiquiris,Triple Sec
+2549,"Oh, Gosh!",Rum - Daiquiris,Fresh Lime Juice
+2550,Night Cap,Rum - Daiquiris,Light Rum
+2551,Night Cap,Rum - Daiquiris,Simple Syrup
+2552,New Orleans Buck,Rum - Daiquiris,Light Rum
+2553,New Orleans Buck,Rum - Daiquiris,Fresh orange juice
+2554,New Orleans Buck,Rum - Daiquiris,Fresh lemon juice
+2555,Nevada Cocktail,Rum - Daiquiris,Light Rum
+2556,Nevada Cocktail,Rum - Daiquiris,Grapefruit Juice
+2557,Nevada Cocktail,Rum - Daiquiris,Fresh Lime Juice
+2558,Nevada Cocktail,Rum - Daiquiris,Simple Syrup
+2559,Nevada Cocktail,Rum - Daiquiris,Angostura Bitters
+2560,Moonquake Shake,Rum - Daiquiris,Dark rum
+2561,Moonquake Shake,Rum - Daiquiris,Coffee-flavored brandy
+2562,Moonquake Shake,Rum - Daiquiris,Fresh lemon juice
+2563,Monkey Wrench,Rum - Daiquiris,Light Rum
+2564,Creme De Cafe,Brandy,Coffee-flavored brandy
+2565,Creme De Cafe,Brandy,Light Rum
+2566,Creme De Cafe,Brandy,Anisette
+2567,Creme De Cafe,Brandy,half-and-half
+2568,Margarita,Cocktail Classics,Blanco tequila
+2569,Margarita,Cocktail Classics,Cointreau or triple sec
+2570,Margarita,Cocktail Classics,Fresh Lime Juice
+2571,Mojito,Rum - Daiquiris,Lime wedges
+2572,Mojito,Rum - Daiquiris,Fresh mint leaves
+2573,Mojito,Rum - Daiquiris,Simple Syrup
+2574,Mojito,Rum - Daiquiris,Light Rum
+2575,Champagne Flamingo,Vodka,Vodka
+2576,Champagne Flamingo,Vodka,Campari
+2577,Champagne Flamingo,Vodka,Chilled Champagne
+2578,Thunder and Lightning Cocktail,Cocktail Classics,Egg Yolk
+2579,Thunder and Lightning Cocktail,Cocktail Classics,Powdered Sugar
+2580,Thunder and Lightning Cocktail,Cocktail Classics,Old Mr. Boston Five Star Brandy
+2581,Casco Bay Lemonade,Vodka,Citrus-flavored vodka
+2582,Casco Bay Lemonade,Vodka,Simple Syrup
+2583,Casco Bay Lemonade,Vodka,Fresh lemon juice
+2584,Casco Bay Lemonade,Vodka,Cranberry Juice
+2585,Caribbean Cruise,Vodka,Vodka
+2586,Caribbean Cruise,Vodka,Light Rum
+2587,Caribbean Cruise,Vodka,Coconut-flavored rum
+2588,Caribbean Cruise,Vodka,Grenadine
+2589,Caribbean Cruise,Vodka,Pineapple Juice
+2590,Cappuccino Cocktail,Vodka,Vodka
+2591,Cappuccino Cocktail,Vodka,Coffee-flavored brandy
+2592,Cappuccino Cocktail,Vodka,half-and-half
+2593,Cappuccino Cocktail,Vodka,Vodka
+2594,Cappuccino Cocktail,Vodka,Cranberry Juice
+2595,Cape Codder,Tequila,Vodka
+2596,Cape Codder,Tequila,Cranberry Juice
+2597,Cape Codder,Tequila,Old Mr. Boston Anisette
+2598,Cape Codder,Tequila,Old Mr. Boston Five Star Brandy
+2599,Cape Codder,Tequila,Egg White
+2600,Baltimore Bracer Cocktail,Cocktail Classics,Old Mr. Boston Anisette
+2601,Baltimore Bracer Cocktail,Cocktail Classics,Old Mr. Boston Five Star Brandy
+2602,Baltimore Bracer Cocktail,Cocktail Classics,Egg White
+2603,Caesar,Vodka,"Lemon wedge, celery salt"
+2604,Caesar,Vodka,Vodka
+2605,Caesar,Vodka,Tomato-clam juice
+2606,Caesar,Vodka,Prepared horseradish
+2607,Caesar,Vodka,"each Worcestershire Sauce, salt, ground black pepper"
+2608,Bull Shot,Vodka,Vodka
+2609,Bull Shot,Vodka,Cold beef bouillon
+2610,Bull Shot,Vodka,Worcestershire Sauce
+2611,Bull Shot,Vodka,Salt
+2612,Bull Shot,Vodka,Freshly ground black pepper
+2613,Bullfrog,Vodka,Vodka
+2614,Bullfrog,Vodka,Lemonade
+2615,Boston Gold,Vodka,Vodka
+2616,Boston Gold,Vodka,Creme de banana
+2617,Boston Gold,Vodka,Fresh orange juice
+2618,Corpse Reviver No. 1,Brandy,Cognac
+2619,Corpse Reviver No. 1,Brandy,"Calvados, apple brandy, or applejack"
+2620,Corpse Reviver No. 1,Brandy,Sweet Vermouth
+2621,Thanksgiving Special Cocktail,Cocktail Classics,Old Mr. Boston Apricot Flavored Brandy
+2622,Thanksgiving Special Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+2623,Thanksgiving Special Cocktail,Cocktail Classics,Dry Vermouth
+2624,Thanksgiving Special Cocktail,Cocktail Classics,Lemon Juice
+2625,Tequini Cocktail,Cocktail Classics,Old Mr. Boston Tequila
+2626,Tequini Cocktail,Cocktail Classics,Dry Vermouth
+2627,Tequini Cocktail,Cocktail Classics,Bitters
+2628,Bordeaux Cocktail,Vodka,Citrus-flavored vodka
+2629,Bordeaux Cocktail,Vodka,Lillet Blanc
+2630,Bolshoi Punch,Vodka,Vodka
+2631,Bolshoi Punch,Vodka,Fresh lemon juice
+2632,Bolshoi Punch,Vodka,Simple Syrup
+2633,Bolshoi Punch,Vodka,Light Rum
+2634,Bolshoi Punch,Vodka,Creme de Cassis
+2635,Blue Lagoon,Vodka,Vodka
+2636,Blue Lagoon,Vodka,Blue curacao
+2637,Blue Lagoon,Vodka,Fresh lemon juice
+2638,Blue Lagoon,Vodka,Simple Syrup
+2639,Stinger Cocktail,Cocktail Classics,Old Mr. Boston White Creme de Menthe
+2640,Stinger Cocktail,Cocktail Classics,Old Mr. Boston Five Star Brandy
+2641,Bloody Mary,Vodka,Vodka
+2642,Bloody Mary,Vodka,Tomato Juice
+2643,Bloody Mary,Vodka,Fresh Lime Juice
+2644,Bloody Mary,Vodka,Worcestershire Sauce
+2645,Bloody Mary,Vodka,hot red pepper sauce
+2646,Spritzer Highball,Cocktail Classics,chilled Rhine wine or Sauterne
+2647,Bloody Bull,Vodka,Vodka
+2648,Bloody Bull,Vodka,Tomato Juice
+2649,Bloody Bull,Vodka,Cold beef bouillon
+2650,The Blood Orange,Vodka,Orange-flavored vodka
+2651,The Blood Orange,Vodka,Campari
+2652,Black Russian,Vodka,Vodka
+2653,Black Russian,Vodka,Coffee liqueur
+2654,Black Magic,Vodka,Vodka
+2655,Black Magic,Vodka,Coffee liqueur
+2656,Black Magic,Vodka,Fresh lemon juice
+2657,Black Cherry Chocolate,Vodka,Black cherry-flavored vodka
+2658,Black Cherry Chocolate,Vodka,White chocolate liqueur
+2659,Black Cherry Chocolate,Vodka,Black cherry juice
+2660,Victor Collins,Cocktail Classics,Old Mr. Boston Vodka
+2661,Victor Collins,Cocktail Classics,Unsweetened Grape Juice
+2662,Victor Collins,Cocktail Classics,Lemon Juice
+2663,Victor Collins,Cocktail Classics,Powdered Sugar
+2664,Snowball Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+2665,Snowball Cocktail,Cocktail Classics,Old Mr. Boston Anisette
+2666,Snowball Cocktail,Cocktail Classics,Sweet Cream
+2667,Violet Fizz,Cocktail Classics,Juice of a Lemon
+2668,Violet Fizz,Cocktail Classics,Powdered Sugar
+2669,Violet Fizz,Cocktail Classics,Old Mr. Boston Dry Gin
+2670,Violet Fizz,Cocktail Classics,Creme Yvette
+2671,Bikini,Vodka,Vodka
+2672,Bikini,Vodka,Light Rum
+2673,Bikini,Vodka,Fresh lemon juice
+2674,Bikini,Vodka,Milk
+2675,Bikini,Vodka,Simple Syrup
+2676,Cold Deck Cocktail,Brandy,Brandy
+2677,Cold Deck Cocktail,Brandy,Sweet Vermouth
+2678,Cold Deck Cocktail,Brandy,White creme de menthe
+2679,The Big Crush,Vodka,Raspberry-flavored vodka
+2680,The Big Crush,Vodka,Triple Sec
+2681,The Big Crush,Vodka,Raspberry-flavored liqueur
+2682,The Big Crush,Vodka,Fresh Lime Juice
+2683,Bianca,Vodka,"Lime wedge, superfine sugar"
+2684,Bianca,Vodka,Citrus-flavored vodka
+2685,Bianca,Vodka,Pomegranate juice
+2686,Bianca,Vodka,Fresh Lime Juice
+2687,Bianca,Vodka,Simple Syrup
+2688,Bianca,Vodka,"Fresh lemon juice, lemon twiste, fresh pomegranate seeds"
+2689,Bella Fragolia,Vodka,"Strawberry, chopped"
+2690,Bella Fragolia,Vodka,Fresh basil leaves
+2691,Bella Fragolia,Vodka,Vodka
+2692,Bella Fragolia,Vodka,Fresh lemon juice
+2693,Bella Fragolia,Vodka,Simple Syrup
+2694,Beer Buster,Vodka,Vodka
+2695,Beer Buster,Vodka,Hot red pepper sauce
+2696,Basil 8,Vodka,Fresh basil leaves
+2697,Basil 8,Vodka,White grapes
+2698,Basil 8,Vodka,Vodka
+2699,Basil 8,Vodka,Fresh Lime Juice
+2700,Basil 8,Vodka,"each Simple Syrup, angostura bitters"
+2701,Shamrock Cocktail,Cocktail Classics,Irish Whiskey
+2702,Shamrock Cocktail,Cocktail Classics,Dry Vermouth
+2703,Shamrock Cocktail,Cocktail Classics,Old Mr. Boston Green Creme de Menthe
+2704,Aqueduct,Vodka,Vodka
+2705,Aqueduct,Vodka,Fresh Lime Juice
+2706,Aqueduct,Vodka,White curacao or triple sec
+2707,Aqueduct,Vodka,Apricot-Flavored Brandy
+2708,Scotch Whisky Highball,Cocktail Classics,Desmond & Duff Scotch Whisky
+2709,Alfie Cocktail,Vodka,lemon-flavored vodka
+2710,Alfie Cocktail,Vodka,Pineapple Juice
+2711,Alfie Cocktail,Vodka,Triple Sec
+2712,Admiral Perry,Vodka,Pear-flavored vodka
+2713,Admiral Perry,Vodka,Cinnamon schnapps
+2714,Admiral Perry,Vodka,Dry Vermouth
+2715,Admiral Perry,Vodka,White creme de cacao
+2716,Yellow Rose Of Texas,Tequila,Blanco tequila
+2717,Yellow Rose Of Texas,Tequila,Fresh lemon juice
+2718,Yellow Rose Of Texas,Tequila,Simple Syrup
+2719,Yellow Rose Of Texas,Tequila,Yellow Chartreuse
+2720,Yellow Rose Of Texas,Tequila,Rose water
+2721,St. Patrick's Day Cocktail,Cocktail Classics,Old Mr. Boston Green Creme de Menthe
+2722,St. Patrick's Day Cocktail,Cocktail Classics,Green Chartreuse
+2723,St. Patrick's Day Cocktail,Cocktail Classics,Irish Whiskey
+2724,St. Patrick's Day Cocktail,Cocktail Classics,Bitters
+2725,Purple Twister,Cocktail Classics,Old Mr. Boston Grape Vodka
+2726,Waiting On Summer,Tequila,Cucumber
+2727,Waiting On Summer,Tequila,Fresh sage leaves
+2728,Waiting On Summer,Tequila,Fresh Lime Juice
+2729,Waiting On Summer,Tequila,Blanco tequila
+2730,Waiting On Summer,Tequila,Simple Syrup
+2731,Waiting On Summer,Tequila,"Ginger ale, strawberry slice"
+2732,Cognac Highball,Brandy,Cognac
+2733,Prince's Smile Cocktail,Cocktail Classics,Old Mr. Boston Apricot Flavored Brandy
+2734,Prince's Smile Cocktail,Cocktail Classics,Apple Brandy
+2735,Prince's Smile Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+2736,Prince's Smile Cocktail,Cocktail Classics,Lemon Juice
+2737,Viva Villa,Tequila,"Lime wedge, coarse salt"
+2738,Viva Villa,Tequila,Blanco tequila
+2739,Viva Villa,Tequila,Fresh Lime Juice
+2740,Viva Villa,Tequila,Simple Syrup
+2741,Praire Oyster Cocktail,Cordials and Liqueurs,Old Mr. Boston Five Star Brandy
+2742,Praire Oyster Cocktail,Cordials and Liqueurs,Worcestershire Sauce
+2743,Praire Oyster Cocktail,Cordials and Liqueurs,Tomato Catsup
+2744,Praire Oyster Cocktail,Cordials and Liqueurs,Vinegar
+2745,Praire Oyster Cocktail,Cordials and Liqueurs,Pepper
+2746,Praire Chicken,Cocktail Classics,Old Mr. Boston Dry Gin
+2747,Praire Chicken,Cocktail Classics,Whole Egg
+2748,Venial Sin,Tequila,Blanco tequila
+2749,Venial Sin,Tequila,Mezcal
+2750,Venial Sin,Tequila,Yellow Chartreuse
+2751,Venial Sin,Tequila,Elderflower liqueur
+2752,Venial Sin,Tequila,Maraschino liqueur
+2753,Vagabundo,Tequila,Reposado blanco tequila
+2754,Vagabundo,Tequila,Pineapple Juice
+2755,Vagabundo,Tequila,Fresh celery juice
+2756,Vagabundo,Tequila,Fresh Lime Juice
+2757,The 21st Century,Tequila,Absinthe
+2758,The 21st Century,Tequila,Absinthe
+2759,The 21st Century,Tequila,Blanco tequila
+2760,The 21st Century,Tequila,Fresh Lime Juice
+2761,The 21st Century,Tequila,White creme de cacao
+2762,Pollyanna Cocktail,Cocktail Classics,orange peel
+2763,Pollyanna Cocktail,Cocktail Classics,pineapple
+2764,Pollyanna Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+2765,Pollyanna Cocktail,Cocktail Classics,sweet vermouth
+2766,Toreador,Tequila,Blanco tequila
+2767,Toreador,Tequila,Dark creme de cacao
+2768,Toreador,Tequila,half-and-half
+2769,Pink Squirrel Cocktail,Cocktail Classics,Mr. Boston Creme de Noyaux
+2770,Pink Squirrel Cocktail,Cocktail Classics,Old Mr. Boston White Creme de Cacao
+2771,Pink Squirrel Cocktail,Cocktail Classics,Light Sweet Cream
+2772,Pink Lady Cocktail,Cocktail Classics,Egg White
+2773,Pink Lady Cocktail,Cocktail Classics,Grenadine
+2774,Pink Lady Cocktail,Cocktail Classics,Sweet Cream
+2775,Pink Lady Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+2776,Tijuana Taxi,Tequila,Gold tequila
+2777,Tijuana Taxi,Tequila,Blue curacao
+2778,Tijuana Taxi,Tequila,Tropical fruit schnapps
+2779,Tia Juanathan,Tequila,Blanco tequila
+2780,Tia Juanathan,Tequila,Fresh Lime Juice
+2781,Tia Juanathan,Tequila,Aperol
+2782,Tia Juanathan,Tequila,Yellow Chartreuse
+2783,Phoebe Snow Cocktail,Cocktail Classics,Dubonnet
+2784,Phoebe Snow Cocktail,Cocktail Classics,Old Mr. Boston Five Star Brandy
+2785,Phoebe Snow Cocktail,Cocktail Classics,Absinthe Substitute
+2786,Tequonic,Tequila,Blanco tequila
+2787,Tequonic,Tequila,Fresh lemon or lime juice
+2788,Tequini,Tequila,Blanco tequila
+2789,Tequini,Tequila,Dry Vermouth
+2790,Tequini,Tequila,Angostura bitters
+2791,Passion Daiquiri Cocktail,Cocktail Classics,Old Mr. Boston Rum
+2792,Passion Daiquiri Cocktail,Cocktail Classics,Juice of a Lime
+2793,Passion Daiquiri Cocktail,Cocktail Classics,Powdered Sugar
+2794,Passion Daiquiri Cocktail,Cocktail Classics,Passion Fruit Juice
+2795,Parisian Blonde Cocktail,Cocktail Classics,Sweet Cream
+2796,Parisian Blonde Cocktail,Cocktail Classics,Old Mr. Boston Triple Sec
+2797,Parisian Blonde Cocktail,Cocktail Classics,Jamaica Rum
+2798,Tequila Sunrise,Tequila,Blanco tequila
+2799,Tequila Sunrise,Tequila,Orange juice
+2800,Tequila Sunrise,Tequila,Grenadine
+2801,Coffee Grasshopper,Brandy,Coffee-flavored brandy
+2802,Coffee Grasshopper,Brandy,White creme de menthe
+2803,Coffee Grasshopper,Brandy,half-and-half
+2804,Tequila Straight,Tequila,Coarse salt
+2805,Tequila Straight,Tequila,Blanco tequila
+2806,Tequila Straight,Tequila,Lime wedge
+2807,Tequila Sour,Tequila,Blanco tequila
+2808,Tequila Sour,Tequila,Fresh lemon juice
+2809,Tequila Sour,Tequila,Simple Syrup
+2810,Tequila Smash,Tequila,Blueberries
+2811,Tequila Smash,Tequila,Bing cherries
+2812,Tequila Smash,Tequila,Blanco tequila
+2813,Tequila Smash,Tequila,Maraschino liqueur
+2814,Tequila Smash,Tequila,Fresh Lime Juice
+2815,Tequila Pink,Tequila,Blanco tequila
+2816,Tequila Pink,Tequila,Dry Vermouth
+2817,Tequila Pink,Tequila,Grenadine
+2818,Tequila Old-Fashioned,Tequila,Blanco tequila
+2819,Tequila Old-Fashioned,Tequila,Simple Syrup
+2820,Tequila Old-Fashioned,Tequila,Angostura Bitters
+2821,Tequila Old-Fashioned,Tequila,Soda water
+2822,Rob Roy Cocktail,Cocktail Classics,Sweet Vermouth
+2823,Rob Roy Cocktail,Cocktail Classics,Desmond & Duff Scotch Whisky
+2824,Tequila Mockingbird,Tequila,"Lime wedge, coarse salt"
+2825,Tequila Mockingbird,Tequila,Minced ginger
+2826,Tequila Mockingbird,Tequila,Blanco tequila
+2827,Tequila Mockingbird,Tequila,Agave nectar
+2828,Tequila Mockingbird,Tequila,Fresh Lime Juice
+2829,Tequila Matador,Tequila,Blanco tequila
+2830,Tequila Matador,Tequila,Pineapple Juice
+2831,Tequila Matador,Tequila,Fresh Lime Juice
+2832,Tequila Manhattan,Tequila,Blanco tequila
+2833,Tequila Manhattan,Tequila,Sweet Vermouth
+2834,Tequila Manhattan,Tequila,Angostura Bitters
+2835,T.N.T. Cocktail,Cocktail Classics,Old Thompson Blended Whiskey
+2836,T.N.T. Cocktail,Cocktail Classics,Absinthe Substitute
+2837,Thunderclap Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+2838,Thunderclap Cocktail,Cocktail Classics,Old Thompson Blended Whiskey
+2839,Thunderclap Cocktail,Cocktail Classics,Old Mr. Boston Five Star Brandy
+2840,Thunder Cocktail,Cocktail Classics,Powdered Sugar
+2841,Thunder Cocktail,Cocktail Classics,Egg Yolk
+2842,Thunder Cocktail,Cocktail Classics,Old Mr. Boston Five Star Brandy
+2843,Thunder Cocktail,Cocktail Classics,Cayenne Pepper
+2844,Tequila Collins,Tequila,Blanco tequila
+2845,Tequila Collins,Tequila,Fresh lemon juice
+2846,Tequila Collins,Tequila,Simple Syrup
+2847,White Lady Cocktail,Cocktail Classics,Egg White
+2848,White Lady Cocktail,Cocktail Classics,Powdered Sugar
+2849,White Lady Cocktail,Cocktail Classics,Sweet Cream
+2850,White Lady Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+2851,Tequila Canyon,Tequila,Blanco tequila
+2852,Tequila Canyon,Tequila,Triple Sec
+2853,Tequila Canyon,Tequila,Cranberry Juice
+2854,Tequila Canyon,Tequila,Pineapple Juice
+2855,Tequila Canyon,Tequila,Orange juice
+2856,Chicago Cocktail,Brandy,"Lemon wedge, superfine sugar"
+2857,Chicago Cocktail,Brandy,Brandy
+2858,Chicago Cocktail,Brandy,Fresh lemon juice
+2859,Chicago Cocktail,Brandy,Orange curacao
+2860,Chicago Cocktail,Brandy,Maraschino liqueur
+2861,Sunday Confession,Tequila,Blanco tequila
+2862,Sunday Confession,Tequila,Limoncello
+2863,Sunday Confession,Tequila,Fresh lemon juice
+2864,Strawberry Margarita,Tequila,"Lime wedge, superfine sugar or coarse salt (optional)"
+2865,Strawberry Margarita,Tequila,"Fresh strawberries, cut in half"
+2866,Strawberry Margarita,Tequila,Strawberry schnapps
+2867,Strawberry Margarita,Tequila,Blanco tequila
+2868,Strawberry Margarita,Tequila,Triple Sec
+2869,Strawberry Margarita,Tequila,"Fresh Lime Juice, whole strawberry"
+2870,Western Rose Cocktail,Cocktail Classics,Old Mr. Boston Apricot Flavored Brandy
+2871,Western Rose Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+2872,Western Rose Cocktail,Cocktail Classics,Dry Vermouth
+2873,Western Rose Cocktail,Cocktail Classics,Lemon Juice
+2874,Widow's Kiss Cocktail,Cocktail Classics,Old Mr. Boston Five Star Brandy
+2875,Widow's Kiss Cocktail,Cocktail Classics,Yellow Chartreuse
+2876,Widow's Kiss Cocktail,Cocktail Classics,Benedictine
+2877,Widow's Kiss Cocktail,Cocktail Classics,Peychaud Bitters
+2878,Spice Of Life,Tequila,Cucumber
+2879,Spice Of Life,Tequila,Fresh mint leaves
+2880,Spice Of Life,Tequila,Simple Syrup
+2881,Spice Of Life,Tequila,Jalapeno-Infused Tequila
+2882,Spice Of Life,Tequila,Fresh Lime Juice
+2883,Widow's Dream Cocktail,Cocktail Classics,Benedictine
+2884,Widow's Dream Cocktail,Cocktail Classics,Whole Egg
+2885,Vodka Gypsy Cocktail,Cocktail Classics,Old Mr. Boston Vodka
+2886,Vodka Gypsy Cocktail,Cocktail Classics,Benedictine
+2887,Vodka Gypsy Cocktail,Cocktail Classics,Angostura Bitters
+2888,South Of The Border,Tequila,Blanco tequila
+2889,South Of The Border,Tequila,Coffee-flavored brandy
+2890,South Of The Border,Tequila,Fresh Lime Juice
+2891,Vodka Grasshopper Cocktail,Cocktail Classics,Old Mr. Boston Vodka
+2892,Vodka Grasshopper Cocktail,Cocktail Classics,Old Mr. Boston Green Creme de Menthe
+2893,Vodka Grasshopper Cocktail,Cocktail Classics,Old Mr. Boston White Creme de Cacao
+2894,Violet Fizz Juice,Cocktail Classics,Juice of a Lemon
+2895,Violet Fizz Juice,Cocktail Classics,Powdered Sugar
+2896,Violet Fizz Juice,Cocktail Classics,Old Mr. Boston Dry Gin
+2897,Violet Fizz Juice,Cocktail Classics,Creme Yvette
+2898,Smoked Margarita,Tequila,"Smoky Scotch whisky, such as Islay or Skye"
+2899,Smoked Margarita,Tequila,Reposado tequila
+2900,Smoked Margarita,Tequila,Triple Sec
+2901,Smoked Margarita,Tequila,Fresh lemon juice
+2902,Smoked Margarita,Tequila,Fresh Lime Juice
+2903,Sloe Tequila,Shooters,Blanco tequila
+2904,Sloe Tequila,Shooters,Sloe gin
+2905,Sloe Tequila,Shooters,Fresh Lime Juice
+2906,Queen Elizabeth Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+2907,Queen Elizabeth Cocktail,Cocktail Classics,Dry Vermouth
+2908,Queen Elizabeth Cocktail,Cocktail Classics,Benedictine
+2909,Silk Stockings,Tequila,Blanco tequila
+2910,Silk Stockings,Tequila,White creme de cacao
+2911,Silk Stockings,Tequila,Heavy cream
+2912,Silk Stockings,Tequila,Grenadine
+2913,Orchid Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+2914,Orchid Cocktail,Cocktail Classics,Egg White
+2915,Orchid Cocktail,Cocktail Classics,Creme Yvette
+2916,Orange Milk Fizz,Cocktail Classics,Juice of a Lemon
+2917,Orange Milk Fizz,Cocktail Classics,Powdered Sugar
+2918,Orange Milk Fizz,Cocktail Classics,Old Mr. Boston Orange Flavored Gin
+2919,Orange Milk Fizz,Cocktail Classics,Milk
+2920,Orange Gin Rickey,Cocktail Classics,Juice of a Lime
+2921,Orange Gin Rickey,Cocktail Classics,Old Mr. Boston Orange Flavored Gin
+2922,Orange Gin Highball,Cocktail Classics,Old Mr. Boston Orange Flavored Gin
+2923,Orange Gin Fizz,Cocktail Classics,Juice of a Lemon
+2924,Orange Gin Fizz,Cocktail Classics,Powdered Sugar
+2925,Orange Gin Fizz,Cocktail Classics,Old Mr. Boston Orange Flavored Gin
+2926,Orange Gin Collins,Cocktail Classics,Juice of a Lemon
+2927,Orange Gin Collins,Cocktail Classics,Old Mr. Boston Orange Flavored Gin
+2928,Sidewinder,Tequila,Reposado tequila
+2929,Sidewinder,Tequila,Campari
+2930,Sidewinder,Tequila,"Vanilla syrup, preferably B.A. Reynold's"
+2931,Sidewinder,Tequila,Fresh Lime Juice
+2932,Sidewinder,Tequila,Mezcal
+2933,Sidewinder,Tequila,"Ginger beer, 1 oz"
+2934,Orange Blossom Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+2935,Orange Blossom Cocktail,Cocktail Classics,Orange Juice
+2936,Orange Blossom Cocktail,Cocktail Classics,Powdered Sugar
+2937,Shady Lady,Tequila,Blanco tequila
+2938,Shady Lady,Tequila,Melon liqueur
+2939,Shady Lady,Tequila,Fresh grapefruit juice
+2940,Shady Lady,Tequila,Fresh grapefruit juice
+2941,Cherry Blossom,Brandy,Brandy
+2942,Cherry Blossom,Brandy,cherry-flavored brandy
+2943,Cherry Blossom,Brandy,Fresh lemon juice
+2944,Cherry Blossom,Brandy,Triple Sec
+2945,Cherry Blossom,Brandy,"Grenadine, maraschino cherry"
+2946,The Sfozando,Tequila,Mezcal
+2947,The Sfozando,Tequila,Rye Whiskey
+2948,The Sfozando,Tequila,Dry Vermouth
+2949,The Sfozando,Tequila,Benedictine
+2950,The Sfozando,Tequila,Chocolate bitters
+2951,Napoleon Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+2952,Napoleon Cocktail,Cocktail Classics,Curacao
+2953,Napoleon Cocktail,Cocktail Classics,Dubonnet
+2954,Moulin Rouge Cocktail,Cocktail Classics,Old Mr. Boston Sloe Gin
+2955,Moulin Rouge Cocktail,Cocktail Classics,Sweet Vermouth
+2956,Moulin Rouge Cocktail,Cocktail Classics,Bitters
+2957,Sea Of Cortez,Tequila,Blanco tequila
+2958,Sea Of Cortez,Tequila,Fresh Lime Juice
+2959,Sea Of Cortez,Tequila,Creme de Cassis
+2960,Sea Of Cortez,Tequila,Orange curacao
+2961,Satin Sheets,Tequila,Blanco tequila
+2962,Satin Sheets,Tequila,Falernum
+2963,Satin Sheets,Tequila,Simple Syrup
+2964,Satin Sheets,Tequila,Fresh Lime Juice
+2965,Santana Sling,Tequila,Reposado tequila
+2966,Santana Sling,Tequila,Cherry Heering
+2967,Santana Sling,Tequila,Batavia arrack or light rum
+2968,Santana Sling,Tequila,Fresh Lime Juice
+2969,Santana Sling,Tequila,Ginger beer
+2970,Rosita,Tequila,Blanco tequila
+2971,Rosita,Tequila,Sweet Vermouth
+2972,Rosita,Tequila,Dry Vermouth
+2973,Rosita,Tequila,Campari
+2974,Rosita,Tequila,Angostura Bitters
+2975,Mariposa Cocktail,Cocktail Classics,Old Mr. Boston Rum
+2976,Mariposa Cocktail,Cocktail Classics,Old Mr. Boston Five Star Brandy
+2977,Mariposa Cocktail,Cocktail Classics,Lemon Juice
+2978,Mariposa Cocktail,Cocktail Classics,Orange Juice
+2979,Mariposa Cocktail,Cocktail Classics,Grenadine
+2980,Margarita Cocktail,Cocktail Classics,Old Mr. Boston Tequila
+2981,Margarita Cocktail,Cocktail Classics,Old Mr. Boston Triple Sec
+2982,Margarita Cocktail,Cocktail Classics,Lemon or Lime Juice
+2983,The Refuge,Tequila,Blanco tequila
+2984,The Refuge,Tequila,Aperol
+2985,The Refuge,Tequila,Fresh Lime Juice
+2986,The Refuge,Tequila,Grapefruit Juice
+2987,The Refuge,Tequila,Agave nectar
+2988,Manhattan Cocktail (dry),Cocktail Classics,Dry Vermouth
+2989,Manhattan Cocktail (dry),Cocktail Classics,Old Thompson Blended Whiskey
+2990,Mamie Taylor,Cocktail Classics,Juice of a Lime
+2991,Mamie Taylor,Cocktail Classics,Desmond & Duff Scotch Whisky
+2992,Quetzalcoatl,Tequila,Blanco tequila
+2993,Quetzalcoatl,Tequila,Mezcal
+2994,Quetzalcoatl,Tequila,Creme de peche
+2995,Quetzalcoatl,Tequila,Guava puree
+2996,Quetzalcoatl,Tequila,Grapefruit Juice
+2997,Zero Mint,Cocktail Classics,Mr. Boston Creme de menthe
+2998,Purple Pancho,Tequila,"Lime wedge, superfine sugar"
+2999,Purple Pancho,Tequila,Blanco tequila
+3000,Purple Pancho,Tequila,Blue curacao
+3001,Purple Pancho,Tequila,Sloe gin
+3002,Purple Pancho,Tequila,Fresh Lime Juice
+3003,Purple Pancho,Tequila,"each Fresh lemon juice, simple syrup, 1 lime wheel"
+3004,Midnight Express,Rum - Daiquiris,Dark rum
+3005,Midnight Express,Rum - Daiquiris,Triple Sec
+3006,Midnight Express,Rum - Daiquiris,Fresh Lime Juice
+3007,Midnight Express,Rum - Daiquiris,Fresh lemon juice
+3008,Midnight Express,Rum - Daiquiris,Simple Syrup
+3009,London Special Cocktail,Cocktail Classics,bitters
+3010,Mary Pickford Cocktail,Rum - Daiquiris,Light Rum
+3011,Mary Pickford Cocktail,Rum - Daiquiris,Pineapple Juice
+3012,Mary Pickford Cocktail,Rum - Daiquiris,Maraschino liqueur
+3013,Mary Pickford Cocktail,Rum - Daiquiris,Grenadine
+3014,Charles Cocktail,Brandy,Brandy
+3015,Charles Cocktail,Brandy,Sweet Vermouth
+3016,Charles Cocktail,Brandy,Angostura Bitters
+3017,Martinique Rose,Rum - Daiquiris,Aged rhum agricole
+3018,Martinique Rose,Rum - Daiquiris,Amaretto
+3019,Martinique Rose,Rum - Daiquiris,Fresh Lime Juice
+3020,Martinique Rose,Rum - Daiquiris,Grapefruit Juice
+3021,Martinique Rose,Rum - Daiquiris,orgeat or almond syrup
+3022,Mariposa,Rum - Daiquiris,Light Rum
+3023,Mariposa,Rum - Daiquiris,Brandy
+3024,Mariposa,Rum - Daiquiris,Fresh lemon juice
+3025,Mariposa,Rum - Daiquiris,Orange juice
+3026,Mariposa,Rum - Daiquiris,Grenadine
+3027,Mandeville,Rum - Daiquiris,Light Rum
+3028,Mandeville,Rum - Daiquiris,Dark rum
+3029,Mandeville,Rum - Daiquiris,Fresh lemon juice
+3030,Mandeville,Rum - Daiquiris,Anisette
+3031,Mandeville,Rum - Daiquiris,Grenadine
+3032,K.C.B. Cocktail,Cocktail Classics,Old Mr. Boston Kummel
+3033,K.C.B. Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3034,K.C.B. Cocktail,Cocktail Classics,Old Mr. Boston Apricot Flavored Brandy
+3035,K.C.B. Cocktail,Cocktail Classics,Lemon Juice
+3036,Malmaison,Rum - Daiquiris,Light Rum
+3037,Malmaison,Rum - Daiquiris,Cream sherry
+3038,Malmaison,Rum - Daiquiris,Fresh lemon juice
+3039,Mai-Tai (Trader Vic Version),Rum - Daiquiris,"Dark rum, preferably Jamaican"
+3040,Mai-Tai (Trader Vic Version),Rum - Daiquiris,Orange curacao
+3041,Mai-Tai (Trader Vic Version),Rum - Daiquiris,Fresh lime juice (reserve 1/2 lime shell for garnish)
+3042,Mai-Tai (Trader Vic Version),Rum - Daiquiris,Orgeat Syrup
+3043,Mai-Tai (Trader Vic Version),Rum - Daiquiris,Rock candy syrup or simple syrup
+3044,Jersey Lightning Cocktail,Cocktail Classics,Apple Brandy
+3045,Jersey Lightning Cocktail,Cocktail Classics,Sweet Vermouth
+3046,Jersey Lightning Cocktail,Cocktail Classics,Juice of a Lime
+3047,Lumination,Rum - Daiquiris,Fresh ginger
+3048,Lumination,Rum - Daiquiris,Simple Syrup
+3049,Lumination,Rum - Daiquiris,Dark rum
+3050,Lumination,Rum - Daiquiris,VS cognac
+3051,Lumination,Rum - Daiquiris,"each Fresh lemon juice, Angostura bitters"
+3052,Jamaica Glow Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3053,Jamaica Glow Cocktail,Cocktail Classics,Claret
+3054,Jamaica Glow Cocktail,Cocktail Classics,Orange Juice
+3055,Jamaica Glow Cocktail,Cocktail Classics,Jamaica Rum
+3056,Lounge Lizard,Rum - Daiquiris,Dark rum
+3057,Lounge Lizard,Rum - Daiquiris,Amaretto
+3058,Jack-in-the-Box Cocktail,Cocktail Classics,Apple Brandy
+3059,Jack-in-the-Box Cocktail,Cocktail Classics,Pineapple Juice
+3060,Jack-in-the-Box Cocktail,Cocktail Classics,Bitters
+3061,Irish Whisky Cocktail,Cocktail Classics,Old Mr. Boston Triple Sec
+3062,Irish Whisky Cocktail,Cocktail Classics,Absinthe Substitute
+3063,Irish Whisky Cocktail,Cocktail Classics,Maraschino
+3064,Irish Whisky Cocktail,Cocktail Classics,Bitters
+3065,Irish Whisky Cocktail,Cocktail Classics,Irish Whiskey
+3066,Look Out Below,Rum - Daiquiris,151-Proof Rum
+3067,Look Out Below,Rum - Daiquiris,Fresh Lime Juice
+3068,Look Out Below,Rum - Daiquiris,Grenadine
+3069,Little Princess Cocktail,Rum - Daiquiris,Light Rum
+3070,Little Princess Cocktail,Rum - Daiquiris,Sweet Vermouth
+3071,Little Devil Cocktail,Rum - Daiquiris,Light Rum
+3072,Little Devil Cocktail,Rum - Daiquiris,Gin
+3073,Little Devil Cocktail,Rum - Daiquiris,Fresh lemon juice
+3074,Little Devil Cocktail,Rum - Daiquiris,Triple Sec
+3075,Champs Elysees Cocktail,Brandy,Brandy
+3076,Champs Elysees Cocktail,Brandy,Yellow Chartreuse
+3077,Champs Elysees Cocktail,Brandy,Fresh lemon juice
+3078,Champs Elysees Cocktail,Brandy,Simple Syrup
+3079,Champs Elysees Cocktail,Brandy,Angostura Bitters
+3080,Hop Toad Cocktail,Cocktail Classics,Juice of a Lime
+3081,Hop Toad Cocktail,Cocktail Classics,Old Mr. Boston Apricot Flavored Brandy
+3082,Hop Toad Cocktail,Cocktail Classics,Old Mr. Boston Rum
+3083,Level headed Cocktail,Rum - Daiquiris,Aged rhum agricole
+3084,Level headed Cocktail,Rum - Daiquiris,Cold brewed coffee
+3085,Level headed Cocktail,Rum - Daiquiris,Allspice liqueur (pimento dram)
+3086,Level headed Cocktail,Rum - Daiquiris,Simple Syrup
+3087,Level headed Cocktail,Rum - Daiquiris,Angostura Bitters
+3088,La Vita Dulce,Rum - Daiquiris,Spiced rum
+3089,La Vita Dulce,Rum - Daiquiris,Mezcal
+3090,La Vita Dulce,Rum - Daiquiris,Fresh Lime Juice
+3091,La Vita Dulce,Rum - Daiquiris,Simple Syrup
+3092,Hole-in-One Cocktail,Cocktail Classics,Desmond & Duff Scotch Whisky
+3093,Hole-in-One Cocktail,Cocktail Classics,Dry Vermouth
+3094,Hole-in-One Cocktail,Cocktail Classics,Lemon Juice
+3095,Hole-in-One Cocktail,Cocktail Classics,Orange Bitters
+3096,Ko Adang,Rum - Daiquiris,Dark rum
+3097,Ko Adang,Rum - Daiquiris,Coconut rum
+3098,Ko Adang,Rum - Daiquiris,Ginger liqueur
+3099,Ko Adang,Rum - Daiquiris,Mango nectar
+3100,Ko Adang,Rum - Daiquiris,Cream of coconut
+3101,Ko Adang,Rum - Daiquiris,"Fresh Lime Juice, lime wheel"
+3102,Knickerbocker Special Cocktail,Rum - Daiquiris,Light Rum
+3103,Knickerbocker Special Cocktail,Rum - Daiquiris,Triple Sec
+3104,Knickerbocker Special Cocktail,Rum - Daiquiris,Fresh lemon juice
+3105,Knickerbocker Special Cocktail,Rum - Daiquiris,Orange juice
+3106,Knickerbocker Special Cocktail,Rum - Daiquiris,Raspberry Syrup
+3107,Hair Raiser Cocktail,Cocktail Classics,Old Mr. Boston 100 proof Vodka
+3108,Hair Raiser Cocktail,Cocktail Classics,Old Mr. Boston Rock and Rye
+3109,Hair Raiser Cocktail,Cocktail Classics,Lemon Juice
+3110,Green Opal Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3111,Green Opal Cocktail,Cocktail Classics,Old Mr. Boston Anisette
+3112,Green Opal Cocktail,Cocktail Classics,Absinthe Substitute
+3113,Jamaican Ginger,Rum - Daiquiris,Light Rum
+3114,Jamaican Ginger,Rum - Daiquiris,Dark rum
+3115,Jamaican Ginger,Rum - Daiquiris,Falernum
+3116,Jamaican Ginger,Rum - Daiquiris,Fresh Lime Juice
+3117,Jamaican Ginger,Rum - Daiquiris,Angostura Bitters
+3118,Green Dragon Cocktail,Cocktail Classics,Juice of a Lemon
+3119,Green Dragon Cocktail,Cocktail Classics,Old Mr. Boston Kummel
+3120,Green Dragon Cocktail,Cocktail Classics,Old Mr. Boston Green Creme de Menthe
+3121,Green Dragon Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3122,Green Dragon Cocktail,Cocktail Classics,Orange Bitters
+3123,Grasshopper Cocktail,Cocktail Classics,Old Mr. Boston Green Creme de Menthe
+3124,Grasshopper Cocktail,Cocktail Classics,Old Mr. Boston White Creme de Cacao
+3125,Grasshopper Cocktail,Cocktail Classics,Light Sweet Cream
+3126,Jamaican Crawler,Rum - Daiquiris,Light Rum
+3127,Jamaican Crawler,Rum - Daiquiris,Melon liqueur
+3128,Jamaican Crawler,Rum - Daiquiris,Pineapple Juice
+3129,Jamaican Crawler,Rum - Daiquiris,Grenadine
+3130,Golden Slipper Cocktail,Cocktail Classics,Yellow Chartreuse
+3131,Golden Slipper Cocktail,Cocktail Classics,Old Mr. Boston Apricot Flavored Brandy
+3132,Jade,Rum - Daiquiris,Light Rum
+3133,Jade,Rum - Daiquiris,Fresh Lime Juice
+3134,Jade,Rum - Daiquiris,Green creme de menthe
+3135,Jade,Rum - Daiquiris,Triple Sec
+3136,Jade,Rum - Daiquiris,Simple Syrup Scant
+3137,Jacqueline,Rum - Daiquiris,Dark rum
+3138,Jacqueline,Rum - Daiquiris,Triple Sec
+3139,Jacqueline,Rum - Daiquiris,Fresh Lime Juice
+3140,Jacqueline,Rum - Daiquiris,Simple Syrup
+3141,Jack Sparrow Flip,Rum - Daiquiris,Dark rum
+3142,Jack Sparrow Flip,Rum - Daiquiris,Madeira
+3143,Jack Sparrow Flip,Rum - Daiquiris,Simple Syrup
+3144,Jack Sparrow Flip,Rum - Daiquiris,Egg
+3145,Jack Sparrow Flip,Rum - Daiquiris,Angostura Bitters
+3146,Irresistible,Rum - Daiquiris,Light Rum
+3147,Irresistible,Rum - Daiquiris,Sweet Vermouth
+3148,Irresistible,Rum - Daiquiris,Benedictine
+3149,Irresistible,Rum - Daiquiris,Fresh lemon juice
+3150,Carroll Cocktail,Brandy,Brandy
+3151,Carroll Cocktail,Brandy,Sweet Vermouth
+3152,Hush and Wonder,Rum - Daiquiris,Creme de violette
+3153,Hush and Wonder,Rum - Daiquiris,Light Rum
+3154,Hush and Wonder,Rum - Daiquiris,Fresh Lime Juice
+3155,Hush and Wonder,Rum - Daiquiris,Simple Syrup
+3156,Hush and Wonder,Rum - Daiquiris,Grapefruit bitters
+3157,Hurricane Leah,Rum - Daiquiris,"each Light Rum, Gin, Vodka, Blanco tequila, Blue curacao"
+3158,Hurricane Leah,Rum - Daiquiris,cherry-flavored brandy
+3159,Hurricane Leah,Rum - Daiquiris,Simple Syrup
+3160,Hurricane Leah,Rum - Daiquiris,Fresh lemon juice
+3161,Hurricane Leah,Rum - Daiquiris,Fresh orange juice
+3162,Gimlet Cocktail,Cocktail Classics,Rose's Lime Juice
+3163,Gimlet Cocktail,Cocktail Classics,Powdered Sugar
+3164,Gimlet Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3165,Hurricane,Rum - Daiquiris,"each Dark rum, light rum"
+3166,Hurricane,Rum - Daiquiris,Passion Fruit Syrup
+3167,Hurricane,Rum - Daiquiris,Lime Juice
+3168,Hurricane,Rum - Daiquiris,Orange juice
+3169,Hurricane,Rum - Daiquiris,"each Simple Syrup, grenadine"
+3170,Hop Toad,Rum - Daiquiris,Light Rum
+3171,Hop Toad,Rum - Daiquiris,Apricot-Flavored Brandy
+3172,Hop Toad,Rum - Daiquiris,Fresh Lime Juice
+3173,The Holy Roller,Rum - Daiquiris,Cachaca
+3174,The Holy Roller,Rum - Daiquiris,Fresh Lime Juice
+3175,The Holy Roller,Rum - Daiquiris,Honey Syrup
+3176,The Holy Roller,Rum - Daiquiris,Angostura Bitters
+3177,The Holy Roller,Rum - Daiquiris,"Champagne or sparkling wine, mint sprig"
+3178,Hemingway's Nog,Rum - Daiquiris,Dark rum
+3179,Hemingway's Nog,Rum - Daiquiris,Vanilla liqueur
+3180,Hemingway's Nog,Rum - Daiquiris,Simple Syrup
+3181,Hemingway's Nog,Rum - Daiquiris,Creme fraiche
+3182,Hemingway's Nog,Rum - Daiquiris,"tiki bitters, such as Bittermen's Elemakule"
+3183,Flying Scotchman Cocktail,Cocktail Classics,Sweet Vermouth
+3184,Flying Scotchman Cocktail,Cocktail Classics,Desmond & Duff Scotch Whisky
+3185,Flying Scotchman Cocktail,Cocktail Classics,Bitters
+3186,Flying Scotchman Cocktail,Cocktail Classics,Sugar Syrup
+3187,Flying Grasshopper Cocktail,Cocktail Classics,Old Mr. Boston Green Creme de Menthe
+3188,Flying Grasshopper Cocktail,Cocktail Classics,Old Mr. Boston White Creme de Cacao
+3189,Flying Grasshopper Cocktail,Cocktail Classics,Old Mr. Boston Vodka
+3190,Havana Cocktail,Rum - Daiquiris,Light Rum
+3191,Havana Cocktail,Rum - Daiquiris,Pineapple Juice
+3192,Havana Cocktail,Rum - Daiquiris,Fresh lemon juice
+3193,Harvest Nectar,Rum - Daiquiris,Light Rum
+3194,Harvest Nectar,Rum - Daiquiris,Pineapple Juice
+3195,Harvest Nectar,Rum - Daiquiris,Cranberry Juice
+3196,Harvest Nectar,Rum - Daiquiris,Orange juice
+3197,Harvest Nectar,Rum - Daiquiris,Lemon-lime soda
+3198,Fancy Brandy Cocktail,Cocktail Classics,Old Mr. Boston Five Star Brandy
+3199,Fancy Brandy Cocktail,Cocktail Classics,Bitters
+3200,Fancy Brandy Cocktail,Cocktail Classics,Old Mr. Boston Triple Sec
+3201,Fancy Brandy Cocktail,Cocktail Classics,Powdered Sugar
+3202,Fallen Angel Cocktail,Cocktail Classics,Juice of a Lime
+3203,Fallen Angel Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3204,Fallen Angel Cocktail,Cocktail Classics,Bitters
+3205,Fallen Angel Cocktail,Cocktail Classics,Old Mr. Boston White Creme de Menthe
+3206,The Poncho,Tequila,Reposado tequila
+3207,The Poncho,Tequila,Dry Vermouth
+3208,The Poncho,Tequila,Maraschino liqueur
+3209,The Poncho,Tequila,Peychaud's Bitters
+3210,Hai Karate,Rum - Daiquiris,Dark rum
+3211,Hai Karate,Rum - Daiquiris,Fresh Lime Juice
+3212,Hai Karate,Rum - Daiquiris,Pineapple Juice
+3213,Hai Karate,Rum - Daiquiris,Orange juice
+3214,Hai Karate,Rum - Daiquiris,Maple Syrup
+3215,Hai Karate,Rum - Daiquiris,Angostura Bitters
+3216,Cara Sposa,Brandy,Coffee-flavored brandy
+3217,Cara Sposa,Brandy,Triple Sec
+3218,Cara Sposa,Brandy,half-and-half
+3219,Traditional Martini (Dry),Cocktail Classics,Gin
+3220,Traditional Martini (Dry),Cocktail Classics,Dry Vermouth
+3221,Traditional Martini (Dry),Cocktail Classics,Orange Bitters
+3222,Pina Agave,Tequila,Cucumber
+3223,Pina Agave,Tequila,Blanco tequila
+3224,Pina Agave,Tequila,Pineapple Juice
+3225,Pina Agave,Tequila,Fresh lemon juice
+3226,Pina Agave,Tequila,Agave nectar
+3227,Grande Guignol,Rum - Daiquiris,Dark rum
+3228,Grande Guignol,Rum - Daiquiris,Yellow Chartreuse
+3229,Grande Guignol,Rum - Daiquiris,Cherry Heering
+3230,Grande Guignol,Rum - Daiquiris,Fresh Lime Juice
+3231,Pancho Villa,Tequila,Anejo tequila
+3232,Pancho Villa,Tequila,Aperol
+3233,Pancho Villa,Tequila,Sweet Vermouth
+3234,Pancho Villa,Tequila,Peach bitters
+3235,Paloma (Natural),Tequila,Blanco tequila
+3236,Paloma (Natural),Tequila,Fresh white or ruby red grapefruit juice
+3237,Golden Friendship,Rum - Daiquiris,Light Rum
+3238,Golden Friendship,Rum - Daiquiris,Sweet Vermouth
+3239,Golden Friendship,Rum - Daiquiris,Amaretto
+3240,Paloma,Tequila,Blanco tequila
+3241,Pacific Sunshine,Tequila,"Lemon wheel, coarse salt"
+3242,Pacific Sunshine,Tequila,Blanco tequila
+3243,Pacific Sunshine,Tequila,Blue curacao
+3244,Pacific Sunshine,Tequila,Simple Syrup
+3245,Pacific Sunshine,Tequila,Fresh lemon juice
+3246,Pacific Sunshine,Tequila,Angostura Bitters
+3247,Golden Eclipse,Rum - Daiquiris,Dark rum
+3248,Golden Eclipse,Rum - Daiquiris,Amaro
+3249,Golden Eclipse,Rum - Daiquiris,Fresh lemon juice
+3250,Golden Eclipse,Rum - Daiquiris,Orange Bitters
+3251,Golden Eclipse,Rum - Daiquiris,Sparkling apple cider
+3252,Diplomat Cocktail,Cocktail Classics,Dry Vermouth
+3253,Diplomat Cocktail,Cocktail Classics,Sweet Vermouth
+3254,Diplomat Cocktail,Cocktail Classics,Bitters
+3255,Diplomat Cocktail,Cocktail Classics,Maraschino
+3256,Oldest Temptation,Tequila,Anejo tequila
+3257,Oldest Temptation,Tequila,Apple juice
+3258,Oldest Temptation,Tequila,Fresh lemon juice
+3259,Oldest Temptation,Tequila,Triple Sec
+3260,Oldest Temptation,Tequila,Simple Syrup
+3261,Oldest Temptation,Tequila,"Angostura Bitters, flamed lemon twist"
+3262,Ginger Grapefruit Rickey,Rum - Daiquiris,Light Rum
+3263,Ginger Grapefruit Rickey,Rum - Daiquiris,Fresh grapefruit juice
+3264,Ginger Grapefruit Rickey,Rum - Daiquiris,Ginger liqueur
+3265,Ginger Grapefruit Rickey,Rum - Daiquiris,Fresh Lime Juice
+3266,Calvados Cocktail,Brandy,Calvados
+3267,Calvados Cocktail,Brandy,Orange juice
+3268,Calvados Cocktail,Brandy,Triple Sec
+3269,Calvados Cocktail,Brandy,Orange Bitters
+3270,Daiquiri Cocktail,Cocktail Classics,Juice of a Lime
+3271,Daiquiri Cocktail,Cocktail Classics,Powdered Sugar
+3272,Daiquiri Cocktail,Cocktail Classics,Old Mr. Boston Rum
+3273,The Oaxaca Old-Fashioned,Tequila,Reposado tequila
+3274,The Oaxaca Old-Fashioned,Tequila,Mezcal
+3275,The Oaxaca Old-Fashioned,Tequila,Agave nectar
+3276,The Oaxaca Old-Fashioned,Tequila,Angostura Bitters
+3277,Cuban Special Cocktail,Cocktail Classics,Pineapple Juice
+3278,Cuban Special Cocktail,Cocktail Classics,Juice of a Lime
+3279,Cuban Special Cocktail,Cocktail Classics,Old Mr. Boston Rum
+3280,Cuban Special Cocktail,Cocktail Classics,Old Mr. Boston Triple Sec
+3281,Gaugin,Rum - Daiquiris,Light Rum
+3282,Gaugin,Rum - Daiquiris,Fresh lemon juice
+3283,Gaugin,Rum - Daiquiris,Fresh Lime Juice
+3284,Gaugin,Rum - Daiquiris,Passion Fruit Syrup
+3285,The Nomad South,Tequila,Blanco tequila
+3286,The Nomad South,Tequila,Orange juice
+3287,The Nomad South,Tequila,Blood orange juice
+3288,The Nomad South,Tequila,Agave nectar
+3289,The Nomad South,Tequila,Fresh Lime Juice
+3290,The Nomad South,Tequila,Whiskey barrel bitters
+3291,Creole Lady Cocktail,Cocktail Classics,Old Kentucky Tavern Bourbon Whiskey
+3292,Creole Lady Cocktail,Cocktail Classics,Madeira
+3293,Creole Lady Cocktail,Cocktail Classics,Grenadine
+3294,No. 8,Tequila,Reposado tequila
+3295,No. 8,Tequila,Palo cortado or oloroso sherry
+3296,No. 8,Tequila,Honey liqueur
+3297,No. 8,Tequila,Orange Bitters
+3298,Fog Cutter,Rum - Daiquiris,Light Rum
+3299,Fog Cutter,Rum - Daiquiris,Brandy
+3300,Fog Cutter,Rum - Daiquiris,Gin
+3301,Fog Cutter,Rum - Daiquiris,Fresh lemon juice
+3302,Fog Cutter,Rum - Daiquiris,each Orange juice and sweet sherry
+3303,Fog Cutter,Rum - Daiquiris,Almond or orgeat syrup
+3304,Mexicola,Tequila,Blanco tequila
+3305,Mexicola,Tequila,Fresh Lime Juice
+3306,Floridita No. 3,Rum - Daiquiris,Light Rum
+3307,Floridita No. 3,Rum - Daiquiris,Fresh Lime Juice
+3308,Floridita No. 3,Rum - Daiquiris,Grapefruit Juice
+3309,Floridita No. 3,Rum - Daiquiris,Maraschino liqueur
+3310,Floridita No. 3,Rum - Daiquiris,Simple Syrup
+3311,Mexican Monk,Tequila,Reposado tequila
+3312,Mexican Monk,Tequila,Dry Sherry
+3313,Mexican Monk,Tequila,Coffee liqueur
+3314,Mexican Monk,Tequila,Benedictine
+3315,Floridita No. 1,Rum - Daiquiris,Light Rum
+3316,Floridita No. 1,Rum - Daiquiris,Fresh Lime Juice
+3317,Floridita No. 1,Rum - Daiquiris,Sweet Vermouth
+3318,Floridita No. 1,Rum - Daiquiris,White creme de cacao
+3319,Floridita No. 1,Rum - Daiquiris,Grenadine
+3320,Mexican Madras,Tequila,Blanco tequila
+3321,Mexican Madras,Tequila,Cranberry Juice
+3322,Mexican Madras,Tequila,Orange juice
+3323,Mexican Madras,Tequila,Fresh Lime Juice
+3324,Cadiz,Brandy,Blackberry-flavored brandy
+3325,Cadiz,Brandy,Dry Sherry
+3326,Cadiz,Brandy,Triple Sec
+3327,Cadiz,Brandy,half-and-half
+3328,Chocolate Soldier Cocktail,Cocktail Classics,Juice of a Lime
+3329,Chocolate Soldier Cocktail,Cocktail Classics,Dubonnet
+3330,Chocolate Soldier Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3331,Fireman's Sour,Rum - Daiquiris,Light Rum
+3332,Fireman's Sour,Rum - Daiquiris,Fresh Lime Juice
+3333,Fireman's Sour,Rum - Daiquiris,Simple Syrup
+3334,Fireman's Sour,Rum - Daiquiris,Grenadine
+3335,Fat Like Buddha,Rum - Daiquiris,Dark rum
+3336,Fat Like Buddha,Rum - Daiquiris,Dubonnet Rouge
+3337,Fat Like Buddha,Rum - Daiquiris,Benedictine
+3338,Fat Like Buddha,Rum - Daiquiris,Triple Sec
+3339,Cherry Blossom Cocktail,Cocktail Classics,Old Mr. Boston Five Star Brandy
+3340,Cherry Blossom Cocktail,Cocktail Classics,Old Mr. Boston Wild Cherry Flavored Brandy
+3341,Cherry Blossom Cocktail,Cocktail Classics,Old Mr. Boston Triple Sec
+3342,Cherry Blossom Cocktail,Cocktail Classics,Grenadine
+3343,Cherry Blossom Cocktail,Cocktail Classics,Lemon Juice
+3344,Fair-and-Warmer Cocktail,Rum - Daiquiris,Light Rum
+3345,Fair-and-Warmer Cocktail,Rum - Daiquiris,Sweet Vermouth
+3346,Fair-and-Warmer Cocktail,Rum - Daiquiris,Triple Sec
+3347,Chelsea Sidecar Cocktail,Cocktail Classics,Juice of a Lemon
+3348,Chelsea Sidecar Cocktail,Cocktail Classics,Old Mr. Boston Triple Sec
+3349,Chelsea Sidecar Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3350,Mexican Firing Squad,Tequila,Blanco tequila
+3351,Mexican Firing Squad,Tequila,Simple Syrup
+3352,Mexican Firing Squad,Tequila,Fresh Lime Juice
+3353,Mexican Firing Squad,Tequila,pomegranate molasses (available at Middle Eastern grocers)
+3354,Mexican Firing Squad,Tequila,Angostura Bitters
+3355,Mexicana,Tequila,Blanco tequila
+3356,Mexicana,Tequila,Fresh lemon juice
+3357,Mexicana,Tequila,Pineapple Juice
+3358,Mexicana,Tequila,Grenadine
+3359,El Presidente Cocktail No. 2,Rum - Daiquiris,Light Rum
+3360,El Presidente Cocktail No. 2,Rum - Daiquiris,Dry Vermouth
+3361,El Presidente Cocktail No. 2,Rum - Daiquiris,Angostura Bitters
+3362,Margarita Tequila,Shooters,Blanco tequila
+3363,Margarita Tequila,Shooters,Cointreau triple sec
+3364,Margarita Tequila,Shooters,Fresh Lime Juice
+3365,Lillypad,Tequila,Blanco tequila
+3366,Lillypad,Tequila,each Lillet Blanc and Lillet Rouge
+3367,Lillypad,Tequila,Apple juice
+3368,Lillypad,Tequila,Fresh Lime Juice
+3369,Lillypad,Tequila,Agave nectar
+3370,X. Y. Z. Cocktail,Cocktail Classics,Lemon Juice
+3371,X. Y. Z. Cocktail,Cocktail Classics,Old Mr. Boston Triple Sec
+3372,X. Y. Z. Cocktail,Cocktail Classics,Old Mr. Boston Rum
+3373,La Ultima Palabra,Tequila,Blanco tequila
+3374,La Ultima Palabra,Tequila,Fresh grapefruit juice
+3375,La Ultima Palabra,Tequila,Fresh Lime Juice
+3376,La Ultima Palabra,Tequila,Yellow Chartreuse
+3377,La Ultima Palabra,Tequila,Maraschino liqueur
+3378,La Perla,Tequila,Reposado tequila
+3379,La Perla,Tequila,Manzanilla sherry
+3380,La Perla,Tequila,Pear liqueur
+3381,Bull's Milk,Brandy,Brandy
+3382,Bull's Milk,Brandy,Light Rum
+3383,Bull's Milk,Brandy,Simple Syrup
+3384,Bull's Milk,Brandy,Milk
+3385,La Bomba,Tequila,Gold tequila
+3386,La Bomba,Tequila,Triple Sec
+3387,La Bomba,Tequila,Pineapple Juice
+3388,La Bomba,Tequila,Orange juice
+3389,La Bomba,Tequila,"Grenadine, lime wheel"
+3390,Jinx Cocktail,Tequila,Blanco tequila
+3391,Jinx Cocktail,Tequila,Blood orange liqueur
+3392,Jinx Cocktail,Tequila,Becherovka (Czech digestif)
+3393,Jinx Cocktail,Tequila,Fresh grapefruit juice
+3394,The Interesting Cocktail,Tequila,Blanco tequila
+3395,The Interesting Cocktail,Tequila,Aperol
+3396,The Interesting Cocktail,Tequila,Dark creme de cacao
+3397,The Interesting Cocktail,Tequila,Fresh lemon juice
+3398,The Interesting Cocktail,Tequila,Grapefruit twist
+3399,Hot Pants,Tequila,Blanco tequila
+3400,Hot Pants,Tequila,Peppermint schnapps
+3401,Hot Pants,Tequila,Grapefruit Juice
+3402,Hot Pants,Tequila,Simple Syrup
+3403,High Plains Drifter No. 1,Tequila,Campari
+3404,High Plains Drifter No. 1,Tequila,Blanco tequila
+3405,High Plains Drifter No. 1,Tequila,Fresh Lime Juice
+3406,High Plains Drifter No. 1,Tequila,Honey Syrup
+3407,High Plains Drifter No. 1,Tequila,Angostura Bitters
+3408,Hairy Sunrise,Tequila,Blanco tequila
+3409,Hairy Sunrise,Tequila,Vodka
+3410,Hairy Sunrise,Tequila,Triple Sec
+3411,Hairy Sunrise,Tequila,Orange juice
+3412,Hairy Sunrise,Tequila,Fresh grenadine
+3413,Guadalajara,Tequila,Blanco tequila
+3414,Guadalajara,Tequila,Dry Vermouth
+3415,Guadalajara,Tequila,Benedictine
+3416,Frostbite,Tequila,Blanco tequila
+3417,Frostbite,Tequila,White creme de cacao
+3418,Frostbite,Tequila,Heavy cream
+3419,Flower Power,Tequila,Blanco tequila
+3420,Flower Power,Tequila,Grapefruit Juice
+3421,Flower Power,Tequila,Agave nectar
+3422,Flower Power,Tequila,Egg White
+3423,Flower Power,Tequila,Orange blossom water
+3424,Flower Power,Tequila,Peychaud's Bitters
+3425,Cablegram Highball,Cocktail Classics,Juice of a Lemon
+3426,Cablegram Highball,Cocktail Classics,Powdered Sugar
+3427,Cablegram Highball,Cocktail Classics,Old Thompson Blended Whiskey
+3428,Cabaret Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3429,Cabaret Cocktail,Cocktail Classics,Bitters
+3430,Cabaret Cocktail,Cocktail Classics,Dry Vermouth
+3431,Cabaret Cocktail,Cocktail Classics,Benedictine
+3432,Bulla's Eye,Brandy,Brandy
+3433,Bulla's Eye,Brandy,Hard cider
+3434,El Oso (The Bear),Tequila,Anejo tequila
+3435,El Oso (The Bear),Tequila,Honey liqueur
+3436,El Oso (The Bear),Tequila,Maraschino liqueur
+3437,El Oso (The Bear),Tequila,The Bitter Truth's Jerry Thomas' Own Decanter Bitters
+3438,El Ni_o,Tequila,Lime wedges
+3439,El Ni_o,Tequila,Whole strawberry
+3440,El Ni_o,Tequila,Simple Syrup
+3441,El Ni_o,Tequila,Blanco tequila
+3442,El Ni_o,Tequila,Rose water
+3443,El Molino,Tequila,Mezcal
+3444,El Molino,Tequila,Palo cortado or oloroso sherry
+3445,El Molino,Tequila,Allspice liqueur (pimento dram)
+3446,El Molino,Tequila,White creme de cacao
+3447,Bucks Fizz,Cocktail Classics,orange juice
+3448,Dirty Daisy,Tequila,Reposado tequila
+3449,Dirty Daisy,Tequila,White Curacao
+3450,Dirty Daisy,Tequila,Olive brine
+3451,Dirty Daisy,Tequila,Balsamic vinegar
+3452,Dirty Daisy,Tequila,Fresh Lime Juice
+3453,Diablo,Tequila,Blanco tequila
+3454,Diablo,Tequila,Creme de Cassis
+3455,Diablo,Tequila,Fresh Lime Juice
+3456,Count Camillo's Paloma,Tequila,Blanco tequila
+3457,Count Camillo's Paloma,Tequila,Sweet Vermouth
+3458,Count Camillo's Paloma,Tequila,Campari
+3459,Count Camillo's Paloma,Tequila,Grapefruit soda
+3460,Company B,Tequila,"Whole strawberry, hulled"
+3461,Company B,Tequila,Blanco tequila
+3462,Company B,Tequila,Campari
+3463,Company B,Tequila,Triple Sec
+3464,Company B,Tequila,Fresh lemon juice
+3465,Company B,Tequila,"Agave nectar, strawberry slice"
+3466,Chupa Cabra,Tequila,Blanco tequila
+3467,Chupa Cabra,Tequila,Fresh grapefruit juice
+3468,Chupa Cabra,Tequila,Fresh Lime Juice
+3469,Chupa Cabra,Tequila,Campari
+3470,Chupa Cabra,Tequila,Simple Syrup
+3471,Chupa Cabra,Tequila,"Angostura Bitters, lime wheel"
+3472,Chinchona,Tequila,Anejo tequila
+3473,Chinchona,Tequila,Lillet Rouge
+3474,Chinchona,Tequila,Orange curacao
+3475,Chinchona,Tequila,Orange Bitters
+3476,Chapala,Tequila,Reposado tequila
+3477,Chapala,Tequila,Orange juice
+3478,Chapala,Tequila,Fresh lemon juice
+3479,Chapala,Tequila,Grenadine
+3480,Bulldog Cocktail,Brandy,cherry-flavored brandy
+3481,Bulldog Cocktail,Brandy,Gin
+3482,Bulldog Cocktail,Brandy,Fresh lemon juice
+3483,Boston Sidecar Cocktail,Cocktail Classics,Old Mr. Boston Five Star Brandy
+3484,Boston Sidecar Cocktail,Cocktail Classics,Old Mr. Boston Rum
+3485,Boston Sidecar Cocktail,Cocktail Classics,Old Mr. Boston Triple Sec
+3486,Boston Sidecar Cocktail,Cocktail Classics,Juice of a Lime
+3487,Catalina Margarita,Tequila,Blanco tequila
+3488,Catalina Margarita,Tequila,Peach schnapps
+3489,Catalina Margarita,Tequila,Blue curacao
+3490,Catalina Margarita,Tequila,Simple Syrup
+3491,Catalina Margarita,Tequila,Fresh lemon juice
+3492,Camino Del Ray,Tequila,Anejo tequila
+3493,Camino Del Ray,Tequila,Oloroso sherry
+3494,Camino Del Ray,Tequila,Drambuie
+3495,Camino Del Ray,Tequila,Rhubarb bitters
+3496,Cactus Berry,Tequila,Blanco tequila
+3497,Cactus Berry,Tequila,Red wine
+3498,Cactus Berry,Tequila,"each Triple Sec, simple syrup"
+3499,Cactus Berry,Tequila,"each Fresh lemon juice, fresh lime juice"
+3500,Cactus Berry,Tequila,Lemon-lime soda
+3501,Bolero Cocktail,Cocktail Classics,Old Mr. Boston Rum
+3502,Bolero Cocktail,Cocktail Classics,Apple Brandy
+3503,Bolero Cocktail,Cocktail Classics,Sweet Vermouth
+3504,Bum's Rush,Tequila,Blanco tequila
+3505,Bum's Rush,Tequila,Triple Sec
+3506,Bum's Rush,Tequila,Honey liqueur
+3507,Bum's Rush,Tequila,Fresh Lime Juice
+3508,Bum's Rush,Tequila,Fresh apple cider
+3509,Brave Bull,Tequila,Blanco tequila
+3510,Brave Bull,Tequila,Coffee liqueur
+3511,Blue Margarita,Tequila,"Lime juice, coarse salt"
+3512,Blue Margarita,Tequila,Blanco tequila
+3513,Blue Margarita,Tequila,Blue curacao
+3514,Blue Margarita,Tequila,Fresh Lime Juice
+3515,Bloody Maria,Tequila,Blanco tequila
+3516,Bloody Maria,Tequila,Tomato Juice
+3517,Bloody Maria,Tequila,Fresh lemon juice
+3518,Bloody Maria,Tequila,Hot red pepper sauce
+3519,Bloody Maria,Tequila,Celery Salt
+3520,Pineapple Dream Cocktail,Cocktail Classics,Pineapple Juice
+3521,Pineapple Dream Cocktail,Cocktail Classics,Juice of a Lime
+3522,Pineapple Dream Cocktail,Cocktail Classics,Old Mr. Boston Imported Rum
+3523,Big Red Hooter,Tequila,Blanco tequila
+3524,Big Red Hooter,Tequila,Amaretto
+3525,Big Red Hooter,Tequila,Pineapple Juice
+3526,Big Red Hooter,Tequila,Grenadine
+3527,Blood Bronx Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3528,Blood Bronx Cocktail,Cocktail Classics,Dry Vermouth
+3529,Blood Bronx Cocktail,Cocktail Classics,Juice of a Blood Orange
+3530,Bravo,Tequila,Anejo tequila
+3531,Bravo,Tequila,Agave nectar
+3532,Bravo,Tequila,Angostura Bitters
+3533,Bravo,Tequila,Orange Bitters
+3534,Amante Picante,Tequila,Cucumber
+3535,Amante Picante,Tequila,Fresh cilantro sprigs
+3536,Amante Picante,Tequila,Blanco tequila
+3537,Amante Picante,Tequila,Fresh Lime Juice
+3538,Amante Picante,Tequila,Simple Syrup
+3539,Amante Picante,Tequila,"Jalapeno hot pepper sauce, cucumber slice"
+3540,Brunswick Street Cocktail,Brandy,Cognac
+3541,Brunswick Street Cocktail,Brandy,"Sweet sherry, preferably Pedro Ximenez"
+3542,Brunswick Street Cocktail,Brandy,Egg Yolk
+3543,Black Hawk Cocktail,Cocktail Classics,Old Thompson Blended Whiskey
+3544,Black Hawk Cocktail,Cocktail Classics,Old Mr. Boston Sloe Gin
+3545,Alamo Splash,Tequila,Blanco tequila
+3546,Alamo Splash,Tequila,Orange juice
+3547,Alamo Splash,Tequila,Pineapple Juice
+3548,Alamo Splash,Tequila,Lemon-lime soda
+3549,Betsy Ross Cocktail,Cocktail Classics,Old Mr. Boston Five Star Brandy
+3550,Betsy Ross Cocktail,Cocktail Classics,Port
+3551,Betsy Ross Cocktail,Cocktail Classics,Old Mr. Boston Triple Sec
+3552,Betsy Ross Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3553,Bermuda Rose Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3554,Bermuda Rose Cocktail,Cocktail Classics,Old Mr. Boston Apricot Flavored Brandy
+3555,Bermuda Rose Cocktail,Cocktail Classics,Grenadine
+3556,Yokahama Romance,Gin,Sake
+3557,Yokahama Romance,Gin,Gin
+3558,Yokahama Romance,Gin,Maraschino liqueur
+3559,Yokahama Romance,Gin,Unsprayed rose petal
+3560,Yale Cocktail,Gin,Gin
+3561,Yale Cocktail,Gin,Dry Vermouth
+3562,Yale Cocktail,Gin,Blue curacao
+3563,Yale Cocktail,Gin,Angostura Bitters
+3564,Xanthia Cocktail,Gin,Gin
+3565,Xanthia Cocktail,Gin,cherry-flavored brandy
+3566,Xanthia Cocktail,Gin,Yellow Chartreuse
+3567,Woodstock,Gin,Gin
+3568,Woodstock,Gin,Fresh lemon juice
+3569,Woodstock,Gin,Maple Syrup
+3570,Woodstock,Gin,Orange Bitters
+3571,Wolf's Bite,Gin,Gin
+3572,Wolf's Bite,Gin,Grapefruit Juice
+3573,Wolf's Bite,Gin,Green Chartreuse
+3574,Barbary Coast Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3575,Barbary Coast Cocktail,Cocktail Classics,Old Mr. Boston Rum
+3576,Barbary Coast Cocktail,Cocktail Classics,Old Mr. Boston Creme de Cacao
+3577,Barbary Coast Cocktail,Cocktail Classics,Desmond & Duff Scotch Whisky
+3578,Barbary Coast Cocktail,Cocktail Classics,Sweet Cream
+3579,The Winkle,Gin,Fresh sage leaves
+3580,The Winkle,Gin,Gin
+3581,The Winkle,Gin,Fresh Lime Juice
+3582,The Winkle,Gin,Limoncello
+3583,The Winkle,Gin,Simple Syrup
+3584,The Winkle,Gin,"Raspberries, lemon twist"
+3585,The Wink,Gin,Absinthe
+3586,The Wink,Gin,Gin
+3587,The Wink,Gin,Triple Sec
+3588,The Wink,Gin,Simple Syrup
+3589,The Wink,Gin,Peychaud's Bitters
+3590,Will Rogers,Gin,Gin
+3591,Will Rogers,Gin,Dry Vermouth
+3592,Will Rogers,Gin,Orange juice
+3593,Will Rogers,Gin,Triple Sec
+3594,Brandy Vermouth Cocktail,Brandy,Brandy
+3595,Brandy Vermouth Cocktail,Brandy,Sweet Vermouth
+3596,Brandy Vermouth Cocktail,Brandy,Angostura Bitters
+3597,White Spider,Gin,Gin
+3598,White Spider,Gin,Fresh lemon juice
+3599,White Spider,Gin,Triple Sec
+3600,White Spider,Gin,Simple Syrup
+3601,White Lady,Gin,Gin
+3602,White Lady,Gin,Triple Sec
+3603,Western Rose,Gin,Gin
+3604,Western Rose,Gin,Dry Vermouth
+3605,Western Rose,Gin,Apricot-Flavored Brandy
+3606,Western Rose,Gin,Fresh lemon juice
+3607,May Blosson Fizz,Cocktail Classics,Grenadine
+3608,May Blosson Fizz,Cocktail Classics,Juice of a Lemon
+3609,May Blosson Fizz,Cocktail Classics,Swedish Punch
+3610,Wembly Cocktail,Gin,Gin
+3611,Wembly Cocktail,Gin,Dry Vermouth
+3612,Wembly Cocktail,Gin,Apple Brandy
+3613,Wembly Cocktail,Gin,Apricot-Flavored Brandy
+3614,Apple Pie Cocktail,Cocktail Classics,Old Mr. Boston Rum
+3615,Apple Pie Cocktail,Cocktail Classics,Sweet Vermouth
+3616,Apple Pie Cocktail,Cocktail Classics,Apple Flavored Brandy
+3617,Apple Pie Cocktail,Cocktail Classics,Grenadine
+3618,Apple Pie Cocktail,Cocktail Classics,Lemon Juice
+3619,Water Lily,Gin,Gin
+3620,Water Lily,Gin,Triple Sec
+3621,Water Lily,Gin,Creme de violette
+3622,Water Lily,Gin,Fresh lemon juice
+3623,Wallis Blue Cocktail,Gin,"Lime wedge, superfine sugar"
+3624,Wallis Blue Cocktail,Gin,Gin
+3625,Wallis Blue Cocktail,Gin,Triple Sec
+3626,Wallis Blue Cocktail,Gin,Fresh Lime Juice
+3627,Minnehaha Cocktail,Cocktail Classics,Juice of Orange
+3628,Minnehaha Cocktail,Cocktail Classics,Dry Vermouth
+3629,Minnehaha Cocktail,Cocktail Classics,Sweet Vermouth
+3630,Minnehaha Cocktail,Cocktail Classics,Old Mr. Boston Dry Gin
+3631,Wallick Cocktail,Gin,Gin
+3632,Wallick Cocktail,Gin,Dry Vermouth
+3633,Wallick Cocktail,Gin,Triple Sec
+3634,Waikiki Beachcomber,Gin,Gin
+3635,Waikiki Beachcomber,Gin,Triple Sec
+3636,Waikiki Beachcomber,Gin,Pineapple Juice
+3637,Vow Of Silence,Gin,Gin
+3638,Vow Of Silence,Gin,Grapefruit Juice
+3639,Vow Of Silence,Gin,Fresh Lime Juice
+3640,Vow Of Silence,Gin,Yellow Chartreuse
+3641,Vow Of Silence,Gin,Amaro
+3642,Vow Of Silence,Gin,Simple Syrup
